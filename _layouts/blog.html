@@ -49,17 +49,22 @@
     </nav>
     <script type="text/javascript" src="{{ '/files/navbar.js' | relative_url }}"></script>
     
-    <main id="main" class="main blog-main" role="main">
-        <header class="blog-header">
-            <div class="container">
-                <h1 class="blog-title">{{ site.blog.title }}</h1>
-                <p class="blog-subtitle">{{ site.blog.description }}</p>
+    <main id="main" class="main" role="main" data-page-type="overview">
+        <section class="section section-hero module-1-up-super">
+            <div class="section-content">
+                <img class="image-chiclet" src="{{ '/images/icon.png' | relative_url }}" alt="Harvee icon" />
+                <h1 class="typography-hero-eyebrow">{{ site.blog.title }}</h1>
+                <h2 class="typography-headline">{{ site.blog.description }}</h2>
             </div>
-        </header>
+        </section>
         
-        <div class="container">
-            {{ content }}
-        </div>
+        <section class="section module-river-base-left">
+            <div class="section-content">
+                <div class="row-item copy-block large-10 small-12">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
     </main>
     
     <footer id="globalfooter" class="js" lang="en-US" dir="ltr" role="contentinfo" aria-labelledby="gf-label">
