@@ -1,0 +1,75 @@
+# Site settings
+title: "Harvee"
+description: "Read Between the Beats"
+url: "https://harvee.app"
+baseurl: ""
+
+# Author information
+author:
+  name: "Artie"
+  email: "artie@harvee.app"
+  twitter: "@harveeapp"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title
+timezone: "America/New_York"
+
+# Blog settings
+blog:
+  title: "Read Between the Beats"
+  description: "Insights on stress, recovery, and health optimization"
+  paginate: 5
+  paginate_path: "/blog/page:num"
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Harvee Team"
+      show_reading_time: true
+  - scope:
+      path: "blog"
+      type: "pages"
+    values:
+      layout: "blog"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - _site/
+  - .bundle/
+  - run-jekyll.sh

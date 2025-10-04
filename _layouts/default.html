@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta property="og:image" content="{{ site.url }}/images/main-large.png">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" type="text/css" href="{{ '/files/navbar.css' | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/files/footer.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/files/main.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/files/overview.css' | relative_url }}" type="text/css">
+    <link rel="icon" type="image/x-icon" href="{{ '/images/favicon.png' | relative_url }}">
+    <title>{{ page.title | default: site.title }}</title>
+</head>
+
+<body class="page-overview" data-new-gr-c-s-check-loaded="14.1143.0" data-gr-ext-installed="">
+    <input type="checkbox" id="ln-menustate" class="ln-menustate">
+        <div id="ln-sticky-placeholder" class="css-sticky"></div>
+        <nav id="localnav" class="localnav-noborder js no-touch css-sticky" lang="en-US" dir="ltr" data-sticky="" role="navigation" aria-label="Local">
+            <div class="ln-wrapper">
+                <div class="ln-background"></div>
+                <div class="ln-content">
+                    <div class="ln-title">{{ site.title }}</div>
+                    <div class="ln-menu">
+                        <div class="ln-actions">
+                            <div class="ln-action-button">
+                                <a class="ln-button" href="https://testflight.apple.com/join/mFb7yREE">Join Beta</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <script type="text/javascript" src="{{ '/files/navbar.js' | relative_url }}"></script>
+        <main id="main" class="main" role="main" data-page-type="overview">
+            {{ content }}
+        </main>
+        <footer id="globalfooter" class="js" lang="en-US" dir="ltr" role="contentinfo" aria-labelledby="gf-label">
+            <div class="gf-content">
+                <section class="gf-footer">
+                    <div class="gf-footer-legal">
+                        <div class="gf-footer-legal-copyright">Copyright © 2025 Harvee
+                        </div>
+                        <ul class="gf-footer-legal-links" role="list">
+                            <li class="gf-footer-legal-links-item" role="listitem">
+                                <a class="gf-footer-legal-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>
+                            </li>
+                            <li class="gf-footer-legal-links-item" role="listitem">
+                                <a class="gf-footer-legal-link" href="{{ '/terms.html' | relative_url }}">Terms of Use</a>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+            </div>
+        </footer>
+        <!-- Download Canny SDK -->
+        <script>!function(w,d,i,s){function l(){if(!d.getElementById(i)){var f=d.getElementsByTagName(s)[0],e=d.createElement(s);e.type="text/javascript",e.async=!0,e.src="https://canny.io/sdk.js",f.parentNode.insertBefore(e,f)}}if("function"!=typeof w.Canny){var c=function(){c.q.push(arguments)};c.q=[],w.Canny=c,"complete"===d.readyState?l():w.attachEvent?w.attachEvent("onload",l):w.addEventListener("load",l,!1)}}(window,document,"canny-jssdk","script");</script>
+
+        <!-- Use the Canny SDK to identify the current user of your website -->
+        <script>
+        Canny('identify', {
+          appID: '689d710a006e44987698c379',
+          user: {
+            // Replace these values with the current user's data
+            email: user.email,
+            name: user.name,
+            id: user.id,
+
+            // These fields are optional, but recommended:
+            avatarURL: user.avatarURL,
+            created: new Date(user.created).toISOString(),
+          },
+        });
+        </script>
+</body>
+
+</html>

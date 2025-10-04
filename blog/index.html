@@ -1,0 +1,52 @@
+---
+layout: blog
+title: "Read Between the Beats"
+description: "Insights on stress, recovery, and health optimization"
+---
+
+<div class="blog-posts">
+    {% for post in site.posts %}
+    <article class="post-preview">
+        <header class="post-preview-header">
+            <h2 class="post-preview-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+            <div class="post-preview-meta">
+                <time class="post-preview-date" datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                </time>
+                {% if post.show_reading_time %}
+                <span class="post-preview-reading-time">
+                    {% include reading-time.html %}
+                </span>
+                {% endif %}
+            </div>
+        </header>
+        
+        {% if post.description %}
+        <div class="post-preview-excerpt">
+            <p>{{ post.description | escape }}</p>
+        </div>
+        {% elsif post.excerpt %}
+        <div class="post-preview-excerpt">
+            {{ post.excerpt | strip_html | truncate: 200 }}
+        </div>
+        {% endif %}
+        
+        <footer class="post-preview-footer">
+            <a href="{{ post.url | relative_url }}" class="read-more-link">Read more →</a>
+        </footer>
+    </article>
+    {% endfor %}
+</div>
+
+<!-- Pagination will be added when we have more posts -->
+
+<!-- RSS Feed Link -->
+<div class="blog-rss">
+    <p>
+        <a href="{{ '/blog/feed.xml' | relative_url }}" class="rss-link">
+            Subscribe to RSS feed
+        </a>
+    </p>
+</div>

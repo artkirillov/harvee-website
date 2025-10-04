@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>{{ page.title | escape }} - {{ site.title }}</title>
+    
+    <!-- SEO Meta Tags -->
+    {% include seo.html %}
+    
+    <!-- Schema.org structured data -->
+    {% include schema.html %}
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" type="text/css" href="{{ '/files/navbar.css' | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/files/footer.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/files/main.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/files/overview.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/files/blog.css' | relative_url }}" type="text/css">
+    <link rel="icon" type="image/x-icon" href="{{ '/images/favicon.png' | relative_url }}">
+</head>
+
+<body class="page-post">
+    <input type="checkbox" id="ln-menustate" class="ln-menustate">
+    <div id="ln-sticky-placeholder" class="css-sticky"></div>
+    <nav id="localnav" class="localnav-noborder js no-touch css-sticky" lang="en-US" dir="ltr" data-sticky="" role="navigation" aria-label="Local">
+        <div class="ln-wrapper">
+            <div class="ln-background"></div>
+            <div class="ln-content">
+                <div class="ln-title">
+                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                </div>
+                <div class="ln-menu">
+                    <div class="ln-actions">
+                        <div class="ln-action-button">
+                            <a class="ln-button" href="{{ '/' | relative_url }}">Home</a>
+                        </div>
+                        <div class="ln-action-button">
+                            <a class="ln-button" href="{{ '/blog' | relative_url }}">Blog</a>
+                        </div>
+                        <div class="ln-action-button">
+                            <a class="ln-button" href="https://testflight.apple.com/join/mFb7yREE">Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <script type="text/javascript" src="{{ '/files/navbar.js' | relative_url }}"></script>
+    
+    <main id="main" class="main post-main" role="main">
+        <article class="post-article">
+            <header class="post-header">
+                <div class="container">
+                    <div class="post-meta">
+                        <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
+                            {{ page.date | date: "%B %d, %Y" }}
+                        </time>
+                        {% if page.show_reading_time %}
+                        <span class="post-reading-time">
+                            {% include reading-time.html %}
+                        </span>
+                        {% endif %}
+                    </div>
+                    <h1 class="post-title">{{ page.title | escape }}</h1>
+                    {% if page.description %}
+                    <p class="post-excerpt">{{ page.description | escape }}</p>
+                    {% endif %}
+                    <div class="post-author">
+                        By <strong>{{ page.author | default: site.author.name | escape }}</strong>, Founder of Harvee
+                    </div>
+                </div>
+            </header>
+            
+            <div class="post-content">
+                <div class="container">
+                    {{ content }}
+                </div>
+            </div>
+            
+            <footer class="post-footer">
+                <div class="container">
+                    {% if page.tags %}
+                    <div class="post-tags">
+                        <h3>Tags</h3>
+                        <ul class="tag-list">
+                            {% for tag in page.tags %}
+                            <li class="tag-item">
+                                <a href="{{ '/blog/tags/' | append: tag | downcase | replace: ' ', '-' | relative_url }}" class="tag-link">{{ tag | escape }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% endif %}
+                    
+                    <div class="post-cta">
+                        <h3>Ready to optimize your stress and recovery?</h3>
+                        <p>Download Harvee and start monitoring your heart rate variability, tracking your habits, and getting personalized recovery tips.</p>
+                        <a href="https://testflight.apple.com/join/mFb7yREE" class="cta-button">
+                            <img src="{{ '/images/icon.png' | relative_url }}" alt="Harvee icon" class="cta-icon">
+                            Join Beta on TestFlight
+                        </a>
+                    </div>
+                    
+                    <nav class="post-navigation">
+                        <div class="nav-links">
+                            {% if page.previous.url %}
+                            <a href="{{ page.previous.url | relative_url }}" class="nav-previous">
+                                <span class="nav-direction">← Previous</span>
+                                <span class="nav-title">{{ page.previous.title | escape }}</span>
+                            </a>
+                            {% endif %}
+                            {% if page.next.url %}
+                            <a href="{{ page.next.url | relative_url }}" class="nav-next">
+                                <span class="nav-direction">Next →</span>
+                                <span class="nav-title">{{ page.next.title | escape }}</span>
+                            </a>
+                            {% endif %}
+                        </div>
+                    </nav>
+                </div>
+            </footer>
+        </article>
+    </main>
+    
+    <footer id="globalfooter" class="js" lang="en-US" dir="ltr" role="contentinfo" aria-labelledby="gf-label">
+        <div class="gf-content">
+            <section class="gf-footer">
+                <div class="gf-footer-legal">
+                    <div class="gf-footer-legal-copyright">Copyright © 2025 Harvee</div>
+                    <ul class="gf-footer-legal-links" role="list">
+                        <li class="gf-footer-legal-links-item" role="listitem">
+                            <a class="gf-footer-legal-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>
+                        </li>
+                        <li class="gf-footer-legal-links-item" role="listitem">
+                            <a class="gf-footer-legal-link" href="{{ '/terms.html' | relative_url }}">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+    </footer>
+</body>
+
+</html>
