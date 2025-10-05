@@ -1,0 +1,29 @@
+# Quick Copy Frontmatter Template
+# Copy this YAML block for new posts
+
+---
+layout: post
+title: "Your Post Title Here"
+description: "Your meta description here. Keep it under 155 characters and make it compelling."
+date: 2025-01-27
+author: "Artie"
+keywords:
+  - "heart rate variability"
+  - "stress management"
+  - "recovery optimization"
+  - "health monitoring"
+  - "wellness"
+image: "/images/your-featured-image.jpg"
+canonical_url: "https://harvee.app/blog/your-post-slug"
+tags:
+  - "stress"
+  - "recovery"
+  - "health"
+  - "hrv"
+show_reading_time: true
+featured: false
+excerpt: "Brief excerpt that appears in blog listings."
+published: true
+sitemap: true
+robots: "index, follow"
+---
