@@ -301,6 +301,22 @@ h3 #localnav sup {
     --sk-button-margin-vertical: 10px
 }
 
+/* Blog link variant in nav */
+#localnav .blog-link {
+    background: #f0f5ff !important;
+    color: #0057ff !important;
+    border-color: #d6e4ff !important;
+}
+#localnav .blog-link:hover,
+#localnav .blog-link:focus {
+    background: #e6f0ff !important;
+    color: #0047d6 !important;
+    border-color: #c6d8ff !important;
+}
+
+/* Fallback spacing when structure differs (apply spacing on the blog button itself) */
+#localnav .blog-link { margin-right: 24px !important; }
+
 #localnav .ln-button:hover {
     text-decoration: none
 }
