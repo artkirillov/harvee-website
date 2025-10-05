@@ -82,10 +82,4 @@ Post‑pandemic life is about redefining balance. Wearables can be an early‑wa
 
 ---
 
-## Read Between the Beats with Harvee
-
-Ready to take your health monitoring to the next level? **Harvee: Stress Monitor & Recovery Companion** helps you track heart rate variability, understand stress patterns, and optimize recovery.
-
-[Download Harvee on the App Store](https://testflight.apple.com/join/mFb7yREE)
-
-
+*Ready to start monitoring your HRV and optimizing your recovery? Download Harvee and begin your journey to better stress management and health optimization.*
