@@ -87,7 +87,7 @@
                         <ul class="tag-list">
                             {% for tag in page.tags %}
                             <li class="tag-item">
-                                <a href="{{ '/blog/tags/' | append: tag | downcase | replace: ' ', '-' | relative_url }}" class="tag-link">{{ tag | escape }}</a>
+                                <a href="{{ '/blog/tags/' | append: tag | downcase | replace: ' ', '-' | append: '/' | relative_url }}" class="tag-link">{{ tag | escape }}</a>
                             </li>
                             {% endfor %}
                         </ul>

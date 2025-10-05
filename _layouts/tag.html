@@ -1,0 +1,32 @@
+---
+layout: blog
+---
+<div class="blog-posts">
+  <h2 class="post-preview-title" style="margin-bottom: 20px;">Tag: {{ page.title | escape }}</h2>
+  {% assign tagged = site.posts | where_exp:'p', 'p.tags contains page.title' %}
+  {% for post in tagged %}
+    <article class="post-preview">
+      <header class="post-preview-header">
+        <h2 class="post-preview-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+        <div class="post-preview-meta">
+          <time class="post-preview-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+          {% if post.show_reading_time %}
+          <span class="post-preview-reading-time">{% include reading-time.html %}</span>
+          {% endif %}
+        </div>
+      </header>
+      {% if post.description %}
+      <div class="post-preview-excerpt"><p>{{ post.description | escape }}</p></div>
+      {% elsif post.excerpt %}
+      <div class="post-preview-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+      {% endif %}
+      <footer class="post-preview-footer">
+        <a href="{{ post.url | relative_url }}" class="read-more-link">Read more →</a>
+      </footer>
+    </article>
+  {% endfor %}
+  {% if tagged == empty %}
+    <p>No posts for this tag yet.</p>
+  {% endif %}
+</div>
+
