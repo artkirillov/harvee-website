@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
+# Use absolute URL in production; local builds will still serve /sitemap.xml
 Sitemap: https://harvee.app/sitemap.xml
 
 # Disallow admin or private areas (if any)

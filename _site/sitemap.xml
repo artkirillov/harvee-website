@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://0.0.0.0:4000/index/</loc>
-<lastmod>2025-10-05T08:20:34-04:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/blog/understanding-hrv-stress-recovery</loc>
-<lastmod>2025-08-12T00:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/blog/</loc>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/</loc>
-<lastmod>2025-10-04T15:36:10-04:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/privacy-policy.html</loc>
-<lastmod>2025-08-12T16:50:18-04:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/terms.html</loc>
-<lastmod>2025-08-12T16:50:43-04:00</lastmod>
-</url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><!-- Homepage -->
+  <url>
+    <loc>http://0.0.0.0:4000/</loc>
+    <lastmod>2025-10-05T08:22:13-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Blog index page -->
+  <url>
+    <loc>http://0.0.0.0:4000/blog/</loc>
+    <lastmod>2025-10-05T08:22:13-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog posts (published only) --><url>
+    <loc>http://0.0.0.0:4000/blog/understanding-hrv-stress-recovery</loc>
+    <lastmod>2025-08-12T00:00:00-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url><!-- Site pages (output: true) excluding assets and blog post files --><url>
+    <loc>http://0.0.0.0:4000/index/</loc>
+    <lastmod>2025-10-05T08:22:13-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url></urlset>
+
+

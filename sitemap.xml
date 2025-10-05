@@ -1,0 +1,53 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  {%- assign base = site.url | default: 'http://0.0.0.0:4000' -%}
+
+  <!-- Homepage -->
+  <url>
+    <loc>{{ base }}/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Blog index page -->
+  <url>
+    <loc>{{ base }}/blog/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog posts (published only) -->
+  {%- assign posts = site.posts | where_exp: 'p', 'p.published != false' -%}
+  {%- for post in posts -%}
+  <url>
+    <loc>{{ base }}{{ post.url }}</loc>
+    <lastmod>{% if post.last_modified_at %}{{ post.last_modified_at | date_to_xmlschema }}{% else %}{{ post.date | date_to_xmlschema }}{% endif %}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {%- endfor -%}
+
+  <!-- Site pages (output: true) excluding assets and blog post files -->
+  {%- for page in site.pages -%}
+    {%- if page.url and page.url != '/blog/' and page.url != '/' -%}
+      {%- if page.sitemap != false and page.layout != nil -%}
+  <url>
+    <loc>{{ base }}{{ page.url }}</loc>
+    <lastmod>{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+</urlset>
+
+
