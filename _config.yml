@@ -4,6 +4,10 @@ description: "Harvee: Stress Monitor & Recovery Companion"
 url: "https://harvee.app"
 baseurl: ""
 
+# Analytics / Search Console
+google_analytics: "G-7VD9JRQVGR"
+google_site_verification: "prtEYsT9vqrzuqVht0Dop6DX382az0CO8GHqONa3iU8"
+
 # Author information
 author:
   name: "Artie"
