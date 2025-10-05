@@ -2,6 +2,7 @@
 layout: blog
 title: "Read Between the Beats"
 description: "Insights on stress, recovery, and health optimization"
+permalink: /blog/
 ---
 
 <div class="blog-posts">
@@ -22,7 +23,6 @@ description: "Insights on stress, recovery, and health optimization"
                 {% endif %}
             </div>
         </header>
-        
         {% if post.description %}
         <div class="post-preview-excerpt">
             <p>{{ post.description | escape }}</p>
@@ -32,7 +32,6 @@ description: "Insights on stress, recovery, and health optimization"
             {{ post.excerpt | strip_html | truncate: 200 }}
         </div>
         {% endif %}
-        
         <footer class="post-preview-footer">
             <a href="{{ post.url | relative_url }}" class="read-more-link">Read more →</a>
         </footer>
@@ -40,13 +39,14 @@ description: "Insights on stress, recovery, and health optimization"
     {% endfor %}
 </div>
 
-<!-- Pagination will be added when we have more posts -->
-
-<!-- RSS Feed Link -->
 <div class="blog-rss">
     <p>
-        <a href="{{ '/blog/feed.xml' | relative_url }}" class="rss-link">
-            Subscribe to RSS feed
-        </a>
+        <a href="{{ '/blog/feed.xml' | relative_url }}" class="rss-link">Subscribe to RSS feed</a>
     </p>
+    <p>
+        <a href="{{ '/blog/atom.xml' | relative_url }}" class="rss-link">Subscribe to Atom feed</a>
+    </p>
+    
 </div>
+
+
