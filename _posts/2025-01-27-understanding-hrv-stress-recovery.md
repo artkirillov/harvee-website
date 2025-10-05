@@ -1,6 +1,6 @@
 ---
 title: "Understanding HRV: Your Body's Stress and Recovery Dashboard"
-description: "Heart Rate Variability (HRV) is one of the most powerful metrics for understanding your body's stress response and recovery capacity. Learn how to interpret and optimize your HRV for better health."
+description: "What Heart Rate Variability (HRV) is, how it reflects stress and recovery, and how to track and improve it for better health."
 keywords: "HRV, heart rate variability, stress monitoring, recovery, autonomic nervous system, health optimization"
 author: "Artie"
 date: 2025-08-12
@@ -9,6 +9,8 @@ show_reading_time: true
 ---
 
 Heart Rate Variability (HRV) has emerged as one of the most valuable biomarkers for understanding your body's stress response and recovery capacity. Unlike your resting heart rate, which tells you how fast your heart beats, HRV measures the variation in time between each heartbeat—revealing the complex interplay between your sympathetic and parasympathetic nervous systems.
+
+If you're exploring HRV for burnout prevention and recovery coaching, you may also enjoy our guide on wearables and balance: [Burnout Prevention with Wearables](/blog/burnout-prevention-wearables-jalapeno-popper).
 
 ## What is Heart Rate Variability?
 

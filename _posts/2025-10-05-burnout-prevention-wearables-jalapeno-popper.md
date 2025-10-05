@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burnout Prevention in a Post-Pandemic World: How Wearables Can Keep You From Frying Like a Jalapeño Popper"
-description: "How HRV, sleep, and recovery data from wearables can help you spot burnout early and build healthier habits."
+description: "How HRV, sleep, and recovery data from wearables help you spot burnout early and build healthier habits in our post‑pandemic world."
 date: 2025-10-05
 author: "Artie"
 keywords: ["burnout prevention", "wearables", "HRV", "recovery", "stress", "sleep"]
@@ -12,11 +12,13 @@ show_reading_time: true
 published: true
 ---
 
-Your friend “Mark” might sound familiar. During the early pandemic, he built a triple‑monitor command center in his one‑bedroom apartment and insisted he could outwork a robot. His Fitbit kept buzzing that his resting heart rate looked less like rest and more like preparing for a T‑Rex encounter. One night, doomscrolling Slack at 11:47 p.m., he finally admitted: "I think I might be burned out."
+Burnout prevention starts with awareness—especially when HRV, sleep, and recovery trends begin to slide. Your friend “Mark” might sound familiar. During the early pandemic, he built a triple‑monitor command center in his one‑bedroom apartment and insisted he could outwork a robot. His Fitbit kept buzzing that his resting heart rate looked less like rest and more like preparing for a T‑Rex encounter. One night, doomscrolling Slack at 11:47 p.m., he finally admitted: "I think I might be burned out."
 
 The pandemic blurred the line between work and life into a watercolor mess. Kitchens became conference rooms, pajamas became uniforms, and the phrase “work-life balance” turned into “life is work, work is life.” As we try to rebuild healthier boundaries, there’s one tool that can actually help: wearables.
 
 Let’s talk about why strapping tiny computers to our bodies might be the best way to avoid frying like jalapeño poppers under a heat lamp.
+
+Looking for a primer on HRV itself? Read: [Understanding HRV — Your Body's Stress and Recovery Dashboard](/blog/understanding-hrv-stress-recovery).
 
 ## Why wearables are a secret weapon against burnout
 
