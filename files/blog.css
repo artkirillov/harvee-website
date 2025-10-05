@@ -440,17 +440,20 @@
 
 /* RSS Feed */
 .blog-rss {
-    text-align: center;
+    text-align: left;
     margin-top: 40px;
     padding-top: 30px;
     border-top: 1px solid #e5e7eb;
+    margin-bottom: 30px;
 }
 
 .rss-link {
+    display: inline-block;
     color: #667eea;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.2s ease;
+    margin-bottom: 10px;
 }
 
 .rss-link:hover {
