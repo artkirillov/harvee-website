@@ -423,6 +423,41 @@ h3 #localnav sup {
     }
 }
 
+/* Smallest phone tweaks: prevent title/buttons overlap */
+@media only screen and (max-width: 414px) {
+    /* Slightly smaller title on very narrow screens */
+    #localnav .ln-title {
+        font-size: 14px;
+    }
+
+    /* Tighter button sizing and spacing */
+    #localnav .ln-button {
+        font-size: 11px;
+        padding-left: 8px;
+        padding-right: 8px;
+        --sk-button-margin-horizontal: 6px;
+    }
+
+    /* Reduce gap between buttons */
+    #localnav .ln-action-button,
+    #localnav .ln-action-violator {
+        margin-left: 10px;
+    }
+
+    /* Blog pill spacing a bit tighter */
+    #localnav .blog-link { margin-right: 12px !important; }
+}
+
+@media only screen and (max-width: 360px) {
+    /* Extra-tight layout on very small devices */
+    #localnav .ln-title { font-size: 13px; }
+    #localnav .ln-button {
+        font-size: 10px;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+}
+
 #localnav .ln-button-secondary {
     background: #757579;
     color: #fff;
