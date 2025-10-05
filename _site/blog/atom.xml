@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Read Between the Beats</title>
+  <title>Harvee: Read Between the Beats</title>
   <id>http://0.0.0.0:4000/blog/</id>
   <link href="http://0.0.0.0:4000/blog/" rel="alternate" />
   <link href="http://0.0.0.0:4000/blog/atom.xml" rel="self" />
-  <updated>2025-10-05T08:20:34-04:00</updated>
-  <subtitle>Harvee: Stress Monitor &amp; Recovery Companion</subtitle>
+  <updated>2025-10-05T10:59:53-04:00</updated>
+  <subtitle>Stress Monitor &amp; Recovery Companion</subtitle>
 
   
   

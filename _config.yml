@@ -1,6 +1,6 @@
 # Site settings
-title: "Read Between the Beats"
-description: "Harvee: Stress Monitor & Recovery Companion"
+title: "Harvee: Read Between the Beats"
+description: "Stress Monitor & Recovery Companion"
 url: "https://harvee.app"
 baseurl: ""
 
@@ -22,7 +22,7 @@ timezone: "America/New_York"
 
 # Blog settings
 blog:
-  title: "Harvee"
+  title: "Solving the puzzle of resilience"
   description: "Insights on stress, recovery, and health optimization"
   paginate: 5
   paginate_path: "/blog/page:num"
