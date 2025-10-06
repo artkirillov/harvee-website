@@ -428,6 +428,10 @@ h3 #localnav sup {
     /* Slightly smaller title on very narrow screens */
     #localnav .ln-title {
         font-size: 14px;
+        max-width: 60%; /* reserve room for buttons */
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
     /* Tighter button sizing and spacing */
@@ -441,21 +445,25 @@ h3 #localnav sup {
     /* Reduce gap between buttons */
     #localnav .ln-action-button,
     #localnav .ln-action-violator {
-        margin-left: 10px;
+        margin-left: 8px;
     }
 
     /* Blog pill spacing a bit tighter */
     #localnav .blog-link { margin-right: 12px !important; }
+
+    /* Slightly reduce inner padding to free width */
+    #localnav .ln-content { padding: 0 12px; }
 }
 
 @media only screen and (max-width: 360px) {
     /* Extra-tight layout on very small devices */
-    #localnav .ln-title { font-size: 13px; }
+    #localnav .ln-title { font-size: 13px; max-width: 55%; }
     #localnav .ln-button {
         font-size: 10px;
         padding-left: 6px;
         padding-right: 6px;
     }
+    #localnav .ln-content { padding: 0 10px; }
 }
 
 #localnav .ln-button-secondary {
