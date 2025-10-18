@@ -56,7 +56,7 @@ Modern technology has made HRV monitoring accessible through:
 For accurate readings, measure HRV:
 - At the same time each day (preferably morning)
 - After waking up, before getting out of bed
-- In a consistent position (lying down)
+- In a consistent position (sitting is more preferable than lying down)
 - After at least 3 minutes of rest
 
 ## Interpreting Your HRV Data
