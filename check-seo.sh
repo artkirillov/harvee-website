@@ -91,7 +91,7 @@ else
 fi
 
 # Featured image path exists
-IMAGE=$(printf "%s\n" "$FRONTMATTER" | awk -F": *" '/^image:/ {sub(/^"|"$/,"",$2); print $2; exit}')
+IMAGE=$(printf "%s\n" "$FRONTMATTER" | awk -F": *" '/^image:/ {gsub(/^"|"$/,"",$2); print $2; exit}')
 if [ -z "$IMAGE" ]; then
   fail "Featured image path missing (image:)"
 else
