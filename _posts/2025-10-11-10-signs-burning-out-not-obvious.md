@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Signs You're Burning Out (That Aren't Obvious)"
-description: "Burnout has become so normalized that many of us confuse it with 'being committed' or 'just hustling.' Learn the 10 sneaky signs you might be burning out before your brain starts buffering."
+description: "Burnout is often confused with 'being committed' or 'just hustling.' Learn the 10 sneaky signs you might be burning out before your brain starts buffer."
 date: 2025-10-11
 author: "Artie"
 keywords: ["burnout symptoms", "early signs of burnout", "emotional exhaustion", "work stress", "burnout recovery", "mental fatigue", "burnout prevention", "stress management"]
