@@ -301,11 +301,18 @@ h3 #localnav sup {
     --sk-button-margin-vertical: 10px
 }
 
-/* Blog link variant in nav */
-#localnav .blog-link {
+/* Blog link styled to match App Store badge size/shape */
+#localnav .ln-button.blog-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 32px;
+    padding: 0 12px;
+    border-radius: 10px;
     background: #f0f5ff !important;
     color: #0057ff !important;
     border-color: #d6e4ff !important;
+    font-weight: 700;
 }
 #localnav .blog-link:hover,
 #localnav .blog-link:focus {
