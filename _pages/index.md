@@ -64,20 +64,3 @@ permalink: /
         </div>
     </div>
 </section>
-<section class="section module-river-base-left margin-bottom-40">
-    <div class="section-content">
-        <div class="row-item copy-block large-6 small-12">
-            <h2 class="typography-headline">Join the Beta. Shape the Future.</h2>
-            <p class="typography-intro intro">Everyone is welcome to become a beta tester if interested in health & fitness tracking, HRV and stress management, or helping shape an app during early development. Join us on
-            <a href="https://testflight.apple.com/join/mFb7yREE"> TestFlight</a>
-            to test the latest version and provide feedback. You can also check
-            <a data-canny-link href="https://harvee.canny.io"> roadmap and known bugs</a>.
-            </p>
-        </div>
-        <div class="row-item large-5 small-12 large-offset-2 small-offset-0">
-            <a href="https://testflight.apple.com/join/mFb7yREE">
-                <img class="image-example" src="{{ '/images/example-04.png' | relative_url }}" alt="Harvee beta testing">
-            </a>
-        </div>
-    </div>
-</section>
