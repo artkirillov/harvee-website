@@ -16,7 +16,7 @@ You know that feeling when everything seems fine… until it isn't?
 
 You're powering through deadlines, your third coffee's cooling beside you, and suddenly your body taps you on the shoulder and says, "Hey, remember me?"
 
-That's stress — the kind that doesn't shout, it whispers.
+That's stress - the kind that doesn't shout, it whispers.
 
 And most of us don't hear it until it's too late.
 
@@ -28,26 +28,26 @@ Your body speaks in data: heart rate variability, sleep quality, recovery, caffe
 
 Harvee does.
 
-It reads your body's hidden stress patterns and turns them into something you can actually understand — and act on.
+It reads your body's hidden stress patterns and turns them into something you can actually understand and act on.
 
 Here's how Harvee helps you read between the beats.
 
 ## See What Stress Really Looks Like
 
-Stress isn't just mental. It's physiological — baked into your heart rhythm, your recovery time, and even the way you breathe. Harvee tracks those patterns and makes them visible:
+Stress isn't just mental. Feelings are only part of the story. It's equally physiological, baked into your heart rhythm, your recovery time, and even the way you breathe. Harvee tracks those patterns and makes them visible:
 
 - Daily body stress levels show what's really happening beneath the surface.
 - Heat maps highlight your calmest and most stressful hours.
-- HRV trends predict when you need rest — or when you're ready to push harder.
+- HRV trends predict when you need rest or when you're ready to push harder.
 - Plain-language insights explain what your data means in human terms.
 
-No jargon. No "wellness score" you can't interpret. Just real context about how your body's doing.
+No jargon. No "wellness score" you can't interpret. No "real time stress" when don't even wear your Apple Watch. Just real context about how your body's been doing.
 
 ## Guidance You Can Actually Use
 
 Numbers are only useful if they help you make better choices.
 
-Harvee doesn't just track — it guides.
+Harvee doesn't just track, itguides you and highlights the most important.
 
 - Smart activity recommendations tell you when to rest or move.
 - Balance tracking shows how sleep, exercise, and mindfulness interact.
@@ -70,22 +70,22 @@ Stress isn't your enemy. It's a signal. Harvee helps you learn from it instead o
 
 ## Track What Actually Matters
 
-Harvee connects with Apple Health and your favorite wearables to bring your key signals together in one clear view:
+Harvee connects with Apple Health to bring your key signals together in one clear view:
 
-- Heart rate variability (HRV)
 - Sleep quality and recovery
 - Exercise, steps, and active calories
 - Mindfulness and time in daylight
 - Lifestyle factors: caffeine, alcohol, hydration
 - Stand hours and movement patterns
+- Heart rate variability (HRV)
 
-You don't need to be a biohacker to understand your body — you just need better translation.
+You don't need to be a biohacker to understand your body, you just need better translation.
 
 ## Build Resilience, Not Anxiety
 
 Most health apps make you feel behind. Harvee helps you feel informed.
 
-You'll start noticing how your habits, recovery, and stress interact — and begin making small, confident choices that add up to real resilience.
+You'll start noticing how your habits, recovery, and stress interact and begin making small, confident choices that add up to real resilience.
 
 You'll understand when your body needs rest. When it's ready to perform. And when it's quietly saying, "I'm running low."
 
@@ -95,9 +95,9 @@ Because stress isn't something to eliminate. It's something to manage wisely.
 
 Your health data stays yours.
 
-Harvee doesn't sell, share, or trade personal information. Ever.
+Harvee doesn't store your personal health information. Ever.
 
-We think that's just common sense — and basic respect.
+We think that's just common sense and basic respect.
 
 ## Read Between the Beats
 
