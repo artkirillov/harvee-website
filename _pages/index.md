@@ -11,7 +11,7 @@ permalink: /
         <h1 class="typography-hero-eyebrow"></h1>
         <h2 class="typography-headline">Understand your stress. Master your recovery.</h2>
         <div class="wrapper">
-            <p class="typography-intro-elevated">Harvee helps you understand your stress and recovery patterns using Apple Watch data, then gives personalized tips to improve habits like sleep, movement, mindfulness, hydration, and more — all in a clean, glanceable dashboard. Monitor your daily stress level using HRV and other metrics, get personalized recovery tips, and track core health habits to manage stress better and improve long-term HRV.</p>
+            <p class="typography-intro-elevated">Harvee helps you understand your stress and recovery patterns using Apple Watch data, then gives personalized tips to improve habits like sleep, movement, mindfulness, hydration, and more - all in a clean, glanceable dashboard. Monitor your daily stress level using HRV and other metrics, get personalized recovery tips, and track core health habits to manage stress better and improve long-term HRV.</p>
             <picture>
                 <source media="(max-width: 735px)" srcset="{{ '/images/main-medium.png' | relative_url }}" />
                 <source media="(max-width: 1068px)" srcset="{{ '/images/main-large.png' | relative_url }}" />
