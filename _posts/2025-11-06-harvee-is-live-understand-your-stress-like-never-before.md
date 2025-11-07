@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harvee Is Live! Understand Your Stress Like Never Before"
-description: "Harvee turns your body's signals into insights you can act on. Track HRV, stress, and recovery — and finally understand what your body's saying."
+description: "Harvee turns your body's signals into insights you can act on. Track HRV, stress, and recovery - and finally understand what your body's saying."
 date: 2025-11-06
 author: "Artie"
 keywords: ["harvee app", "HRV tracking", "stress monitoring", "heart rate variability", "stress management app", "recovery tracking", "health monitoring", "burnout prevention", "body stress levels", "health data insights"]
