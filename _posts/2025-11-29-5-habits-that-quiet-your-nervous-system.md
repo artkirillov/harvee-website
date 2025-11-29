@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Habits That Quiet Your Nervous System"
-description: "Five science-backed habits that quiet your nervous system: sleep hygiene, movement, breathwork, daylight, and hydration. No expensive gear required—just simple practices that improve HRV and reduce stress."
+description: "Five science-backed habits that quiet your nervous system: sleep hygiene, movement, breathwork, daylight, and hydration. No expensive gear required, just simple practices that improve HRV and reduce stress."
 date: 2025-11-29
 author: "Artie"
 keywords: ["nervous system", "stress management", "HRV", "sleep hygiene", "mindfulness", "breathwork", "circadian rhythm", "hydration", "stress reduction", "nervous system regulation"]
