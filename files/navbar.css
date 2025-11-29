@@ -2719,7 +2719,7 @@ h3 #localnav sup {
 }
 
 #localnav .ln-title {
-    font-size: 21px;
+    font-size: 18px;
     line-height: 1.14286;
     font-weight: 600;
     letter-spacing: .011em;
@@ -2765,18 +2765,13 @@ h3 #localnav sup {
     font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
 
-/* Reduce title font size for blog and post pages */
-.page-blog #localnav .ln-title,
-.page-post #localnav .ln-title {
-    font-size: 18px;
-}
-
 @media only screen and (max-width: 833px) {
     #localnav .ln-title {
-        font-size: 16px;
+        font-size: 12px;
         line-height: 1.26316;
         font-weight: 600;
         letter-spacing: .012em;
+        margin-top: 10px;
         font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     }
 
@@ -2810,12 +2805,6 @@ h3 #localnav sup {
 
     #localnav .ln-title:lang(zh-TW) {
         font-family: "SF Pro TC", "SF Pro Display", "SF Pro Icons", "PingFang TC", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-    }
-    
-    /* Reduce title font size for blog and post pages on mobile */
-    .page-blog #localnav .ln-title,
-    .page-post #localnav .ln-title {
-        font-size: 12px;
     }
 }
 
