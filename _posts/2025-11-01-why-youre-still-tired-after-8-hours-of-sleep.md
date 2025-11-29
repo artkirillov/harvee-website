@@ -5,7 +5,7 @@ description: "Feeling tired after 8 hours of sleep? Learn why sleep quality matt
 date: 2025-11-01
 author: "Artie"
 keywords: ["why am i tired after 8 hours of sleep", "tired after sleeping 8 hours", "sleep quality vs sleep quantity", "sleep debt recovery", "circadian rhythm fatigue", "sleep and stress", "why do i wake up tired"]
-image: "/images/2025-11-01.png"
+image: "/images/2025-11-01.jpg"
 canonical_url: "https://harvee.app/blog/why-youre-still-tired-after-8-hours-of-sleep"
 tags: ["Sleep", "Sleep Quality", "Circadian Rhythm", "Stress", "Recovery", "Fatigue"]
 show_reading_time: true

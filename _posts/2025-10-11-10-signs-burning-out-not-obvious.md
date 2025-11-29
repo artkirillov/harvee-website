@@ -5,7 +5,7 @@ description: "Burnout is often confused with 'being committed' or 'just hustling
 date: 2025-10-11
 author: "Artie"
 keywords: ["burnout symptoms", "early signs of burnout", "emotional exhaustion", "work stress", "burnout recovery", "mental fatigue", "burnout prevention", "stress management"]
-image: "/images/2025-10-11.png"
+image: "/images/2025-10-11.jpg"
 canonical_url: "https://harvee.app/blog/10-signs-burning-out-not-obvious"
 tags: ["Burnout", "Stress", "Mental Health", "Recovery"]
 show_reading_time: true

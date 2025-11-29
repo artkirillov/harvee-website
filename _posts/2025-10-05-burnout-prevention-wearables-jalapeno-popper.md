@@ -5,7 +5,7 @@ description: "How HRV, sleep, and recovery data from wearables help you spot bur
 date: 2025-10-05
 author: "Artie"
 keywords: ["burnout prevention", "wearables", "HRV", "recovery", "stress", "sleep"]
-image: "/images/2025-10-05.png"
+image: "/images/2025-10-05.jpg"
 canonical_url: "https://harvee.app/blog/burnout-prevention-wearables-jalapeno-popper"
 tags: ["Burnout", "Wearables", "HRV", "Recovery", "Stress"]
 show_reading_time: true

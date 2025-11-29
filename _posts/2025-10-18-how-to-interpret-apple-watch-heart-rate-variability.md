@@ -5,7 +5,7 @@ description: "Learn what Apple Watch HRV means, why it fluctuates, and how to re
 date: 2025-10-18
 author: "Artie"
 keywords: ["apple watch HRV", "heart rate variability explained", "how to read HRV on apple watch", "apple watch heart rate variability accuracy", "HRV meaning", "stress and recovery monitoring", "improve HRV naturally"]
-image: "/images/2025-10-18.png"
+image: "/images/2025-10-18.jpg"
 canonical_url: "https://harvee.app/blog/how-to-interpret-apple-watch-heart-rate-variability"
 tags: ["Apple Watch", "HRV", "Stress", "Recovery", "Health Monitoring"]
 show_reading_time: true

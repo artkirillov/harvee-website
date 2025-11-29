@@ -5,7 +5,7 @@ description: "Learn why HRV drops before you feel stressed and how to use this e
 date: 2025-10-25
 author: "Artie"
 keywords: ["HRV stress", "heart rate variability and stress", "low HRV causes", "HRV recovery", "improve HRV", "stress tracking", "nervous system recovery", "parasympathetic balance"]
-image: "/images/2025-10-25.png"
+image: "/images/2025-10-25.jpg"
 canonical_url: "https://harvee.app/blog/why-your-hrv-drops-before-you-feel-stressed"
 tags: ["HRV", "Stress", "Recovery", "Nervous System", "Health Monitoring"]
 show_reading_time: true
