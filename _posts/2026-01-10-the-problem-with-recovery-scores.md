@@ -75,7 +75,7 @@ A score can't explain that nuance. It can only warn. And humans are very good at
 
 This is where many people start to feel uneasy. Instead of helping them listen to their body, recovery scores can quietly replace that skill. You stop asking: "How do I feel?". And start asking: "What did I do wrong?"
 
-Psychologists call this externalized self-regulation—outsourcing internal judgment to an external authority. In health contexts, this can increase anxiety rather than reduce it, especially when feedback is frequent and unexplained ([Baumeister et al., 2007](https://www.researchgate.net/publication/228079571_The_Strength_Model_of_Self-Control)).
+Psychologists call this externalized self-regulation (outsourcing internal judgment to an external authority). In health contexts, this can increase anxiety rather than reduce it, especially when feedback is frequent and unexplained ([Baumeister et al., 2007](https://www.researchgate.net/publication/228079571_The_Strength_Model_of_Self-Control)).
 
 In other words, the number starts driving the narrative, not the person.
 
@@ -118,7 +118,7 @@ Your nervous system adapts. It anticipates. It compensates. Sometimes you perfor
 
 When data does that, it builds confidence. When it doesn't, it quietly erodes trust. And no score, no matter how polished, should get the final say over how you live in your own body.
 
-If you want to go deeper into how HRV, stress, and recovery actually work together without turning your health data into a daily judgment—this is exactly the space we're exploring at Harvee. Not to score you. But to help you read between the beats.
+If you want to go deeper into how HRV, stress, and recovery actually work together without turning your health data into a daily judgment, this is exactly the space we're exploring at Harvee. Not to score you. But to help you read between the beats.
 
 ---
 

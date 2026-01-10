@@ -83,7 +83,7 @@ Lower overnight RHR usually means your body recovered well.
 
 • Heart rate variability (HRV)
 
-Think of HRV as your recovery bandwidth. Higher overnight HRV usually means you're ready for more load—mental, emotional, or physical.
+Think of HRV as your recovery bandwidth. Higher overnight HRV usually means you're ready for more load: mental, emotional, or physical.
 
 • Sleep regularity
 
