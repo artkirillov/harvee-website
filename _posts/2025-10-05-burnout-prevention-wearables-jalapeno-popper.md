@@ -58,10 +58,10 @@ Think of them as a slightly bossy but well‑meaning friend reminding you that f
 
 Back to Mark. He upgraded his Apple Watch from "notification buzzer" to "stress coach." When HRV trended down and sleep quality looked like a freshman's, he took action.
 
-- Micro‑breaks: Two minutes of guided breathing lowered his stress score from 8/10 to 4/10 within minutes.
+- Micro‑breaks: Two minutes of guided breathing lowered his stress within minutes.
 - Hard stop time: Late work correlated with worse recovery, so he set a 7 PM cut‑off for all work notifications.
 - Walking meetings: Step count up, tension down—and productivity actually improved by 15%.
-- Sleep optimization: He discovered that even 30 minutes of late‑night screen time tanked his recovery score.
+- Sleep optimization: He discovered that even 30 minutes of late‑night screen time tanked his recovery.
 
 No dramatic life overhaul—just paying attention to the body's dashboard and making small, data‑driven adjustments.
 
