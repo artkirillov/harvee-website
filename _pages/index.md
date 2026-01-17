@@ -3,6 +3,7 @@ layout: default
 title: "Harvee: Stress Monitor & Coach"
 description: "Harvee helps you understand your stress and recovery patterns using Apple Watch data, then gives personalized tips to improve habits like sleep, movement, mindfulness, hydration, and more."
 permalink: /
+canonical_url: "https://harvee.app/"
 ---
 
 <section class="section section-hero module-1-up-super">
