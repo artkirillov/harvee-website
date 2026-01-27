@@ -92,4 +92,4 @@ These body signals aren't judgments. They're data. And understanding them early 
 
 Ready to take your health monitoring to the next level? **Harvee: Stress Monitor & Recovery Companion** helps you track heart rate variability, understand stress patterns, and optimize recovery.
 
-[Download Harvee on the App Store](https://apps.apple.com/us/app/id6746194884)
+[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

@@ -100,7 +100,7 @@ Ready to take your health monitoring to the next level? **Harvee: Stress Monitor
 - **Recovery optimization** recommendations tailored to your lifestyle
 - **Habit tracking** to build sustainable wellness routines
 
-[Download Harvee on the App Store](https://apps.apple.com/us/app/id6746194884) and start your journey to better health today.
+[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8) and start your journey to better health today.
 
 ---
 
