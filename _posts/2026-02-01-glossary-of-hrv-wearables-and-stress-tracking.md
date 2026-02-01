@@ -11,10 +11,6 @@ show_reading_time: true
 tags: ["hrv basics", "stress"]
 ---
 
-*A plain-language reference for understanding heart rate variability, recovery, and what your body data really means.*
-
----
-
 ## A
 
 ### Acute Stress
@@ -31,7 +27,7 @@ A physiological effect where parasympathetic (vagal) signals have a stronger imp
 
 **Why it matters:** Explains why vagal "braking" after stress or exercise can be powerful even when the body is still activated.
 
-*Reference: Shaffer & Ginsberg, 2017.*
+**Reference:** Shaffer & Ginsberg, 2017
 
 ### Allostatic Load
 
@@ -39,7 +35,7 @@ The cumulative "wear and tear" on the body from repeated or chronic stress.
 
 **Why it matters:** Sustained low HRV often reflects high allostatic load, not a single bad day.
 
-**Reference:** McEwen BS, Stellar E. *Stress and the individual.* Arch Intern Med, 1993.
+**Reference:** McEwen BS, Stellar E. Stress and the individual. Arch Intern Med, 1993
 
 ### Approximate Entropy (ApEn)
 
@@ -62,7 +58,7 @@ The system that regulates automatic body functions like heart rate, digestion, a
 
 **Why it matters:** HRV reflects how flexible and balanced the ANS is.
 
-**Reference:** Shaffer F, Ginsberg JP. *An overview of HRV metrics.* Front Public Health, 2017.
+**Reference:** Shaffer F, Ginsberg JP. An overview of HRV metrics. Front Public Health, 2017
 
 ---
 
@@ -74,7 +70,7 @@ A fast feedback system that adjusts heart rate in response to blood pressure cha
 
 **Why it matters:** One of the main drivers of resting HRV—often more influential than stress itself.
 
-**Reference:** La Rovere MT et al., *Baroreflex sensitivity and HRV.* Circulation, 2008.
+**Reference:** La Rovere MT et al. Baroreflex sensitivity and HRV. Circulation, 2008
 
 ### Baroreflex Sensitivity (BRS)
 
@@ -90,7 +86,7 @@ Your typical HRV level when measured under consistent conditions (usually mornin
 
 **Why it matters:** HRV must be interpreted relative to your own baseline, not population averages.
 
-**Reference:** Altini M, Plews D. *HRV and training adaptation.* Int J Sports Physiol Perform, 2017.
+**Reference:** Altini M, Plews D. HRV and training adaptation. Int J Sports Physiol Perform, 2017
 
 ---
 
@@ -110,7 +106,7 @@ Stress that persists without sufficient recovery.
 
 **Why it matters:** Chronic stress is associated with prolonged HRV suppression.
 
-**Reference:** Thayer JF et al. *HRV and stress.* Biol Psychol, 2012.
+**Reference:** Thayer JF et al. HRV and stress. Biol Psychol, 2012
 
 ### Circadian Rhythm
 
@@ -118,7 +114,7 @@ Your body's internal 24-hour clock.
 
 **Why it matters:** HRV follows circadian patterns, which is why morning measurements are more reliable.
 
-**Reference:** Portaluppi F et al. *Circadian rhythms and HRV.* Chronobiol Int, 2012.
+**Reference:** Portaluppi F et al. Circadian rhythms and HRV. Chronobiol Int, 2012
 
 ---
 
@@ -130,7 +126,7 @@ Mental exhaustion caused by excessive health data and alerts.
 
 **Why it matters:** Over-monitoring can increase stress and reduce motivation.
 
-**Reference:** Owens J et al. *Wearables and health anxiety.* JMIR, 2018.
+**Reference:** Owens J et al. Wearables and health anxiety. JMIR, 2018
 
 ### Detrended Fluctuation Analysis (DFA α1 / α2)
 
@@ -154,7 +150,7 @@ A method that measures the heart's electrical activity directly.
 
 **Why it matters:** ECG is the gold standard for HRV measurement.
 
-**Reference:** Task Force of the ESC. *Standards of HRV measurement.*, 1996.
+**Reference:** Task Force of the ESC. Standards of HRV measurement. 1996
 
 ### Electrodermal Activity (EDA)
 
@@ -174,7 +170,7 @@ HRV is not produced by one organ or pathway. It emerges from interactions betwee
 
 HRV analysis that looks at how heart rhythm variability is distributed across frequency bands. Useful, but easy to misinterpret without strict measurement conditions.
 
-**Reference:** Shaffer F, Ginsberg JP, 2017.
+**Reference:** Shaffer F, Ginsberg JP, 2017
 
 ---
 
@@ -202,7 +198,7 @@ The number of heartbeats per minute.
 
 **Why it matters:** Heart rate alone does not reflect stress or recovery quality.
 
-**Reference:** Billman GE. *HRV and heart rate.* Front Physiol, 2011.
+**Reference:** Billman GE. HRV and heart rate. Front Physiol, 2011
 
 ### Heart Rate Variability (HRV)
 
@@ -210,7 +206,7 @@ The variation in time between consecutive heartbeats.
 
 **Why it matters:** HRV reflects how well the body adapts to stress and recovers.
 
-**Reference:** Task Force of the ESC, 1996.
+**Reference:** Task Force of the ESC, 1996
 
 ### HRV Biofeedback
 
@@ -218,7 +214,7 @@ A training technique that uses real-time feedback (visual, auditory, or tactile)
 
 **Why it matters:** HRV biofeedback is used to improve autonomic regulation, reduce stress, enhance emotional control, and support recovery.
 
-**Reference:** Lehrer PM, Gevirtz R. HRV biofeedback: How and why does it work? Front Psychol, 2014.
+**Reference:** Lehrer PM, Gevirtz R. HRV biofeedback: How and why does it work? Front Psychol, 2014
 
 ### HRV Triangular Index (HTI)
 
@@ -240,7 +236,7 @@ The ability to sense internal bodily signals.
 
 **Why it matters:** Excessive reliance on data can reduce trust in bodily awareness.
 
-**Reference:** Mehling WE et al. *Interoception and health.* PLoS One, 2012.
+**Reference:** Mehling WE et al. Interoception and health. PLoS One, 2012
 
 ---
 
@@ -342,7 +338,7 @@ HRV measured shortly after waking, before daily stressors. Best single snapshot 
 
 **Why it matters:** It minimizes noise from movement, food, and daily stress.
 
-**Reference:** Altini M, Plews D., 2017.
+**Reference:** Altini M, Plews D, 2017
 
 ---
 
@@ -366,7 +362,7 @@ Negative outcomes caused by negative expectations.
 
 **Why it matters:** Health warnings can increase perceived stress.
 
-**Reference:** Barsky AJ et al. *The nocebo effect.*, JAMA, 2002.
+**Reference:** Barsky AJ et al. The nocebo effect. JAMA, 2002
 
 ### Normal Units (nu)
 
@@ -384,7 +380,7 @@ The branch of the ANS responsible for recovery, digestion, and calming. Acts qui
 
 **Why it matters:** Higher resting parasympathetic activity is associated with higher HRV.
 
-**Reference:** Thayer JF et al., 2010.
+**Reference:** Thayer JF et al, 2010
 
 ### Parasympathetic Rebound
 
@@ -411,7 +407,7 @@ Optical method used by smartwatches to estimate heart activity.
 
 **Why it matters:** Convenient but more sensitive to motion artifacts than ECG.
 
-**Reference:** Charlton PH et al. *PPG for HRV.*, Physiol Meas, 2018.
+**Reference:** Charlton PH et al. PPG for HRV. Physiol Meas, 2018
 
 ### pNN50
 
@@ -441,7 +437,7 @@ Heart rate speeding up during inhalation and slowing during exhalation.
 
 **Why it matters:** A major contributor to short-term HRV.
 
-**Reference:** Grossman P, Taylor EW. *RSA and vagal function.*, Biol Psychol, 2007.
+**Reference:** Grossman P, Taylor EW. RSA and vagal function. Biol Psychol, 2007
 
 ### Respiratory Rate
 
@@ -521,7 +517,7 @@ A combination of duration, continuity, and structure of sleep.
 
 **Why it matters:** Poor sleep strongly suppresses HRV.
 
-**Reference:** Krause AJ et al. *Sleep and HRV.*, Sleep Med Rev, 2017.
+**Reference:** Krause AJ et al. Sleep and HRV. Sleep Med Rev, 2017
 
 ### Stress
 
@@ -529,7 +525,7 @@ A physiological state involving nervous, hormonal, and cardiovascular responses.
 
 **Why it matters:** Stress is not inherently harmful; unresolved stress is.
 
-**Reference:** McEwen BS, 1998.
+**Reference:** McEwen BS, 1998
 
 ### Sympathetic Nervous System (SNS)
 
@@ -559,7 +555,7 @@ HRV metrics calculated directly from beat-to-beat intervals (e.g., RMSSD).
 
 **Why it matters:** Most practical and reliable for daily tracking.
 
-**Reference:** Task Force of the ESC, 1996.
+**Reference:** Task Force of the ESC, 1996
 
 ### TINN
 
@@ -597,7 +593,7 @@ The influence of the vagus nerve on heart activity.
 
 **Why it matters:** HRV reflects vagal modulation but is not identical to vagal tone.
 
-**Reference:** Laborde S et al. *Vagal tone and HRV.*, Front Psychol, 2017.
+**Reference:** Laborde S et al. Vagal tone and HRV. Front Psychol, 2017
 
 ### Vagus Nerve
 
