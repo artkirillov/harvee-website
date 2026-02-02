@@ -8,7 +8,7 @@ permalink: /privacy-policy.html
 <section class="section section-info">
     <div class="section-content">
         <h1 class="typography-info-headline">Harvee Privacy Policy</h1>
-        <p class="large-12 medium-12">Last updated: November 1, 2025</p>
+        <p class="large-12 medium-12">Last updated: February 1, 2026</p>
         <p class="large-12 medium-12">Thank you for using Harvee ("the App"). This Privacy Policy explains how we collect, use, and protect your information in connection with the App.</p>
         
         
@@ -17,6 +17,8 @@ permalink: /privacy-policy.html
         <p class="large-12 medium-12">The App does not collect any personally identifiable information such as your name, address, phone number, or email address.</p>
         <h3 class="medium-8">Usage Data</h3>
         <p class="large-12 medium-12">We may collect non-personal information such as session duration, interactions, and general usage statistics. This information helps us improve the App's performance and user experience.</p>
+        <h3 class="medium-8">Purchase Transaction Information</h3>
+        <p class="large-12 medium-12">We may collect and share purchase transaction information with Apple when you request a refund for an in-app purchase. This information is used solely for refund processing and not for marketing or other purposes.</p>
         
         
         <h2 class="medium-8">2. Health Data</h2>
@@ -41,8 +43,8 @@ permalink: /privacy-policy.html
         <p class="large-12 medium-12">We apply reasonable safeguards to prevent unauthorized access, alteration, disclosure, or destruction of local data.</p>
         
         
-        <h2 class="medium-8">5. Third-Party Services</h2>
-        <p class="large-12 medium-12">The App does not integrate with or share data with any third-party analytics, advertising, or tracking services.</p>
+        <h2 class="medium-8">5. Refund Requests and Data Sharing with Apple</h2>
+        <p class="large-12 medium-12">To help Apple process refund requests for in-app purchases made in the App, we may share certain information about your purchase and app usage with Apple. This may include app usage associated with the purchase, whether the purchase was consumed or not, subscription status, and anonymized device identifiers. Where this information qualifies as personal data under applicable privacy laws, we will only share it with Apple upon your explicit consent. You can revoke your consent to share refund-related purchase data with us or with Apple at any time by contacting us at <a href="mailto:feedback@harvee.app">feedback@harvee.app</a>.</p>
         
         
         <h2 class="medium-8">6. Children's Privacy</h2>

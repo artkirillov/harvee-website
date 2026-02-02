@@ -8,7 +8,7 @@ permalink: /terms.html
 <section class="section section-info">
     <div class="section-content">
         <h1 class="typography-info-headline">Harvee Terms of Use</h1>
-        <p class="large-12 medium-12">Last updated: November 1, 2025</p>
+        <p class="large-12 medium-12">Last updated: February 1, 2026</p>
         <p class="large-12 medium-12">Thank you for using Harvee ("the App"). By downloading or using the App, you agree to comply with and be bound by these Terms of Use. If you do not agree with these terms, please do not use the App.</p>
         
         
