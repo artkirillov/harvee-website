@@ -220,7 +220,7 @@ A training technique that uses real-time feedback (visual, auditory, or tactile)
 
 A geometric HRV metric based on the distribution of RR intervals over time. Total number of RR intervals divided by the height of their histogram. Mostly used in long-term recordings.
 
-**Reference:** [Task Force, 1996](https://pubmed.ncbi.nlm.nih.gov/8598068/)
+**Reference:** [Task Force of the ESC, 1996](https://pubmed.ncbi.nlm.nih.gov/8598068/)
 
 ---
 
