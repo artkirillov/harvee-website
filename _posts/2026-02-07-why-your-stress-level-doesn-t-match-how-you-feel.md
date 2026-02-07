@@ -19,11 +19,11 @@ If you've experienced this apparent contradiction, you're not alone. It's one of
 
 ## The Tale of Two Stresses
 
-Here's the thing: when we say "stress" in everyday conversation, we're usually talking about our mental or emotional state—that feeling of pressure, overwhelm, or anxiety. It's psychological stress, and it lives in our conscious experience. But your heart is tracking something different entirely.
+Here's the thing: when we say "stress" in everyday conversation, we're usually talking about our mental or emotional state that feeling of pressure, overwhelm, or anxiety. It's psychological stress, and it lives in our conscious experience. But your heart is tracking something different entirely.
 
 Heart Rate Variability (HRV), the metric Harvee uses to assess your physiological stress, reflects your autonomic nervous system activity. This is the ancient, largely unconscious control system that's been keeping humans alive for hundreds of thousands of years, managing everything from digestion to immune function to how quickly your heart beats ([Shaffer & Ginsberg, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5624990/)).
 
-Think of it this way: your brain is the narrator of your life story, but your autonomic nervous system is the stage crew, working behind the scenes, making sure the show goes on. And here's the fascinating part—these two don't always agree on what's happening.
+Think of it this way: your brain is the narrator of your life story, but your autonomic nervous system is the stage crew, working behind the scenes, making sure the show goes on. And here's the fascinating part, these two don't always agree on what's happening.
 
 ## When Your Body Knows Something You Don't
 
@@ -50,7 +50,7 @@ You feel mentally relaxed (and you are!), but your body is busy doing maintenanc
 
 Now the flip side: why might you feel frantically stressed while Harvee reports low physiological stress? If you're well-rested, properly fueled, and generally healthy, your body might handle psychological pressure remarkably well, at least in the short term. You've got the physiological resources to manage the acute demand. Your HRV might remain relatively stable even while your subjective experience is one of urgency or anxiety.
 
-There's another possibility too: if you've been under chronic psychological stress for a while, your body may have adapted its baseline. You've normalized the heightened activation. You feel stressed, but your autonomic nervous system has essentially said, "Yeah, yeah, we know. This is just how we live now." The variability patterns might not show acute stress because this is your new normal—which is actually something worth paying attention to ([Kim et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29486547/)).
+There's another possibility too: if you've been under chronic psychological stress for a while, your body may have adapted its baseline. You've normalized the heightened activation. You feel stressed, but your autonomic nervous system has essentially said, "Yeah, yeah, we know. This is just how we live now." The variability patterns might not show acute stress because this is your new normal which is actually something worth paying attention to ([Kim et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29486547/)).
 
 ## So Which One Should I Trust?
 
@@ -84,7 +84,7 @@ Your feelings are valid. Your physiology is valid. And the conversation between 
 
 After all, you wouldn't expect your car's dashboard and your subjective driving experience to tell you identical information: one tells you how you feel behind the wheel, the other tells you what's happening under the hood. Both matter for a safe, smooth journey.
 
-Your body is just doing the same thing—giving you another layer of information to work with. And the more you understand both signals, the better you can take care of the whole system.
+Your body is just doing the same thing giving you another layer of information to work with. And the more you understand both signals, the better you can take care of the whole system.
 
 ---
 
