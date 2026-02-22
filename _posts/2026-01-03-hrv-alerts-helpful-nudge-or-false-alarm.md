@@ -96,7 +96,7 @@ On top of that, apps apply:
 
 - Outlier detection (removing corrupted beats data)
 - Range filtering (excluding physiologically implausible intervals)
-- Statistical cleaning (e.g., IQR-based filtering)
+- Statistical cleaning (e.g., Malik criteria filtering)
 
 So yes, numbers differ. That doesn't mean one is "fake." It means HRV is not a single, absolute value. Consistency over time matters more than the exact number.
 
