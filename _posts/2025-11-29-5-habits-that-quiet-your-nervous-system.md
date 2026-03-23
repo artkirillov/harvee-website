@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Habits That Quiet Your Nervous System"
-description: "Science-backed habits that quiet your nervous system: sleep hygiene, movement, breathwork, daylight, and hydration. No expensive gear required, just simple practices that improve HRV and reduce stress."
+description: "Five science-backed habits to calm your nervous system using sleep, movement, breathwork, daylight, and hydration to support HRV and recovery."
 date: 2025-11-29
 author: "Artie"
 keywords: ["nervous system", "stress management", "HRV", "sleep hygiene", "mindfulness", "breathwork", "circadian rhythm", "hydration", "stress reduction", "nervous system regulation"]
@@ -57,7 +57,7 @@ Try:
 
 - Box breathing (4–4–4–4)
 
-- Long exhale breathing (inhale 4, exhale 6–8, Apple Watch Minfulness app provides similar pace)
+- Long exhale breathing (inhale 4, exhale 6–8; the Apple Watch Mindfulness app provides a similar pace)
 
 - Slow nasal breathing
 
@@ -113,6 +113,6 @@ Your body will notice. And eventually, so will you.
 
 ## Read Between the Beats with Harvee
 
-Ready to take your health monitoring to the next level? **Harvee: Stress Monitor & Recovery Companion** helps you track heart rate variability, understand stress patterns, and optimize recovery.
+Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
 
 [Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

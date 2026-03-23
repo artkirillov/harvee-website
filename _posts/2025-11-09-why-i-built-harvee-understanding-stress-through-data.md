@@ -44,7 +44,7 @@ That search led me to heart rate variability (HRV), a measure of how flexible yo
 
 It was like finding a translator for my body's Morse code. For the first time, I could see the patterns: how sleep and intense exercises affected my recovery, how long stress lingered after a tough day, and how small changes like walking to work or cutting caffeine after 11 AM made a measurable difference.
 
-But there was still a problem: the tools to track HRV were either too technical, too clinical, or too shallow like horoscope. I didn't need a spreadsheet; I needed a partner. I didn't need to be told I'm stressed when I my heart rate goes up during a brisk walk; I needed help to find out if my body is ready for any additional load.
+But there was still a problem: the tools to track HRV were either too technical, too clinical, or too shallow, like a horoscope. I didn't need a spreadsheet; I needed a partner. I didn't need to be told I was stressed when my heart rate went up during a brisk walk; I needed help figuring out whether my body was ready for additional load.
 
 ## Building the Translator I Needed
 
@@ -59,7 +59,7 @@ Harvee is becoming that buddy. It connects with your health data and finds patte
 - Daily body stress levels show what's happening.
 - HRV trends help you know when to push or rest.
 - Heat maps reveal your most and least stressful hours.
-- Everyday activity tracking highlights the small habits like movement, sunlight, mindfulness that support well-beinga and build resilience.
+- Everyday activity tracking highlights small habits like movement, sunlight, and mindfulness that support wellbeing and build resilience.
 - Contextual guidance explains what your metrics actually mean.
 
 It's not about hitting "perfect numbers." It's about building body awareness, the kind that prevents burnout before it happens.

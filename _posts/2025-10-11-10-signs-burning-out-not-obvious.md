@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Signs You're Burning Out (That Aren't Obvious)"
-description: "Burnout is often confused with 'being committed' or 'just hustling.' Learn the 10 sneaky signs you might be burning out before your brain starts buffer."
+description: "Burnout is often confused with being committed or just hustling. Learn 10 early signs burnout may be building before it becomes obvious."
 date: 2025-10-11
 author: "Artie"
 keywords: ["burnout symptoms", "early signs of burnout", "emotional exhaustion", "work stress", "burnout recovery", "mental fatigue", "burnout prevention", "stress management"]
@@ -16,12 +16,12 @@ Burnout has become so normalized that many of us confuse it with "being committe
 
 It doesn't crash in like a storm, it creeps in quietly, disguised as productivity. By the time you realize what's happening, you've already swapped coffee for cortisol and weekends for "catch-up" mode.
 
-Let's talk about the 10 sneaky signs you might be burning out… before your brain starts buffering.
+Let's talk about 10 signs burnout may be building before it becomes obvious.
 
 ## 1. You Feel "Meh" About Things You Used to Love
 
 Remember when you actually looked forward to Friday nights, workouts, or even your morning coffee ritual?
-If everything now feels like a chore, that's emotional exhaustion whispering, "Hey, maybe you need a break."
+If everything now feels like a chore, that can be emotional exhaustion quietly signaling that you need recovery.
 
 Research by Maslach & Leiter (2016) identifies loss of interest and detachment as early burnout indicators. Your brain is trying to protect itself by caring less - unfortunately, it often succeeds.
 
@@ -48,7 +48,7 @@ Your body craves recovery, but your mind has forgotten how to slow down. (Ironic
 
 ## 5. You Wake Up Tired (No Matter How Long You Slept)
 
-You go to bed early, avoid caffeine after 2 PM, and still wake up feeling like you got hit by a Wi-Fi router.
+You go to bed early, avoid caffeine after 2 PM, and still wake up exhausted.
 That's because chronic stress disrupts deep and REM sleep cycles, preventing your brain from doing its nightly reset.
 
 Your body slept but your mind stayed clocked in.
@@ -117,8 +117,8 @@ Now, his motto is simple: "I rest before I break."
 Burnout doesn't explode, it leaks. Slowly. Quietly. Until your motivation, joy, and sense of self are running on fumes.
 The earlier you notice the drain, the easier it is to recharge. So if you're reading this thinking, "Wow, this is me," - take it as a friendly alarm, not a diagnosis.
 
-Because even your phone gets to recharge every night. You deserve at least that much.
+Recovery is not optional. You deserve that same consistency.
 
 ---
 
-*Ready to start monitoring your stress levels and preventing burnout? Download Harvee and begin your journey to better stress management and health optimization.*
+*Curious what your body has been trying to tell you? Download Harvee to spot stress patterns, understand recovery, and make calmer day-to-day decisions.*

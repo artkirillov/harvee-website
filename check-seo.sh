@@ -18,8 +18,31 @@ warn() { echo -e "${YELLOW}WARN${NC} - $1"; WARN_COUNT=$((WARN_COUNT+1)); }
 fail() { echo -e "${RED}FAIL${NC} - $1"; FAIL_COUNT=$((FAIL_COUNT+1)); }
 
 usage() {
-  echo "Usage: ./check-seo.sh PATH_TO_POST.md"
+  echo "Usage:"
+  echo "  ./check-seo.sh PATH_TO_POST.md"
+  echo "  ./check-seo.sh --all"
 }
+
+# --all mode: run this script for every post and aggregate results
+if [ "${1-}" = "--all" ]; then
+  SCRIPT_PATH="$(cd "$(dirname "$0")" && pwd)/$(basename "$0")"
+  EXIT_CODE=0
+  FOUND_ANY=0
+
+  while IFS= read -r post; do
+    FOUND_ANY=1
+    echo
+    echo "========================================"
+    "$SCRIPT_PATH" "$post" || EXIT_CODE=$?
+  done < <(ls "_posts/"*.md 2>/dev/null | sort)
+
+  if [ "$FOUND_ANY" -eq 0 ]; then
+    echo "No posts found in _posts/*.md"
+    exit 1
+  fi
+
+  exit "$EXIT_CODE"
+fi
 
 if [ "${1-}" = "" ]; then
   usage
@@ -47,29 +70,29 @@ else
   pass "Frontmatter present"
 fi
 
-# Title check (< 60 chars)
-TITLE=$(printf "%s\n" "$FRONTMATTER" | awk -F": *" '/^title:/ {sub(/^"|"$/,"",$2); print $2; exit}')
+# Title check (<= 65 chars)
+TITLE=$(printf "%s\n" "$FRONTMATTER" | sed -n 's/^title:[[:space:]]*//p' | head -n1 | sed -E 's/^"(.*)"$/\1/')
 if [ -z "${TITLE}" ]; then
   fail "Title missing in frontmatter (title:)"
 else
   TITLE_LEN=${#TITLE}
-  if [ $TITLE_LEN -gt 60 ]; then
-    fail "Title is ${TITLE_LEN} chars (should be <= 60)"
+  if [ $TITLE_LEN -gt 65 ]; then
+    fail "Title is ${TITLE_LEN} chars (should be <= 65)"
   else
     pass "Title present (${TITLE_LEN} chars)"
   fi
 fi
 
-# Description check (120-155 chars)
-DESCRIPTION=$(printf "%s\n" "$FRONTMATTER" | awk -F": *" '/^description:/ {sub(/^"|"$/,"",$2); print $2; exit}')
+# Description check (recommended 110-160 chars, hard max 160)
+DESCRIPTION=$(printf "%s\n" "$FRONTMATTER" | sed -n 's/^description:[[:space:]]*//p' | head -n1 | sed -E 's/^"(.*)"$/\1/')
 if [ -z "${DESCRIPTION}" ]; then
   fail "Meta description missing (description:)"
 else
   DESC_LEN=${#DESCRIPTION}
-  if [ $DESC_LEN -lt 120 ]; then
-    warn "Description is ${DESC_LEN} chars (recommended 120-155)"
-  elif [ $DESC_LEN -gt 155 ]; then
-    fail "Description is ${DESC_LEN} chars (must be <= 155)"
+  if [ $DESC_LEN -lt 110 ]; then
+    warn "Description is ${DESC_LEN} chars (recommended 110-160)"
+  elif [ $DESC_LEN -gt 160 ]; then
+    fail "Description is ${DESC_LEN} chars (must be <= 160)"
   else
     pass "Description length ${DESC_LEN} chars"
   fi

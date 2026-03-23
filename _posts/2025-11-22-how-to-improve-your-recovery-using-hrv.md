@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Improve Your Recovery Using HRV"
-description: "Learn how to use Heart Rate Variability to improve recovery without overcomplicating your life. Practical steps for better sleep, training, and stress."
+description: "Learn how to use heart rate variability (HRV) to improve recovery without overcomplicating your life, with practical steps for sleep, training, and stress."
 date: 2025-11-22
 author: "Artie"
 keywords: ["HRV recovery", "improve recovery", "heart rate variability recovery", "HRV training", "HRV sleep", "recovery optimization", "stress recovery", "HRV patterns", "nervous system recovery", "recovery strategies"]

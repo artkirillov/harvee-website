@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Your Stress Level Doesn't Match How You Feel"
-description: "Your stress level and how you feel can disagree, that's ok. Why HRV measures body stress, not just mental stress, and what to do when they don't align."
+description: "Your stress level and how you feel can disagree. Learn why HRV measures physiological stress, not just mental stress, and what to do when they do not align."
 date: 2026-02-07
 author: "Artie"
 keywords: ["stress score", "HRV stress", "physiological stress", "psychological stress", "heart rate variability", "autonomic nervous system", "Harvee stress", "stress tracking", "recovery", "yoga and HRV"]
@@ -90,6 +90,6 @@ Your body is just doing the same thing giving you another layer of information t
 
 ## Read Between the Beats with Harvee
 
-Ready to take your health monitoring to the next level? **Harvee: Stress Monitor & Recovery Companion** helps you track heart rate variability, understand stress patterns, and optimize recovery.
+Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
 
 [Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

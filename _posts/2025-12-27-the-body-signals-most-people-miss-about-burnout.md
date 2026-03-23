@@ -13,7 +13,7 @@ tags: ["Burnout", "Stress", "HRV", "Recovery", "Sleep", "Health Monitoring"]
 
 Burnout rarely hits like a cartoon lightning bolt. It creeps in, like a slow drip that eventually fills the bucket. And we often overlook the early, subtle signs because they don't feel like stress.
 
-But your body already knows you're under strain long before you consciously feel overwhelmed and some of that knowledge shows up in measurable data like heart rate variability (HRV), sleep patterns, and recovery signals.
+But your body already knows you're under strain long before you consciously feel overwhelmed, and some of that signal shows up in measurable data like heart rate variability (HRV), sleep patterns, and recovery markers.
 
 Here's how to catch the signals most people miss and why paying attention early matters.
 
@@ -90,6 +90,6 @@ These body signals aren't judgments. They're data. And understanding them early 
 
 ## Read Between the Beats with Harvee
 
-Ready to take your health monitoring to the next level? **Harvee: Stress Monitor & Recovery Companion** helps you track heart rate variability, understand stress patterns, and optimize recovery.
+Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
 
 [Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

@@ -18,7 +18,7 @@ You go to bed at a decent hour. You avoid caffeine after lunch. You even resist 
 
 If that sounds familiar, you're not alone. Feeling tired despite "enough sleep" is one of the most common complaints doctors and sleep researchers hear. So what's going on? Why can you technically sleep eight hours and still wake up foggy, groggy, and vaguely betrayed by your own biology?
 
-Let's break it down. Honestly, simply, and with a little humor because this topic deserves more than the usual "drink more water" advice.
+Let's break it down in plain language, with practical context you can actually use.
 
 ## 1. Not All Sleep Is Equal
 
@@ -104,5 +104,5 @@ So if you're tired after eight hours, it doesn't mean you're broken. It means yo
 
 ---
 
-*Ready to start monitoring your sleep quality and optimizing your recovery? Download Harvee and begin your journey to better stress management and health optimization.*
+*Curious what your body has been trying to tell you? Download Harvee to spot stress patterns, understand recovery, and make calmer day-to-day decisions.*
 

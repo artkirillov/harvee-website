@@ -40,7 +40,7 @@ Your autonomic nervous system senses all of it. HRV starts dropping subtly - day
 
 ### 2. Your Brain Is Slow to Admit Defeat
 
-Humans are great at ignoring stress. We rationalize it:
+Humans are good at normalizing stress. We rationalize it:
 
 "I'm fine."
 
@@ -48,7 +48,7 @@ Humans are great at ignoring stress. We rationalize it:
 
 "I'll catch up on sleep later."
 
-Meanwhile, your heart rhythm is screaming: "We're not fine!"
+Meanwhile, your heart rhythm is signaling: "We're under load."
 
 By the time you feel stressed, your HRV has probably been trending down for a while. A comprehensive review of heart rate variability research indicates that HRV fluctuations often coincide with, or even precede, increases in perceived stress suggesting that HRV can act as an early biomarker of autonomic dysregulation rather than simply a reaction to conscious stress. ([Kim et al., 2018, PMC5900369](https://pmc.ncbi.nlm.nih.gov/articles/PMC5900369/))
 
@@ -80,7 +80,7 @@ Aim for 7–9 hours and consistent sleep times. HRV thrives on predictability.
 
 ### 2. Breathe Like You Mean It
 
-Slow breathing (especially 4-7-8 or box breathing) stimulates your vagus nerve, the main pathway for parasympathetic recovery. You can literally raise HRV in real time by taking a few minutes to breathe deeply and slowly. Science-wise, it's the cheapest biohack you'll ever use.
+Slow breathing (especially 4-7-8 or box breathing) stimulates your vagus nerve, the main pathway for parasympathetic recovery. A few minutes of slow, steady breathing can improve short-term HRV response and help your system settle.
 
 ### 3. Don't Overtrain Recovery
 
@@ -110,4 +110,4 @@ Listen early, and you won't have to fix yourself later. Because the real flex is
 
 ---
 
-*Ready to start monitoring your HRV and optimizing your recovery? Download Harvee and begin your journey to better stress management and health optimization.*
+*Curious what your body has been trying to tell you? Download Harvee to spot stress patterns, understand recovery, and make calmer day-to-day decisions.*

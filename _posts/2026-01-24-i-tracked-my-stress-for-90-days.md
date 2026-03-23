@@ -31,7 +31,7 @@ HRV was the anchor. Not daily values in isolation, but trends over time, measure
 
 ## Week 1–2: everything looks meaningful
 
-The first couple of weeks were entertaining. Every dip felt important. Every rise felt earned. Bad night of sleep? HRV down. Good midnfulness session? HRV up. Glass of wine? HRV tanked.
+The first couple of weeks were entertaining. Every dip felt important. Every rise felt earned. Bad night of sleep? HRV down. Good mindfulness session? HRV up. Glass of wine? HRV tanked.
 
 It was tempting to narrate every change as a cause-and-effect story. The problem is that biology doesn't work like a tidy spreadsheet. Short-term HRV fluctuations are noisy. Breathing, posture, measurement timing, and random physiology all play a role ([Laborde et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28265249/)).
 
@@ -94,6 +94,6 @@ HRV just lets you listen a little earlier than your conscious mind usually does.
 
 ## Read Between the Beats with Harvee
 
-Ready to take your health monitoring to the next level? **Harvee: Stress Monitor & Recovery Companion** helps you track heart rate variability, understand stress patterns, and optimize recovery.
+Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
 
 [Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

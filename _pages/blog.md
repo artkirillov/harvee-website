@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Read Between the Beats"
-description: "Insights on stress, recovery, and health optimization"
+description: "Evidence-based insights on stress, recovery, HRV, and body awareness."
 permalink: /blog/
 ---
 
