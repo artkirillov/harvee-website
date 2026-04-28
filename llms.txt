@@ -1,0 +1,532 @@
+# Harvee
+
+Harvee is a stress monitor and recovery companion app for iPhone and Apple Watch (by Peak Labs Ltd). It tracks HRV, sleep, activity, mindfulness, and more — turning complex biometric data into clear, friendly insights. Tagline: "Read between the beats."
+
+Most stress apps show you a number. Harvee shows you the story behind it. Your Apple Watch is already quietly recording your HRV, heart rate patterns, sleep, and activity around the clock. But raw data isn't insight. Harvee connects those signals into clear daily patterns so you can understand what's draining you, what's helping, and what to do about it.
+
+**What Harvee tracks:**
+- Daily stress level and heat maps (over 7 and 28 days)
+- Most stressful and most relaxed time periods and days
+- HRV trends and personalized recovery recommendations for today, the week, and the month
+- Sleep quality and rest patterns
+- Menstrual cycle
+- Active calories, steps, and exercise minutes
+- Mindfulness, daylight, and stand hours
+- Caffeine, alcohol, and hydration intake
+- Vital body metrics: body temperature, resting heart rate, respiratory rate, blood oxygen
+
+**Requirements:** iPhone with Apple Watch Series 4 or newer, running watchOS 10+.
+
+**App Store:** https://apps.apple.com/us/app/id6746194884
+**Contact:** feedback@harvee.app
+
+**Important:** Harvee is not a medical device and should not replace professional medical advice. It is a supplement to medical care, not a replacement for it.
+
+**Privacy:** Harvee does not collect your personal data. There are no external servers and no account required. All data is pulled from Apple Health, processed locally on your device, and never leaves your phone.
+
+---
+
+## Getting Started
+
+### Harvee on Apple Watch
+
+<!-- Article URL: /getting-started/harvee-on-apple-watch -->
+
+# Harvee on Apple Watch
+
+The Harvee app can only be installed on Apple Watch Series 4 and newer (running watchOS 10+).
+
+## How to Install Harvee on Apple Watch
+
+If Harvee doesn't appear on your watch automatically:
+
+1. Open the Watch app on your iPhone.
+2. Scroll down to the "Available Apps" section.
+3. Find Harvee.
+4. Tap "Install."
+
+In rare cases, the installation might take a bit longer or seem to hang. A simple restart usually fixes this — press and hold both the side button and the Digital Crown together.
+
+## Granting Health Data Access
+
+If you missed the initial permission prompts:
+
+1. Open the Health app on your iPhone.
+2. Tap your profile picture (top right).
+3. Go to: Privacy → Apps.
+4. Select Harvee.
+5. Tap "Turn On All."
+
+## How to Add the Harvee Complication to Your Watch Face
+
+1. Before adding a complication, launch the Harvee app on your watch at least once.
+2. Select the complication in the Watch app on your iPhone (Face Gallery tab) or directly on your watch by long-pressing the screen to edit your face.
+3. To see Harvee's mascot, choose the Health & Fitness face → Modular with multi-color scheme and add the complication to the middle slot.
+4. Scroll to Harvee and select "Average Stress Level."
+5. Tap "Add" at the top.
+
+## Tips for More Accurate Measurements
+
+Wear your watch snugly and slightly above the wrist bone so the sensors can read signals more clearly. The watch also collects vital data while you sleep, so wearing it overnight (if comfortable) gives Harvee the most accurate picture of your recovery.
+
+---
+
+### Harvee User Guide
+
+<!-- Article URL: /getting-started/harvee-user-guide -->
+
+# Harvee User Guide
+
+Harvee is an app for daily tracking of stress, recovery, and the healthy habits that directly impact your well-being and resilience. It helps you better understand your body's signals and make more conscious decisions about balancing activity and rest.
+
+The app has three tabs: **Today**, **Patterns**, and **Playbook**.
+
+## The Today Tab
+
+The Today tab is your primary dashboard for daily use and is fully available in the free version. Here, you'll find all the activities and metrics influencing your stress levels.
+
+At the top of the screen, you'll see your average stress level for the current day, calculated relative to your baseline from the past month. If your stress stays high for several days in a row, it's a sign that your body is gradually overloading and approaching burnout — the right time to slow down, reduce your workload, and prioritize rest. Over time, with the right balance, your stress levels should drop, showing that your body is recovering.
+
+The Today tab also displays physiological indicators that help you spot early signs of declining health or potential illness:
+- Body temperature
+- Resting heart rate
+- Respiratory rate
+- Blood oxygen levels
+
+## The Patterns Tab
+
+The Patterns tab is the hub for deeper analysis and long-term understanding of your state. In the free version, this tab shows demo data; your personal data is unlocked with a Harvee+ subscription.
+
+Here, you can view stress level charts for the week and the last 28 days. This lets you spot recurring patterns and links between stress and specific factors — for example, noticing that your stress peaks every Wednesday due to recurring meetings or a heavy workout session.
+
+It also shows which stress levels dominate over time, helping you make long-term adjustments:
+- If stress is consistently high, it's time to reduce your load.
+- If it's low and stable, your body might be ready for a new challenge.
+
+You'll also find Heart Rate Variability (HRV) analytics here, compared against your 7-day and 4-week baselines. Based on this data, the app offers recommendations on whether to enter recovery mode or if it's safe to increase your physical load.
+
+## The Playbook Tab
+
+The Playbook tab is dedicated to education and understanding the mechanics of stress and recovery. Like the Today tab, it is fully accessible in the free version. This section helps you go beyond just following recommendations — it helps you understand why they work. Here, you'll find materials on:
+- How stress affects the body
+- Recovery techniques
+- Which type of recovery is best for rest days vs. rest weeks
+- The role of sleep in adaptation
+- Habits that help build a more balanced and healthy lifestyle
+
+---
+
+### Harvee+ Subscription
+
+<!-- Article URL: /getting-started/harvee-plus-subscription -->
+
+# Harvee+ Subscription
+
+Harvee+ unlocks the Patterns tab — a section for deep analytics and long-term trends. With a Harvee+ subscription, you get:
+- Data analysis for 7 and 28 days
+- Charts for stress levels and Heart Rate Variability (HRV)
+- HRV comparison against your weekly and monthly baselines
+- Breakdown of stress level distribution
+- Personalized recommendations on workload management
+
+The Today and Playbook tabs remain available to all users without a subscription.
+
+## Trial Period
+
+A trial period may be available when you first sign up for Harvee+.
+- The trial automatically converts into a paid subscription unless canceled in advance.
+- The trial end date is always visible in your Apple ID subscription settings.
+- If you don't plan to continue using Harvee+, cancel at least 24 hours before the trial ends.
+
+## How App Store Subscriptions and Payments Work
+
+All subscriptions, trials, renewals, and payments in Harvee are processed directly by Apple via the App Store. This means we never see your payment details, cannot cancel subscriptions for you, and cannot issue refunds ourselves. Subscription management is handled entirely through your Apple ID.
+
+## Refunds and Billing Questions
+
+If you didn't intend to subscribe, forgot to cancel a trial, or want to request a refund, please contact Apple Support directly. Only they have access to transaction records. Apple Support is usually very responsive in these cases, especially when a renewal was unintentional.
+
+---
+
+### Data and Privacy
+
+<!-- Article URL: /getting-started/data-and-privacy -->
+
+# Data and Privacy
+
+Apple Watch is constantly gathering data, but raw numbers can often feel like a secret code. Harvee translates these changes into plain English.
+
+To truly understand your rhythm, Harvee needs history — roughly 30 days. The more data Apple Watch records, the more accurate your Heart Rate Variability (HRV) baseline becomes, making the app's insights more useful.
+
+The most accurate data is gathered when you wear the watch consistently, especially during sleep. Your body resets at night, and that's when your recovery is most visible.
+
+Harvee uses data from Apple Watch and Apple Health: sleep duration, sleeping heart rate, HRV, oxygen saturation, respiratory rate, and wrist temperature. If something changes significantly, Harvee flags it and suggests what you can do.
+
+**Important:** Apple Watch is a fantastic tool for mindfulness, but it is not a doctor. Harvee helps you make more informed daily decisions and understand yourself better. It is a supplement to medical care, not a replacement for it.
+
+We do not collect your personal data; it remains strictly private. The app has no external servers and doesn't require an account. Data is pulled from Apple Health, processed locally on your device, and cleared when you close the app. It never leaves your phone.
+
+---
+
+## Know Your Body
+
+### Your Heart is Your Compass
+
+<!-- Article URL: /know-your-body/your-heart-is-your-compass -->
+
+# Your Heart is Your Compass
+
+In Harvee, the heart holds a special place. It's not just an organ; it's an internal compass. It lives in its own rhythm, reacts to your emotions, and shows how you're navigating daily life.
+
+Your heart and vessels continuously provide your body with oxygen and nutrients. The good news is that we can influence many factors: how we handle stress, how much we move, and what we eat.
+
+## Small but Vital Steps
+
+- Regular physical activity that you actually enjoy.
+- Tension-relief practices and emotional balance.
+- A diet focused on whole foods; less alcohol, fast food, and processed products.
+- Monitoring blood pressure and blood sugar.
+- Maintaining healthy cholesterol levels.
+- Avoiding smoking.
+
+It's not about extremes. It's about simple, regular habits that support your nervous system and your heart.
+
+## Factors Out of Our Control
+
+- Age
+- Family history and genetics
+- Ethnicity
+- Social and environmental conditions
+
+We can't change these, but we can choose how we respond to them. And that makes all the difference.
+
+## Three Simple Steps to a Healthy Heart
+
+1. Know your blood pressure and cholesterol. It makes decision-making easier.
+2. Move with joy, not out of obligation: a walk, dancing, gardening, or stretching.
+3. Add one more serving of vegetables. A small step with a big impact.
+
+Caring for your heart isn't just about longevity. It's about quality of life and feeling safe in your own body.
+
+---
+
+### HRV 101
+
+<!-- Article URL: /know-your-body/hrv-101 -->
+
+# HRV 101
+
+At first glance, it might seem like the heart works like a metronome: if your heart rate is 60, a beat happens every second. In reality, the intervals vary slightly — one might be 0.9s, the next 1.1s. These fluctuations are called Heart Rate Variability, or HRV.
+
+Why does this matter? Your heart is linked to your autonomic nervous system — the "autopilot" that regulates breathing, digestion, sweating, and more. It balances two forces: the sympathetic (the gas pedal) and the parasympathetic (the brakes).
+
+Low HRV often means stress is rising. High values can be a sign of flexibility and resilience: a state where your body knows how to switch effectively between exertion and recovery.
+
+---
+
+### Why HRV Matters
+
+<!-- Article URL: /know-your-body/why-hrv-matters -->
+
+# Why HRV Matters
+
+The body is constantly interacting with its environment: sounds, light, and various stressors. The brain quickly determines what might be a threat and tells the nervous system how to maintain balance. The heart is at the center of this process.
+
+When you're at rest, the parasympathetic system (the "brakes") is more active. Under stress, the sympathetic system (the "gas") kicks in. Acetylcholine can delay a heartbeat by fractions of a second — it's these micro-shifts that form your HRV.
+
+Breathing also plays a part: on the exhale, parasympathetic tone increases and your heart rate slows slightly. These nuances aren't visible in your average heart rate, but they are clear in your HRV, making it a more sensitive marker of stress resilience.
+
+---
+
+### HRV in Practice
+
+<!-- Article URL: /know-your-body/hrv-in-practice -->
+
+# HRV in Practice
+
+To get the most out of HRV, follow three steps: gather accurate data, measure at the right time, and interpret it wisely.
+
+## Step 1. Accurate Data
+
+You need to precisely record the intervals between heartbeats. Previously, only an ECG or a chest strap could do this. Now, Apple Watch provides comparable accuracy for everyday use.
+
+## Step 2. The Right Moment
+
+Context is everything. The most reliable way is a morning measurement right after waking up, before food, coffee, or activity. For example, try a one-minute breathing session in the Mindfulness app while still in bed.
+
+## Step 3. Assessing Averages and Ranges
+
+HRV fluctuates, and that's normal. What matters is whether a value falls outside your usual range and how often. Sustained deviations are a signal to pay attention, rest, or adjust your workload.
+
+Think of HRV as your "readiness" indicator. Normal levels mean you can push yourself harder. A drop means you should take a step back and let your body recover.
+
+The power of HRV lies in timing. By giving your body the right stimulus at the right moment, you'll adapt better and avoid burnout.
+
+---
+
+## Decoding Stress
+
+### What is Stress?
+
+<!-- Article URL: /decoding-stress/what-is-stress -->
+
+# What is Stress?
+
+A century ago, "stress" was a term from physics describing how materials behave under pressure. Over time, we applied it to ourselves, and the word stuck.
+
+Stress isn't just one thing. It's subjective and multifaceted. A deadline, a fight, uncertainty, a flood of notifications — any of these can be a trigger. We measure it by heart rate, hormones, or that familiar tightening in the chest.
+
+It is both a biological process and the story we tell ourselves. While it once helped us survive, today it's more often triggered by modern life: news, alerts, and work.
+
+The question might not be "how to get rid of stress?" but "what is it telling me?" In small doses, stress is actually helpful, allowing us to adapt to new challenges and grow. But like any medicine, it can be dangerous in large quantities.
+
+---
+
+### The True Nature of Burnout
+
+<!-- Article URL: /decoding-stress/the-true-nature-of-burnout -->
+
+# The True Nature of Burnout
+
+Burnout isn't just being tired. It's a state where your mind, body, and nervous system lose synchronization, and your immunity takes a hit. It's a sign that stress has accumulated for too long, pushing your system into a state of chronic overstrain.
+
+## Why Burnout is Hard to Spot Early
+
+Symptoms vary, but there's a common thread: fatigue and a drop in productivity that doesn't go away even after you rest. Trying to "push through" only makes it worse. What feels like just being "a bit off" can turn into weeks or months of exhaustion.
+
+## Who is at Risk?
+
+Resilience can change with age:
+- Under 30: Burnout can develop over several weeks.
+- Over 30: Sometimes it only takes a couple of weeks without proper recovery.
+
+Recovering from burnout isn't about "taking a day off." It requires a conscious period of rebooting and active work.
+
+## Early Warning Signals
+
+- Drop in motivation and energy
+- Sleep disturbances (too little or too much)
+- Mood swings, anxiety, or apathy
+- Elevated resting heart rate
+- Changes in appetite or weight
+- Persistent muscle fatigue
+- Menstrual cycle disruptions
+- A feeling of emotional numbness
+
+If you recognize these in yourself, slow down. If things don't improve, talk to a doctor. Burnout isn't "weakness"; it's a condition that needs help and treatment.
+
+## Learning to Listen to the Signals
+
+- Track your energy, recovery, and mood — not just your results.
+- Look at the stress indicator in Harvee as an observation tool, not a "grade."
+- If high stress persists for days, it's a clear signal to decelerate.
+
+Recovery isn't just doing nothing; it's a conscious choice to prioritize rest and active restoration.
+
+---
+
+### Stress is Personal
+
+<!-- Article URL: /decoding-stress/stress-is-personal -->
+
+# Stress is Personal
+
+Two people can go through the exact same event and react totally differently. One might let it go easily, while the other loses several nights of sleep. Why? Because stress is rooted in personal experience.
+
+Your reaction depends not just on the event, but on your perception: past experiences, upbringing, genetics, and current state. Your brain doesn't measure "stress units"; it evaluates threat, uncertainty, and control. What energizes one person can exhaust another. That's why it's vital to know your own triggers and limits.
+
+## Why Track Your Stress Level?
+
+When you understand your unique reaction, it's easier to adjust your course in time: slow the pace, add more rest, or lean in when you're ready. It's not about avoiding stress; it's about managing it.
+
+Harvee helps you notice these shifts so you can act mindfully and avoid major drops in performance or burnout.
+
+---
+
+### The Mystery of Exertion
+
+<!-- Article URL: /decoding-stress/the-mystery-of-exertion -->
+
+# The Mystery of Exertion
+
+We're used to separating "stress" from "physical load" — one as mental/emotional, the other as physical. But the boundary is thinner than you think. The same biological mechanism helps you meet a deadline and run up a hill.
+
+In both cases, the brain registers a request for effort and triggers a shared response: adrenaline, noradrenaline, and cortisol. Your heart beats faster, muscles get energy, and your body is ready for action.
+
+A workout is a controlled stressor we choose. Why does some stress strengthen us while other stress wears us down? The answer lies in context, quantity, and control. In sports, you decide when to start, how hard to push, and when to stop. The hormone spike is brief, followed by recovery that makes you more resilient. This is "hormesis" — adaptation to a measured stressor.
+
+When stress is imposed (constant notifications, job uncertainty, social tension), the sense of control vanishes. Those same mechanisms no longer strengthen you — they wear you out. Chronic load without recovery leads to a breakdown.
+
+The paradox is simple: it's not the reaction itself that's the problem, but the repetition of it without a pause. Physical load teaches us the most important lesson: we need challenges to stay alive and adaptive, but we must know how to exit them and let the system reboot.
+
+---
+
+### Stress and Work
+
+<!-- Article URL: /decoding-stress/stress-and-work -->
+
+# Stress and Work
+
+Work is one of the most common and complex sources of stress. It's not just about the schedule or the emails; it's the feeling that your value and safety depend on the result.
+
+Modern work thrives on invisible tension: deadlines, competition, and being constantly reachable. Our biology wasn't designed for endless notifications, but it reacts to them as if they were real threats.
+
+At the same time, moderate pressure can be helpful, sparking focus and effort. The key factor is control. When we have choices in our schedule, priorities, and problem-solving, the brain reads pressure as an opportunity. When choice is removed, that same load becomes an overload.
+
+Chronic work stress doesn't just tire you; it hollows you out. Motivation turns into survival mode. Culture often rewards busyness over balance, making rest feel like a luxury.
+
+But biology doesn't negotiate with ambition. Without sufficient and proper recovery — sleep, quiet, human connection — stress reactions never switch off. We end up living in a state of constant alarm.
+
+The goal isn't to eliminate deadlines, but to create conditions where pressure leads to growth rather than burnout: clear boundaries, more autonomy, and the right to pause. Resilience isn't about "working harder"; it's about working in harmony with your biology.
+
+---
+
+## Unlocking Resilience
+
+### The Simple Magic of Movement
+
+<!-- Article URL: /unlocking-resilience/the-simple-magic-of-movement -->
+
+# The Simple Magic of Movement
+
+A simple walk does much more than just move your body — it clears your mind. In a world that constantly demands more attention and effort, walking remains one of the most accessible and effective ways to restore balance, calm down, and reconnect with yourself.
+
+You don't need special equipment or a gym membership. Walking is available to everyone, almost anywhere. It's gentle on the joints, supports the heart, and suits people of all activity levels — especially those recovering from stress or fatigue. Rhythmic movement helps lower cortisol, the stress hormone. Within minutes, you'll notice your breathing evening out and your thoughts becoming calmer.
+
+Consistent walking has a cumulative effect:
+- It helps normalize blood pressure and cholesterol.
+- It increases stamina and resilience to stress.
+- It supports bone health.
+- Most importantly, it gives your nervous system the chance to switch into recovery mode.
+
+Want to double the benefit? Put on a podcast or an audiobook. Rhythmic movement improves circulation, which helps you better absorb and remember what you hear.
+
+Stressed? Go for a walk. Tired? Go for a walk. Need to clear your head? Go for a walk. Walking isn't just movement. It's a gentle medicine, a way to reclaim calm and clarity without effort.
+
+---
+
+### Sleep 101
+
+<!-- Article URL: /unlocking-resilience/sleep-101 -->
+
+# Sleep 101
+
+The duration and quality of your sleep affect everything in your body, from your energy levels to your emotional stability. It is one of the most vital pillars of health.
+
+## Why Sleep is More Than Just a Break
+
+- **Physical Restoration:** Growth hormones are released during sleep to repair muscles and tissues.
+- **Emotional Balance:** Sufficient sleep lowers anxiety and helps you handle stress more gracefully.
+- **Focus and Memory:** Quality sleep improves attention and helps organize your memories.
+- **Decision Making:** A well-rested brain thinks more clearly and confidently.
+- **Hormonal Balance:** Sleep regulates cortisol, testosterone, and other key hormones.
+- **Immune Defense:** Sleep strengthens your immunity, prepping your body for the day ahead.
+
+## How Much Sleep Do You Need?
+
+Most adults need between 7 and 9 hours. However, this is individual: some thrive on 6, others need 10. The main thing is to listen to how you feel. If you wake up alert and calm, your current routine is likely working.
+
+Consistency is more important than "catching up" on sleep over the weekend. If you're constantly sleep-deprived during the week, your body stays in a state of low-level stress. Chronic sleep deprivation (less than 6 hours) undermines health, even if you don't feel the effects immediately.
+
+## Quality Matters as Much as Quantity
+
+If you're getting enough hours but still wake up exhausted, it's likely a quality issue. Simple steps can help: go to bed and wake up at the same time, avoid screens before bed, and keep your bedroom cool, dark, and quiet. These small changes make a bigger impact than you might think.
+
+---
+
+### Understanding Sleep Quality
+
+<!-- Article URL: /unlocking-resilience/understanding-sleep-quality -->
+
+# Understanding Sleep Quality
+
+Sleep is an active process where your body and nervous system recover from the day's stress. Often, it's not the number of hours but the quality of those hours that determines how ready you are for the new day.
+
+## How Harvee Evaluates Sleep Quality
+
+Harvee calculates a sleep quality score by combining several factors:
+- Total sleep duration
+- Time spent in Deep and REM sleep stages
+- The number and duration of awakenings
+- Consistency of sleep and wake times
+
+## What Your Result Means
+
+- **Excellent:** Deep sleep, full recovery; you feel clear and energized.
+- **Good:** You're rested, but recovery could have been slightly better.
+- **Fair:** Your body didn't fully recover; you might feel irritable or tired.
+- **Poor:** A rough night with little deep sleep or frequent awakenings. Take it easy today and prioritize rest.
+
+## Why it Matters
+
+Chronic poor sleep impairs concentration, mood, and physical recovery. Conversely, quality sleep lowers cortisol, stabilizes the nervous system, and helps you manage stress. It's your primary tool for resilience.
+
+## How to Improve Sleep Quality
+
+If you frequently wake up tired, try adjusting your evening habits. A regular bedtime, no screens before sleep, and a comfortable bedroom environment will yield quick results. The quality of your sleep defines the quality of your next day.
+
+---
+
+### How Sleep Cycles Recharge You
+
+<!-- Article URL: /unlocking-resilience/how-sleep-cycles-recharge-you -->
+
+# How Sleep Cycles Recharge You
+
+Sleep isn't a pause button; it's an active recovery process. Each night, your body goes through 4–6 sleep cycles lasting 90–120 minutes. This natural rhythm helps you handle stress and recover both physically and emotionally.
+
+## Sleep Stages and Their Roles
+
+- **Awake:** Brief awakenings (1–5 mins) are normal if they happen only a few times.
+- **Light Sleep (N1 & N2):** The body begins to relax, heart rate slows, and temperature drops.
+- **Deep Sleep (N3):** Physical recovery happens here; growth hormones are released and the immune system is strengthened.
+- **REM Sleep:** The brain processes emotions and memories, restoring psychological balance.
+
+## What Disrupts Healthy Sleep?
+
+- High stress or anxiety
+- Irregular sleep schedules
+- Late workouts or caffeine
+- Alcohol and over-exhaustion
+- Noise and bright light
+
+Even if you sleep long enough, these factors can degrade your sleep quality — specifically by reducing your Deep and REM stages.
+
+## How to Support Healthy Sleep Cycles
+
+- Keep a consistent sleep/wake schedule.
+- Avoid screens before bed.
+- Keep your bedroom dark, cool, and quiet.
+- Limit caffeine and alcohol.
+- Create a calming evening ritual.
+
+Your body knows how to recover; you just need to provide the right conditions for it.
+
+---
+
+### The Power of Restorative Sleep
+
+<!-- Article URL: /unlocking-resilience/the-power-of-restorative-sleep -->
+
+# The Power of Restorative Sleep
+
+Restorative sleep is your best defense against accumulated stress. It involves two key stages: Deep and REM sleep. During these times, your body and brain recover from physical and emotional exertion.
+
+When you live in a state of constant tension, your nervous system stays on high alert. Restorative sleep helps bring it back into balance.
+
+## What Happens While You Sleep
+
+- **Deep Sleep:** The body repairs tissue, strengthens the immune system, and lowers cortisol levels.
+- **REM Sleep:** The brain processes emotions, consolidates memory, and restores mental clarity.
+
+## Why it Matters
+
+Without restorative sleep, stress builds up, energy drains, and your mood suffers. But regular, deep sleep makes you calmer, more focused, and more resilient to challenges. It's your natural protective layer.
+
+## How to Improve Recovery During Sleep
+
+- Aim for 7–9 hours.
+- Try to fall asleep within 10–20 minutes — falling asleep instantly can actually be a sign of exhaustion.
+- Stick to the same bedtime and wake-up time, even on weekends.
+
+Consistency is the best way to strengthen your sleep rhythm and make recovery easier.
