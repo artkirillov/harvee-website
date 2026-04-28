@@ -530,3 +530,285 @@ Without restorative sleep, stress builds up, energy drains, and your mood suffer
 - Stick to the same bedtime and wake-up time, even on weekends.
 
 Consistency is the best way to strengthen your sleep rhythm and make recovery easier.
+
+---
+
+## Reference
+
+### Why Your Stress Level Doesn't Match How You Feel
+
+<!-- Article URL: /blog/why-your-stress-level-doesn-t-match-how-you-feel -->
+
+# Why Your Stress Level Doesn't Match How You Feel
+
+You've just wrapped up a relaxing yoga session. You feel zen. You open Harvee, expecting a gold star for your inner peace — and your stress level is elevated. Or maybe it's the opposite: you're racing to meet a deadline, but Harvee says your stress is normal. What gives?
+
+## Two Types of Stress
+
+When we say "stress" in everyday conversation, we're usually talking about our mental or emotional state — the feeling of pressure, overwhelm, or anxiety. That's psychological stress.
+
+Heart Rate Variability (HRV), the metric Harvee uses to assess physiological stress, reflects your autonomic nervous system activity. This is the largely unconscious control system that manages everything from digestion to immune function to how quickly your heart beats.
+
+These two don't always agree on what's happening.
+
+## When Your Body Knows Something You Don't
+
+Your autonomic nervous system responds to physiological demands, not just psychological ones. It's reacting to:
+- Physical recovery needs after exercise or illness
+- Sleep quality and duration from the past several nights
+- Inflammatory processes that may be ramping up before you feel sick
+- Circadian rhythm fluctuations throughout the day
+- Metabolic demands like digestion or blood sugar regulation
+- Accumulated fatigue that hasn't reached your conscious awareness yet
+
+HRV changes can predict upcoming illness before you notice symptoms, detect overtraining before performance drops, and reveal recovery needs that don't "feel" like stress at all.
+
+## The Post-Yoga Paradox
+
+Intense physical activity — even gentle-seeming kinds — requires real physiological work. Muscles need recovery. The cardiovascular system needs to recalibrate. Deep stretching can trigger a temporary stress response as tissues adapt. All of this shows up in HRV as the sympathetic nervous system stays partially activated to manage the recovery process. You feel mentally relaxed, but your body is busy doing maintenance.
+
+## The Deadline That Doesn't Register
+
+If you're well-rested, properly fueled, and generally healthy, your body might handle psychological pressure remarkably well in the short term. Your HRV may remain relatively stable even while your subjective experience is one of urgency or anxiety.
+
+There's another possibility: if you've been under chronic psychological stress for a while, your body may have adapted its baseline. The variability patterns might not show acute stress because this has become your new normal — which is itself worth paying attention to.
+
+## Trust Both Signals
+
+Your feelings give you information about your psychological state, your environment, and your sense of control. Your physiology gives you information about your body's resource state, recovery needs, and underlying health processes that operate below conscious awareness.
+
+When they align — feeling stressed and showing elevated physiological stress — you're experiencing a whole-system response. When they diverge, get curious:
+- "I feel fine but my HRV is low. Am I fighting something off? Do I need more sleep?"
+- "I feel stressed but my HRV is good. My body can handle this — this is psychological stress I can work with."
+
+The next time Harvee's stress reading surprises you, resist the urge to dismiss it as wrong. Your feelings are valid. Your physiology is valid. The conversation between them is where the real insight lives.
+
+---
+
+### HRV and Your Menstrual Cycle
+
+<!-- Article URL: /blog/hrv-and-your-menstrual-cycle-the-science-of-physiological-stress -->
+
+# HRV and Your Menstrual Cycle
+
+Have you ever had weeks where your stress levels are through the roof, even though everything else in your life is fine? You're eating well, sleeping reasonably — and yet you feel utterly fried. Your body isn't imagining things. It's running a different biological program.
+
+## Psychological vs. Physiological Stress
+
+When scientists talk about stress, they don't just mean anxiety. They mean homeostasis disruption — anything that forces your body to expend energy to return to its stable target range. A deadline creates a cortisol spike (psychological stress), but hormonal fluctuations from your menstrual cycle are a form of physiological stress too. You could be perfectly calm and still be under significant physiological stress if your body is in the wrong phase of its cycle.
+
+## The Hormone Story
+
+**Estrogen** dominates the Follicular Phase (first half of the cycle). It's associated with energy, confidence, better insulin sensitivity, and cognitive sharpness.
+
+**Progesterone** takes over in the Luteal Phase (post-ovulation, second half). In theory it's calming — but it also raises core body temperature (a significant physiological stressor), increases insulin resistance, and affects neurotransmitters like GABA and serotonin, contributing to PMS irritability. The dramatic shift between these hormones and their metabolic consequences creates the underlying stress.
+
+## HRV and the Luteal Dip
+
+Here is the most consistent pattern in female physiology research: HRV almost always drops during the Luteal Phase. As soon as ovulation occurs and progesterone takes over, baseline stress rises. Body temperature goes up — a significant caloric drain. Progesterone suppresses parasympathetic activity and stimulates the sympathetic system.
+
+In the two weeks before your period, you are literally shifted into a low-grade state of physiological activation just by existing. Workouts feel harder, recovery is slower, you're more easily annoyed, and you feel less robust. You aren't failing. Your body is occupied. Its baseline level of physiological stress is high, which means you have less capacity for other stressors like work deadlines or intense exercise.
+
+## What This Means in Practice
+
+**Follicular Phase:** This is when you're most resilient. A good time to schedule tough meetings, push hard in training, and take on new challenges. HRV is likely higher; the system is adaptable.
+
+**Luteal Phase:** This is when listening to your body pays off. Prioritize restorative movement (walking, yoga) over high-intensity training. Make space for extra sleep. Recognize your fuse might be shorter, and be a little kinder to yourself.
+
+Knowing that low HRV before your period isn't random — it's a predictable result of your cycle — stops the cycle of self-blame. Your body isn't weak; it's occupied. And understanding that is the first step toward working with your biology rather than against it.
+
+---
+
+### How to Track Stress With Apple Watch
+
+<!-- Article URL: /blog/how-to-track-stress-with-apple-watch -->
+
+# How to Track Stress With Apple Watch
+
+Apple Watch doesn't measure stress directly — but it gives you surprisingly good clues if you know how to read them. Stress tracking isn't about a magic number. It's about patterns, context, and learning what your body does under load.
+
+## What "Stress" Means in Your Body
+
+Stress is a physiological state. When your nervous system senses a challenge — mental, physical, emotional — it shifts gears. Heart rate changes. Hormones move. Breathing patterns adjust. Recovery gets postponed. Apple Watch can't see your thoughts, but it can see the effects of those shifts.
+
+## The Core Signals Apple Watch Uses
+
+### Heart Rate Variability (HRV)
+HRV measures the variation in time between heartbeats. Higher HRV generally reflects a flexible, adaptable nervous system. Lower HRV shows up when your system is under strain. Crucially, HRV often changes before you feel stressed — your body notices the load early, your brain catches up later. That makes it one of the best early signals for accumulating stress.
+
+### Resting Heart Rate (RHR)
+If your resting heart rate is creeping upward over days or weeks, that's often a sign your system isn't fully recovering. It can reflect poor sleep, too much training, mental overload, or illness. Single-day changes don't mean much. Trends do.
+
+### Sleep Quality and Consistency
+Stress disrupts sleep. Poor sleep amplifies stress. It's a feedback loop. Apple Watch helps by showing total sleep time, overnight heart rate, HRV during sleep, and night-to-night consistency. If your sleep gets lighter, shorter, or more restless, your nervous system is often carrying unfinished business from the day.
+
+### Activity and Recovery Balance
+Exercise is a stressor — a useful one, but still a stressor. Stress tracking means looking at how your body responds after activity. If HRV rebounds and heart rate settles, you adapted well. If not, you may be stacking stress instead of building resilience.
+
+## How to Use the Data Effectively
+
+**Look at trends, not single days.** Bad night? Normal. Bad week? Worth paying attention to. Stress builds quietly — the trend is where it shows up.
+
+**Pair the data with real life.** Ask simple questions: How did I sleep before this dip? Was training heavier? Did work spill into the evening? More caffeine? Less daylight? The data becomes meaningful when it meets your memory.
+
+**Use stress data as feedback, not judgment.** Low HRV isn't a failure. High stress isn't a moral flaw. They're signals. The goal isn't to eliminate stress — it's to notice when it's piling up faster than you're recovering.
+
+## How Harvee Fits In
+
+Harvee uses Apple Watch data to do the part your watch doesn't: translation. Instead of showing disconnected metrics, Harvee combines HRV, sleep, activity, and lifestyle signals into a daily stress picture — explaining patterns in plain language and suggesting actions based on recovery, not guilt. Stress awareness should make life easier, not louder.
+
+---
+
+### Glossary of HRV, Wearables, and Stress Tracking
+
+<!-- Article URL: /blog/glossary-of-hrv-wearables-and-stress-tracking -->
+
+# Glossary of HRV, Wearables, and Stress Tracking
+
+A plain-language reference for understanding heart rate variability, recovery, stress tracking, and what your body data really means.
+
+## A
+
+**Acute Stress** — Short-term stress caused by a specific event (meeting, workout, argument, deadline). Acute stress is normal; problems arise when it doesn't resolve.
+
+**Accentuated Antagonism** — A physiological effect where parasympathetic (vagal) signals have a stronger impact when sympathetic activity is already present. Explains why vagal "braking" after stress or exercise can be powerful even when the body is still activated.
+
+**Allostatic Load** — The cumulative wear and tear on the body from repeated or chronic stress. Sustained low HRV often reflects high allostatic load, not a single bad day.
+
+**Approximate Entropy (ApEn)** — A non-linear HRV metric measuring how predictable heart rhythm patterns are. Lower values suggest more rigid physiology; higher values suggest more complexity. Sensitive to data length and noise, which is why it's used less today.
+
+**Artifact** — Any error in heart rhythm data caused by movement, poor sensor contact, missed beats, or electrical noise. Even a single artifact can dramatically distort HRV metrics.
+
+**Autonomic Nervous System (ANS)** — The system that regulates automatic body functions like heart rate, digestion, and breathing. Includes the parasympathetic branch (rest and recovery) and the sympathetic branch (activation and stress). HRV reflects how flexible and balanced the ANS is.
+
+## B
+
+**Baroreflex** — A fast feedback system that adjusts heart rate in response to blood pressure changes. One of the main drivers of resting HRV — often more influential than stress itself.
+
+**Baroreflex Sensitivity (BRS)** — A measure of how strongly heart rate responds to changes in blood pressure. A major driver of resting HRV, often misattributed to "vagal tone."
+
+**Baseline HRV** — Your typical HRV level when measured under consistent conditions (usually mornings at rest). Baselines are individual — comparisons between people are often meaningless. HRV must be interpreted relative to your own baseline.
+
+## C
+
+**Chronic Stress** — Stress that persists without sufficient recovery. Associated with prolonged HRV suppression.
+
+**Circadian Rhythm** — Your body's internal 24-hour clock. HRV follows circadian patterns, which is why morning measurements are more reliable.
+
+## D
+
+**Data Fatigue** — Mental exhaustion caused by excessive health data and alerts. Over-monitoring can increase stress and reduce motivation.
+
+**Detrended Fluctuation Analysis (DFA α1 / α2)** — Non-linear metrics describing short-term (α1) and long-term (α2) correlations in HRV. Used in fatigue, endurance, and overtraining research.
+
+**Dynamic Autonomic Relationship** — The parasympathetic and sympathetic systems do not work like a seesaw. They can increase together, suppress each other, or act independently. This is why simple "balance scores" are misleading.
+
+## E
+
+**ECG (Electrocardiogram)** — A method that measures the heart's electrical activity directly. The gold standard for HRV measurement.
+
+**Electrodermal Activity (EDA)** — Used in some wearables to measure stress via skin conductance. Reflects sympathetic arousal but is highly context- and sweat-dependent; not a direct stress score.
+
+## F
+
+**Frequency-Domain HRV** — HRV analysis that looks at how heart rhythm variability is distributed across frequency bands. Useful, but easy to misinterpret without strict measurement conditions.
+
+## H
+
+**HF Band (High Frequency, 0.15–0.40 Hz)** — Reflects fast heart rhythm oscillations, strongly influenced by breathing. Often associated with parasympathetic modulation — but not a direct vagal meter.
+
+**Heart Rate (HR)** — The number of heartbeats per minute. Heart rate alone does not reflect stress or recovery quality.
+
+**Heart Rate Variability (HRV)** — The variation in time between consecutive heartbeats. Reflects how well the body adapts to stress and recovers.
+
+**HRV Biofeedback** — A training technique that uses real-time feedback to help increase HRV, typically through paced breathing at resonance frequency (~5–6 breaths per minute). Used to improve autonomic regulation, reduce stress, and support recovery.
+
+## I
+
+**Interbeat Interval (IBI / RR Interval)** — The time between consecutive heartbeats. All HRV metrics are derived from these intervals.
+
+**Interoception** — The ability to sense internal bodily signals. Excessive reliance on data can reduce trust in bodily awareness.
+
+## L
+
+**LF Band (Low Frequency, 0.04–0.15 Hz)** — Represents slower oscillations influenced by baroreflex and breathing. Not a clean marker of sympathetic activity.
+
+**LF/HF Ratio** — Often marketed as "autonomic balance." In reality, only meaningful under tightly controlled lab conditions and frequently misleading in daily life. Current scientific consensus treats it as oversimplified.
+
+**LnRMSSD** — Natural logarithm of RMSSD. Used to normalize skewed data and make trend analysis easier. Common in athlete monitoring.
+
+**Long-Term HRV (24-Hour HRV)** — HRV calculated from full-day recordings. Considered the clinical gold standard. Reflects different physiology compared to short-term HRV.
+
+## M
+
+**Measurement Context** — Everything surrounding how HRV is recorded: posture, breathing, time of day, movement, sensor type, and artifacts. Context determines meaning.
+
+**Morning HRV** — HRV measured shortly after waking, before daily stressors. The best single snapshot for tracking trends over time. Minimizes noise from movement, food, and daily stress.
+
+## N
+
+**Non-Linear HRV Metrics** — Metrics that capture complexity and unpredictability rather than magnitude alone. Examples: SD1, SD2, SampEn, DFA.
+
+## P
+
+**Parasympathetic Nervous System (PNS)** — The branch of the ANS responsible for recovery, digestion, and calming. Acts quickly — within milliseconds. Higher resting parasympathetic activity is associated with higher HRV.
+
+**Parasympathetic Rebound** — An increase in parasympathetic activity following intense stress or exertion. Explains high HRV during sleep after hard days.
+
+**Poincaré Plot** — A visual plot of each RR interval against the previous one. Used to derive SD1 (short-term variability) and SD2 (long-term variability).
+
+**PPG (Photoplethysmography)** — Optical method used by smartwatches to estimate heart activity. Convenient but more sensitive to motion artifacts than ECG.
+
+## R
+
+**RR Interval (NN Interval)** — The time in milliseconds between two consecutive heartbeats. All HRV metrics are derived from RR intervals.
+
+**Recovery** — The process of returning to baseline after stress. Recovery capacity matters more than avoiding stress.
+
+**Respiratory Sinus Arrhythmia (RSA)** — Heart rate speeding up during inhalation and slowing during exhalation. A major contributor to short-term HRV.
+
+**Respiratory Rate** — Often derived from the same PPG signal as HRV. Elevated resting respiratory rate can indicate strain or illness even when HRV seems normal.
+
+**RMSSD (Root Mean Square of Successive Differences)** — The most commonly used HRV metric in wearables. Reflects primarily parasympathetic (vagal) modulation. Most robust for short recordings, least affected by breathing variability. The gold standard for daily HRV tracking.
+
+## S
+
+**Sample Entropy (SampEn)** — Measures signal complexity with less sensitivity to noise than Approximate Entropy. Lower entropy = more rigid system.
+
+**SD1 / SD2** — Non-linear HRV metrics from the Poincaré plot. SD1 = short-term variability (related to RMSSD); SD2 = longer-term variability.
+
+**SDNN (Standard Deviation of NN Intervals)** — Standard deviation of all RR intervals. Reflects overall HRV (both sympathetic and parasympathetic influences). Best used in longer recordings (≥5 min, 24h). Not ideal for short daily measurements.
+
+**Short-Term HRV** — HRV calculated from ~5-minute recordings at rest. Reflects parasympathetic activity and baroreflex — not "overall autonomic balance." This is what most morning readiness and stress measurements are based on.
+
+**Sleep Quality** — A combination of duration, continuity, and structure of sleep. Poor sleep strongly suppresses HRV.
+
+**Stress** — A physiological state involving nervous, hormonal, and cardiovascular responses. Not inherently harmful; unresolved stress is.
+
+**Sympathetic Nervous System (SNS)** — The branch of the ANS responsible for activation, alertness, and energy mobilization. Dominance is associated with lower HRV.
+
+## T
+
+**Time-Domain HRV** — HRV metrics calculated directly from beat-to-beat intervals (e.g., RMSSD). Most practical and reliable for daily tracking.
+
+**Trend** — The direction of change over time. Trends matter far more than daily values.
+
+## U
+
+**Ultra-Short-Term HRV (<5 minutes)** — HRV estimated from very brief recordings (10–60 seconds). Convenient but less reliable. Not interchangeable with 5-min or 24-hour HRV.
+
+## V
+
+**Vagal Modulation** — Influence of the vagus nerve on heart rate patterns. HRV is a proxy for this under controlled conditions — not a direct measurement.
+
+**Vagal Tone** — The influence of the vagus nerve on heart activity. HRV reflects vagal modulation but is not identical to vagal tone.
+
+**Vagus Nerve** — A major nerve connecting the brain to the heart and organs. The primary pathway for heart-brain communication, particularly for parasympathetic regulation.
+
+## W
+
+**Wearables** — Consumer technology that measures physiological signals. Accuracy depends on context, algorithms, and data handling. Wearables provide trends, not diagnoses.
+
+## Z
+
+**Z-Scores / Normalized HRV** — HRV expressed relative to personal baseline. Improves interpretability and makes trend analysis more meaningful.
