@@ -249,7 +249,7 @@ body {
     font-weight: 400;
     letter-spacing: -.022em;
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    background-color: var(--bg-color);
+    background-color: var(--card-bg);
     color: var(--text-main);
     font-style: normal
 }
@@ -2301,10 +2301,9 @@ br.small {
 }
 
 .module-1-up-super .image-headline {
-    width: 550px;
     max-width: 100%;
     height: auto;
-    margin-top: 90px;
+    margin-top: 40px;
     object-fit: contain;
     display: block;
     overflow: hidden;
@@ -2315,8 +2314,7 @@ br.small {
 
 @media only screen and (max-width: 1068px) {
     .module-1-up-super .image-headline {
-        margin-top: 72px;
-        width: 500px;
+        margin-top: 20px;
         max-width: 100%;
         height: auto;
     }
@@ -2535,7 +2533,7 @@ br.small {
 }
 
 .module-river-base-left .image-example {
-    width: 180px;
+    width: 250px;
     height: auto;
     object-fit: contain;
     display: block;
@@ -2544,7 +2542,7 @@ br.small {
 
 @media only screen and (max-width: 1068px) {
     .module-river-base-left .image-example {
-        width: 180px;
+        width: 250px;
         height: auto;
     }
 }
@@ -2647,10 +2645,6 @@ html.ie .section-hero .wrapper {
         max-width: 100%;
         overflow: hidden;
     }
-}
-
-.section-hero .wrapper .typography-intro-elevated {
-    margin-top: 25px
 }
 
 @media only screen and (max-width: 735px) {

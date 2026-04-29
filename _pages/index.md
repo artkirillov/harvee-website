@@ -54,7 +54,7 @@ canonical_url: "https://harvee.app/"
         </div>
     </div>
 </section>
-<section class="section module-river-base-left">
+<section class="section module-river-base-left margin-bottom-40">
     <div class="section-content">
         <div class="row-item copy-block large-6 small-12">
             <h2 class="typography-headline">Discover Stress Patterns & Trends</h2>
