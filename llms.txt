@@ -220,6 +220,14 @@ At first glance, it might seem like the heart works like a metronome: if your he
 
 Why does this matter? Your heart is linked to your autonomic nervous system — the "autopilot" that regulates breathing, digestion, sweating, and more. It balances two forces: the sympathetic (the gas pedal) and the parasympathetic (the brakes).
 
+# The vagus nerve: your body’s main volume knob
+
+The primary driver of beat-to-beat variation is the vagus nerve — the longest cranial nerve in the body, running from the brainstem down through the neck, chest, and abdomen. It’s the main highway of the parasympathetic system, and it has direct, moment-to-moment influence over your heart rate.
+
+Here’s what makes it tangible: every time you breathe in, vagal activity dips slightly and your heart rate rises a little. Every time you breathe out, vagal activity increases and your heart rate slows. These tiny fluctuations with each breath cycle — called respiratory sinus arrhythmia — are one of the biggest contributors to HRV. The stronger and more responsive this mechanism, the higher your HRV tends to be.
+
+This is why HRV is sometimes described as a readout of vagal health. High HRV means the vagus nerve is exerting strong, flexible control. Low HRV means that control is muted — usually because the sympathetic system has taken over.
+
 Low HRV often means stress is rising. High values can be a sign of flexibility and resilience: a state where your body knows how to switch effectively between exertion and recovery.
 
 ---
@@ -236,6 +244,11 @@ When you're at rest, the parasympathetic system (the "brakes") is more active. U
 
 Breathing also plays a part: on the exhale, parasympathetic tone increases and your heart rate slows slightly. These nuances aren't visible in your average heart rate, but they are clear in your HRV, making it a more sensitive marker of stress resilience.
 
+# What this looks like in real life
+
+Consider alcohol. Even one or two drinks in the evening can suppress parasympathetic tone for 24–48 hours. The acetylcholine signals that create healthy beat-to-beat variation are blunted while the body processes ethanol. Most people feel fine the next morning but their HRV tells a different story.
+
+The same pattern shows up after hard training sessions, a poor night’s sleep, or a week of sustained work pressure. None of these feel like “stress” in the moment — but each one shifts the autonomic balance in a measurable direction. That’s what makes HRV a more sensitive early signal than how you feel: your nervous system notices the load before you do.
 ---
 
 ### HRV in Practice
@@ -249,6 +262,14 @@ To get the most out of HRV, follow three steps: gather accurate data, measure at
 ## Step 1. Accurate Data
 
 You need to precisely record the intervals between heartbeats. Previously, only an ECG or a chest strap could do this. Now, Apple Watch provides comparable accuracy for everyday use.
+
+# A note on HRV numbers: Harvee vs. Apple Health
+
+If you’ve ever compared the HRV figure in Harvee to the one stored in your Apple Health app, you may have noticed they don’t match. That’s expected — and it matters to understand why.
+
+Apple Watch records and stores HRV in Apple Health as SDNN (standard deviation of all beat-to-beat intervals over a period). Harvee calculates RMSSD — a different metric derived from the raw heartbeat series your watch captures throughout the day and night. RMSSD focuses specifically on short-term, successive beat-to-beat differences, making it more sensitive to parasympathetic activity and better suited to tracking daily recovery and stress.
+
+In practice, your Harvee HRV will typically read lower than the figure in Apple Health. Neither number is wrong — they’re measuring different things. RMSSD is simply the more reliable metric for day-to-day readiness tracking, which is why Harvee uses it. What matters, as always, is your personal trend over time — not the absolute number, and not a comparison to the Apple Health figure.
 
 ## Step 2. The Right Moment
 
