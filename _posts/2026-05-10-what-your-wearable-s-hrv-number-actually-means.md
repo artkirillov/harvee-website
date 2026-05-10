@@ -99,7 +99,3 @@ High HRV doesn’t mean you’re invincible. Low HRV doesn’t mean you’re fai
 Learn whether you’re tracking RMSSD or SDNN. Establish your baseline before making any decisions. Look at trends, not snapshots. And stop comparing yourself to anyone else including your own best days.
 
 Your heart tells a story in the spaces between beats. The number on the screen is just one word. You need the whole sentence.
-
----
-
-*Want help spotting your own patterns over time? [Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8) to read between the beats.*
