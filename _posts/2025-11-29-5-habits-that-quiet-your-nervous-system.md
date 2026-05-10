@@ -108,11 +108,3 @@ It's about giving your biology fewer reasons to freak out. Your nervous system i
 Start small: a walk, a glass of water, two slow breaths, ten minutes outside, a consistent bedtime.
 
 Your body will notice. And eventually, so will you.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

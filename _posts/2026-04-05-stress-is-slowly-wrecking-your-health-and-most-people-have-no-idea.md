@@ -122,11 +122,3 @@ Hans Selye spent his career trying to convince the medical establishment that st
 Your body has been tracking something more precise than your mood. It's been keeping a biological running total: in your HRV, your sleep architecture, your cortisol rhythms, your immune readiness.
 
 That's what Harvee is built to surface. It tracks your HRV, sleep, activity, and mindfulness to show you what chronic stress actually looks like in your body: the trend, not just the moment. So you stop being surprised by the crash and start seeing it coming.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

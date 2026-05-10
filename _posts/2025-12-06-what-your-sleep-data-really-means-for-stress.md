@@ -146,11 +146,3 @@ Your sleep data isn't judging you. It's trying to help you understand the story 
 And if your sleep starts stabilizing and your HRV climbs, that's your body saying, "Hey, whatever you're doing… keep doing it."
 
 Your sleep isn't a grade. It's feedback. And once you understand that, you can respond instead of react.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)
