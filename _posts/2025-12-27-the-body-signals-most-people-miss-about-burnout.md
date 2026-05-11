@@ -85,11 +85,3 @@ Here's how to put this into practice:
 - **Adjust before burnout hits.** Even small tweaks like consistent sleep routines, light recovery activity, or mindfulness can reset your baseline.
 
 These body signals aren't judgments. They're data. And understanding them early gives you a chance to change your course long before burnout becomes obvious.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

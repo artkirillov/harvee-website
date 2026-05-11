@@ -119,11 +119,3 @@ Your nervous system adapts. It anticipates. It compensates. Sometimes you perfor
 When data does that, it builds confidence. When it doesn't, it quietly erodes trust. And no score, no matter how polished, should get the final say over how you live in your own body.
 
 If you want to go deeper into how HRV, stress, and recovery actually work together without turning your health data into a daily judgment, this is exactly the space we're exploring at Harvee. Not to score you. But to help you read between the beats.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

@@ -82,11 +82,3 @@ We live in a world that assumes we are the same every day, a flat, robotic basel
 Your HRV tracker isn't just a gimmick. It is the best tool you have to listen to this internal dialogue. When that score dips, it's not telling you that you're doing something wrong. It's telling you that your body is busy doing something very important, and it's asking you for a little extra grace.
 
 Listen to it. Your curiosity about your own physiology is the first step toward working with your body, rather than against it. After all, you're running a beautiful, complex system. The least we can do is understand the owner's manual.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

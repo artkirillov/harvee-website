@@ -128,11 +128,3 @@ They should say: "Maybe pause."
 Not: "Something is wrong."
 
 Used gently, they can support healthier habits. Used aggressively, they can amplify anxiety. As with most things in physiology, context beats immediacy. And trends beat alerts.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

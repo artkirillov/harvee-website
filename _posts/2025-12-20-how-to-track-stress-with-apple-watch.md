@@ -124,11 +124,3 @@ Tracking stress with Apple Watch isn't about finding a perfect number or staying
 - And how small changes like sleep, pacing, recovery, add up over time
 
 Your body already knows when something's off. Apple Watch helps you see it. A good stress app helps you understand it. And once you do, stress stops being a mystery and starts being manageable.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

@@ -85,11 +85,3 @@ Your feelings are valid. Your physiology is valid. And the conversation between 
 After all, you wouldn't expect your car's dashboard and your subjective driving experience to tell you identical information: one tells you how you feel behind the wheel, the other tells you what's happening under the hood. Both matter for a safe, smooth journey.
 
 Your body is just doing the same thing giving you another layer of information to work with. And the more you understand both signals, the better you can take care of the whole system.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

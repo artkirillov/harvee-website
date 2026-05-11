@@ -89,11 +89,3 @@ If you're using HRV or recovery metrics, a few evidence-based guardrails help:
 - Treat drops as signals to support recovery, not avoid life
 
 HRV just lets you listen a little earlier than your conscious mind usually does.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

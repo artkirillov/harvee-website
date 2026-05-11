@@ -83,11 +83,3 @@ If the answer is consistently "worse," the issue isn't your discipline. It's the
 ## Data should make you calmer, not more careful
 
 Your body is not fragile. It's adaptive, resilient, and noisy by nature. The goal of health tracking isn't perfect numbers. It's understanding. And when tracking starts making you anxious, it's not a sign you're doing it wrong. It's a sign the system needs to change toward explanation, compassion, and context. Because the most useful health signal isn't a score. It's whether the tools you use help you feel more at home in your body or less.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

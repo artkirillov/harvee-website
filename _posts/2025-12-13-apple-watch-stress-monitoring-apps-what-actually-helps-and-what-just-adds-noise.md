@@ -155,11 +155,3 @@ The goal isn't stress elimination. It's understanding, so you can respond earlie
 The honest answer: the one you'll actually keep using without feeling judged by it. Stress tracking should feel like having a thoughtful observer not a coach yelling from the sidelines, and definitely not a smoke alarm that goes off every time you climb stairs.
 
 Apple Watch gives you the raw signals. A good app helps you turn them into insight. A great one helps you turn insight into calm, practical decisions. And if it occasionally makes you laugh instead of panic? Even better.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)

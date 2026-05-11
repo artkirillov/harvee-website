@@ -132,11 +132,3 @@ And perhaps most importantly: HRV is a tool, not a scorecard. The goal isn't to 
 Your heart is already telling you things. These apps just help you listen.
 
 Want to dive deeper into understanding what your HRV is actually measuring? Each of these apps offers educational resources and guides to help you make sense of your data. Start with one, learn the basics, and remember: the best HRV tracker is the one you'll actually use consistently.
-
----
-
-## Read Between the Beats with Harvee
-
-Curious what your body has been trying to tell you? **Harvee: Stress Monitor & Recovery Companion** helps you spot stress patterns, understand recovery, and make calmer day-to-day decisions.
-
-[Download Harvee on the App Store](https://apps.apple.com/app/apple-store/id6746194884?pt=126794358&ct=harvee-website&mt=8)
