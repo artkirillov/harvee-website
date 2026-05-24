@@ -8,15 +8,15 @@ canonical_url: "https://harvee.app/"
 
 <section class="section section-hero module-1-up-super">
     <div class="section-content">
-        <img class="image-chiclet" src="{{ '/images/icon.png' | relative_url }}" alt="Harvee icon" />
+        <img class="image-chiclet" src="{{ '/images/icon.webp' | relative_url }}" alt="Harvee icon" />
         <h1 class="typography-hero-eyebrow"></h1>
         <h2 class="typography-headline">When you understand your body, you stop guessing.</h2>
         <div class="wrapper">
             <p class="typography-intro-elevated">Harvee reads patterns in your Apple Watch data and translates them into plain-language insights. See when stress is building, understand what is driving it, and get practical next steps for sleep, movement, recovery, and calmer days.</p>
             <picture>
-                <source media="(max-width: 735px)" srcset="{{ '/images/main-medium.png' | relative_url }}" />
-                <source media="(max-width: 1068px)" srcset="{{ '/images/main-large.png' | relative_url }}" />
-                <img class="image-headline" src="{{ '/images/main-medium.png' | relative_url }}" alt="Harvee stress monitoring dashboard" />
+                <source media="(max-width: 800px)" srcset="{{ '/images/main-small.webp' | relative_url }}" />
+                <source srcset="{{ '/images/main-large.webp' | relative_url }}" />
+                <img class="image-headline" src="{{ '/images/main-large.webp' | relative_url }}" alt="Harvee stress monitoring dashboard" />
             </picture>
         </div>
     </div>

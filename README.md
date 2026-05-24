@@ -110,7 +110,7 @@ Tips:
 
 - Headings: One H1 (the post title), then use `##` and `###` for structure.
 - Links: Prefer relative links within the site; check them with `./check-seo.sh`.
-- Images: Place in `/images/`, use descriptive alt text: `![Tracking HRV](/images/graph.png)`.
+- Images: Place in `/images/`, use descriptive alt text: `![Tracking HRV](/images/graph.jpg)`.
 - Code blocks: Standard fenced blocks; optional copy button styling is available via `.copy-button` if you add JS.
 
 ### SEO, Feeds, and Analytics
