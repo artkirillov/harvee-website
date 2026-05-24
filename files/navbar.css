@@ -3128,3 +3128,8 @@ h3 #localnav sup {
         --r-localnav-gn-height: var(--r-globalnav-height, 48px)
     }
 }
+
+/* Sticky frosted nav without navbar.js */
+#localnav.css-sticky {
+    top: 0;
+}

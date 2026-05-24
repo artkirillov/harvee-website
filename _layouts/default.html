@@ -16,30 +16,8 @@
 </head>
 
 <body class="page-overview" data-new-gr-c-s-check-loaded="14.1143.0" data-gr-ext-installed="">
-    <input type="checkbox" id="ln-menustate" class="ln-menustate">
-        <div id="ln-sticky-placeholder" class="css-sticky"></div>
-        <nav id="localnav" class="localnav-noborder js no-touch css-sticky" lang="en-US" dir="ltr" data-sticky="" role="navigation" aria-label="Local">
-            <div class="ln-wrapper">
-                <div class="ln-background"></div>
-                <div class="ln-content">
-                    <div class="ln-title">{{ site.title }}</div>
-                    <div class="ln-menu">
-                        <div class="ln-actions">
-                            <div class="ln-action-button">
-                                <a class="ln-button blog-link" href="{{ '/blog/' | relative_url }}">Blog</a>
-                            </div>
-                            <div class="ln-action-button">
-                                <a href="https://apps.apple.com/us/app/id6746194884">
-                                    <img src="{{ '/images/app_store.svg' | relative_url }}" alt="Download on the App Store" style="height: 32px;">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </nav>
-        <script type="text/javascript" src="{{ '/files/navbar.js' | relative_url }}"></script>
-        <main id="main" class="main" role="main" data-page-type="overview">
+    {% include navbar.html show_blog_link=true %}
+    <main id="main" class="main" role="main" data-page-type="overview">
             {{ content }}
         </main>
         <footer id="globalfooter" class="js" lang="en-US" dir="ltr" role="contentinfo" aria-labelledby="gf-label">

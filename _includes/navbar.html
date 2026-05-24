@@ -1,0 +1,28 @@
+<nav id="localnav" class="localnav-noborder localnav-scrim css-sticky" lang="en-US" dir="ltr" role="navigation" aria-label="Local">
+    <div class="ln-wrapper">
+        <div class="ln-background"></div>
+        <div class="ln-content">
+            <div class="ln-title">
+                {% if include.home_link %}
+                <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                {% else %}
+                {{ site.title }}
+                {% endif %}
+            </div>
+            <div class="ln-menu">
+                <div class="ln-actions">
+                    {% if include.show_blog_link %}
+                    <div class="ln-action-button">
+                        <a class="ln-button blog-link" href="{{ '/blog/' | relative_url }}">Blog</a>
+                    </div>
+                    {% endif %}
+                    <div class="ln-action-button">
+                        <a href="https://apps.apple.com/us/app/id6746194884">
+                            <img src="{{ '/images/app_store.svg' | relative_url }}" alt="Download on the App Store" style="height: 32px;">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
