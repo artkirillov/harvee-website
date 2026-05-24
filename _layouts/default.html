@@ -16,7 +16,7 @@
 </head>
 
 <body class="page-overview" data-new-gr-c-s-check-loaded="14.1143.0" data-gr-ext-installed="">
-    {% include navbar.html show_blog_link=true %}
+    {% include navbar.html show_blog_link=false %}
     <main id="main" class="main" role="main" data-page-type="overview">
             {{ content }}
         </main>
@@ -32,6 +32,9 @@
                             </li>
                             <li class="gf-footer-legal-links-item" role="listitem">
                                 <a class="gf-footer-legal-link" href="{{ '/terms.html' | relative_url }}">Terms of Use</a>
+                            </li>
+                            <li class="gf-footer-legal-links-item" role="listitem">
+                                <a class="gf-footer-legal-link" href="{{ '/blog/' | relative_url }}">Blog</a>
                             </li>
                         </ul>
                     </div>
