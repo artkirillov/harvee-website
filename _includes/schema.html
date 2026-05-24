@@ -5,7 +5,7 @@
   "@type": "Article",
   "headline": "{{ page.title | escape }}",
   "description": "{{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}",
-  "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/main-large.png' | absolute_url }}{% endif %}",
+  "image": "{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/main-large.webp' | absolute_url }}{% endif %}",
   "author": {
     "@type": "Person",
     "name": "{{ page.author | default: site.author.name | escape }}",
@@ -16,7 +16,7 @@
     "name": "{{ site.title | escape }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ '/images/icon.png' | absolute_url }}"
+      "url": "{{ '/images/icon.webp' | absolute_url }}"
     }
   },
   "datePublished": "{{ page.date | date_to_xmlschema }}",
@@ -40,7 +40,7 @@
     "name": "{{ site.title | escape }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ '/images/icon.png' | absolute_url }}"
+      "url": "{{ '/images/icon.webp' | absolute_url }}"
     }
   }
 }

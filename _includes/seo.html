@@ -19,7 +19,7 @@
 <meta property="og:url" content="{{ canonical_url }}">
 <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
 <meta property="og:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/main-large.png' | absolute_url }}{% endif %}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/main-large.webp' | absolute_url }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title | escape }}">
 
 {% if page.layout == 'post' %}
@@ -37,7 +37,7 @@
 <meta name="twitter:url" content="{{ canonical_url }}">
 <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}">
 <meta name="twitter:description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-<meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/main-large.png' | absolute_url }}{% endif %}">
+<meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ '/images/main-large.webp' | absolute_url }}{% endif %}">
 {% if site.author.twitter %}
 <meta name="twitter:creator" content="{{ site.author.twitter | escape }}">
 {% endif %}
