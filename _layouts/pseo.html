@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="apple-itunes-app" content="app-id=6746194884">
+    <title>{{ page.title | escape }}</title>
+    {% include analytics.html %}
+    {% include seo.html %}
+    <link rel="stylesheet" type="text/css" href="{{ '/files/navbar.css' | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/files/footer.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/files/main.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/files/pseo.css' | relative_url }}" type="text/css">
+    <link rel="icon" type="image/x-icon" href="{{ '/images/favicon.webp' | relative_url }}">
+
+    {% assign page_canonical = page.canonical_url | default: page.url | absolute_url %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "{{ page_canonical }}",
+      "name": {{ page.problem_headline | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "url": "{{ page_canonical }}",
+      "mainEntity": {
+        "@type": "SoftwareApplication",
+        "name": "Harvee",
+        "operatingSystem": "iOS",
+        "applicationCategory": "HealthApplication",
+        "url": "{{ site.app_store_url }}",
+        {% if site.app_store_rating_count != "" and site.app_store_rating_count != nil %}
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "{{ site.app_store_rating_value }}",
+          "ratingCount": "{{ site.app_store_rating_count }}"
+        },
+        {% endif %}
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        }
+      }
+    }
+    </script>
+    {% if page.axis == "competitor" and page.objections %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for objection in page.objections %}
+        {
+          "@type": "Question",
+          "name": {{ objection.question | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ objection.answer | strip_newlines | jsonify }}
+          }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    </script>
+    {% endif %}
+</head>
+<body class="page-pseo">
+    {% include navbar.html show_blog_link=true %}
+
+    <main id="main" class="main pseo-main" role="main">
+        {% if page.axis == "index" %}
+        <section class="pseo-health-section pseo-hero" aria-labelledby="pseo-problem-headline">
+            <div class="pseo-section-intro">
+                <div class="pseo-section-icon" aria-hidden="true">💚</div>
+                <h1 id="pseo-problem-headline" class="pseo-section-heading">{{ page.problem_headline | escape }}</h1>
+                {% if page.problem_subheadline %}
+                <p class="pseo-section-lead">{{ page.problem_subheadline | escape }}</p>
+                {% endif %}
+                <div class="pseo-body pseo-index-content">
+                    {{ content }}
+                </div>
+                <div class="pseo-cta" style="margin-top: 36px;">
+                    <a href="{{ site.app_store_url }}">
+                        <img src="{{ '/images/app_store.svg' | relative_url }}" alt="Download Harvee on the App Store" width="120" height="40">
+                    </a>
+                </div>
+                <p class="pseo-device-note">Requires Apple Watch Series 4 or later. iPhone required.</p>
+            </div>
+        </section>
+        {% else %}
+
+        <!-- Bag 1: Problem (hero) -->
+        <section class="pseo-health-section pseo-hero" aria-labelledby="pseo-problem-headline">
+            <div class="pseo-section-intro">
+                <h1 id="pseo-problem-headline" class="pseo-section-heading">{{ page.problem_headline | escape }}</h1>
+                {% if page.problem_subheadline %}
+                <p class="pseo-section-lead pseo-subheadline">{{ page.problem_subheadline | escape }}</p>
+                {% endif %}
+                {% if page.problem_body %}
+                <div class="pseo-body" style="margin-top: 28px;">
+                    {{ page.problem_body | markdownify }}
+                </div>
+                {% endif %}
+            </div>
+        </section>
+
+        <!-- Bag 3: Target profile -->
+        <section class="pseo-health-section" aria-labelledby="pseo-profile-headline">
+            <div class="pseo-section-intro">
+                <div class="pseo-section-icon pseo-section-icon--profile" aria-hidden="true">👤</div>
+                <p class="pseo-section-eyebrow">Who this is for</p>
+                <h2 id="pseo-profile-headline" class="pseo-section-heading">This page is for you if:</h2>
+                {% if page.profile_bullets %}
+                <ul class="pseo-list">
+                    {% for bullet in page.profile_bullets %}
+                    <li>{{ bullet | escape }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                {% if page.profile_exclusions %}
+                <p class="pseo-profile-exclude-label">This is not for you if:</p>
+                <ul class="pseo-list pseo-list-exclusions">
+                    {% for item in page.profile_exclusions %}
+                    <li>{{ item | escape }}</li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </div>
+        </section>
+
+        <!-- Bag 2: Solution + carousel -->
+        <section class="pseo-health-section pseo-section-solution" aria-labelledby="pseo-solution-headline">
+            <div class="pseo-section-intro">
+                <div class="pseo-section-icon pseo-section-icon--solution" aria-hidden="true">📊</div>
+                <p class="pseo-section-eyebrow">The solution</p>
+                <h2 id="pseo-solution-headline" class="pseo-section-heading">How Harvee helps</h2>
+                {% if page.solution_intro %}
+                <p class="pseo-section-lead">{{ page.solution_intro | escape }}</p>
+                {% endif %}
+            </div>
+            {% if page.screenshots or page.features %}
+            <div class="pseo-gallery-wrap">
+                <div class="pseo-card-gallery" role="region" aria-label="Harvee app screens and features" tabindex="0">
+                    {% if page.screenshots %}
+                    {% for caption in page.screenshots %}
+                    {% assign img_num = forloop.index | prepend: '0' | slice: -2, 2 %}
+                    <article class="pseo-feature-card">
+                        <div class="pseo-card-image">
+                            <img src="{{ '/images/example-' | append: img_num | append: '.webp' | relative_url }}" alt="{{ caption | escape }}" width="380" height="260" loading="lazy">
+                        </div>
+                        <div class="pseo-card-text">
+                            <h3 class="pseo-card-title">{{ caption | escape }}</h3>
+                        </div>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+                    {% if page.features %}
+                    {% for feature in page.features %}
+                    {% assign feat_img_num = forloop.index0 | modulo: 3 | plus: 1 %}
+                    {% assign feat_img = feat_img_num | prepend: '0' | slice: -2, 2 %}
+                    <article class="pseo-feature-card">
+                        <div class="pseo-card-image">
+                            <img src="{{ '/images/example-' | append: feat_img | append: '.webp' | relative_url }}" alt="{{ feature.name | escape }}" width="380" height="260" loading="lazy">
+                        </div>
+                        <div class="pseo-card-text">
+                            <h3 class="pseo-card-title">{{ feature.name | escape }}</h3>
+                            <p class="pseo-card-body">{{ feature.description | escape }}</p>
+                        </div>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+            {% if page.trigger %}
+            <div class="pseo-trigger-wrap">
+                <div class="pseo-stat-card pseo-stat-card--trigger" role="note">
+                    <div class="pseo-stat-card-overlay" aria-hidden="true"></div>
+                    <div class="pseo-stat-card-content">
+                        <p>{{ page.trigger | escape }}</p>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        </section>
+
+        <!-- Credentials -->
+        <aside class="pseo-credentials" aria-label="Harvee credentials">
+            <div class="pseo-credentials-inner">
+                <p class="pseo-credentials-title">Recognition</p>
+                <div class="pseo-pill-row">
+                    <span class="pseo-pill">🏆 Apple Design Awards Finalist 2026 — Social Impact</span>
+                    <span class="pseo-pill">📈 #1 Health &amp; Fitness in 5 countries — Jan 2026</span>
+                    <span class="pseo-pill">⭐ 4.7 stars globally on the App Store</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Bag 4: Objections -->
+        <section class="pseo-health-section" aria-labelledby="pseo-objections-headline">
+            <div class="pseo-section-intro">
+                <div class="pseo-section-icon pseo-section-icon--objections" aria-hidden="true">💬</div>
+                <p class="pseo-section-eyebrow">Common questions</p>
+                <h2 id="pseo-objections-headline" class="pseo-section-heading">{{ page.objections_headline | default: "Questions people ask before downloading" | escape }}</h2>
+            </div>
+            <div class="pseo-section-intro" style="padding-top: 0; padding-bottom: 80px;">
+                {% if page.objections %}
+                {% for objection in page.objections %}
+                <div class="pseo-objection-block">
+                    <h3>{{ objection.question | escape }}</h3>
+                    <p class="pseo-objection-answer">{{ objection.answer | escape }}</p>
+                </div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </section>
+
+        <!-- Bag 5: Testimonials carousel -->
+        <section class="pseo-health-section" aria-labelledby="pseo-testimonials-headline">
+            <div class="pseo-section-intro">
+                <div class="pseo-section-icon pseo-section-icon--testimonials" aria-hidden="true">⭐️</div>
+                <p class="pseo-section-eyebrow">App Store reviews</p>
+                <h2 id="pseo-testimonials-headline" class="pseo-section-heading">What people said before they tried it — and after</h2>
+            </div>
+            <p class="pseo-testimonials-sub">4.7 stars globally on the App Store</p>
+            {% if page.testimonials %}
+            <div class="pseo-gallery-wrap" style="padding-bottom: 80px;">
+                <div class="pseo-card-gallery" role="region" aria-label="Testimonials" tabindex="0">
+                    {% for t in page.testimonials %}
+                    <article class="pseo-testimonial-card">
+                        <blockquote>
+                            <p>{{ t.quote | escape }}</p>
+                        </blockquote>
+                        <cite>{{ t.name | escape }}, {{ t.role | escape }} — {{ t.watch_model | escape }}</cite>
+                    </article>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        </section>
+
+        <!-- Bag 6: Risk reversal -->
+        <section class="pseo-band" aria-labelledby="pseo-risk-headline">
+            <div class="pseo-band-inner">
+                <div class="pseo-section-intro">
+                    <div class="pseo-section-icon pseo-section-icon--risk" aria-hidden="true">✓</div>
+                    <p class="pseo-section-eyebrow">Try it free</p>
+                    <h2 id="pseo-risk-headline" class="pseo-section-heading">Try it. You'll know within a week.</h2>
+                </div>
+                <div class="pseo-risk-body">
+                    {% if page.risk_reversal_body %}
+                    {{ page.risk_reversal_body | markdownify }}
+                    {% else %}
+                    <p>Harvee is free to download. The Today tab and Playbook — your daily stress view and the education section — are fully available without a subscription. You can see how Harvee reads your Apple Watch data within the first few days.</p>
+                    <p>The Patterns tab, where long-term HRV trends and stress charts live, shows demo data until you subscribe to Harvee+. Even without subscribing, a week of daily use on the Today tab gives you a clear sense of whether the insights match how your body actually feels.</p>
+                    <p>Harvee compares your readings against rolling 7-day and 4-week baselines — so the first week establishes context, and the second week starts to show direction. If it's not useful, delete the app. Subscriptions and refunds are handled entirely through Apple; you can request a refund via Apple Support if needed.</p>
+                    {% endif %}
+                </div>
+                <div class="pseo-cta">
+                    <a href="{{ site.app_store_url }}">
+                        <img src="{{ '/images/app_store.svg' | relative_url }}" alt="Download Harvee on the App Store" width="120" height="40">
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Bag 7: Uniqueness -->
+        <section class="pseo-health-section" aria-labelledby="pseo-uniqueness-headline">
+            <div class="pseo-section-intro">
+                <div class="pseo-section-icon pseo-section-icon--unique" aria-hidden="true">🌱</div>
+                <p class="pseo-section-eyebrow">Why we built it</p>
+                <h2 id="pseo-uniqueness-headline" class="pseo-section-heading">Why Harvee exists</h2>
+            </div>
+            <div class="pseo-section-intro" style="padding-top: 0;">
+                <div class="pseo-uniqueness">
+                    {% if page.uniqueness_body %}
+                    {{ page.uniqueness_body | markdownify }}
+                    {% else %}
+                    <p>Most health apps answer one question: what is my number right now? Harvee was built around a different question: what has my nervous system been doing, and what does that mean for the week I'm in?</p>
+                    <p>Your Apple Watch collects HRV passively — during sleep, between meetings, on rest days and hard ones. That data only becomes useful when something connects the dots across days, weights them against your personal baseline, and shows you the pattern before you hit the wall.</p>
+                    <p>Harvee is an Apple Watch stress app built for pattern recognition over time, not daily scores in isolation. Apple recognised it as a Design Awards Finalist for Social Impact. Not for how it looks. For what it does to people's lives.</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% if page.comparison_table %}
+            <div class="pseo-comparison-wrap">
+                <table class="pseo-comparison-table">
+                    <thead>
+                        <tr>
+                            <th scope="col"></th>
+                            <th scope="col">Harvee</th>
+                            <th scope="col">{% if page.competitor %}{{ page.competitor | escape }}{% else %}Alternative{% endif %}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in page.comparison_table %}
+                        <tr>
+                            <th scope="row">{{ row.label | escape }}</th>
+                            <td>{{ row.harvee | escape }}</td>
+                            <td>{{ row.other | escape }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endif %}
+        </section>
+
+        <!-- Final CTA -->
+        <section class="pseo-footer-cta" aria-label="Download Harvee">
+            {% if page.final_cta_line %}
+            <h2 class="pseo-final-line">{{ page.final_cta_line | escape }}</h2>
+            {% endif %}
+            <p class="pseo-footer-cta-sub">Free to download. Works with the Apple Watch you already own.</p>
+            <div class="pseo-cta">
+                <a href="{{ site.app_store_url }}">
+                    <img src="{{ '/images/app_store.svg' | relative_url }}" alt="Download Harvee on the App Store" width="120" height="40">
+                </a>
+            </div>
+            <p class="pseo-device-note">Requires Apple Watch Series 4 or later. iPhone required.</p>
+        </section>
+
+        {% if page.related_posts %}
+        <section class="pseo-related" aria-labelledby="pseo-related-headline">
+            <h2 id="pseo-related-headline">Further reading</h2>
+            <ul>
+                {% for slug in page.related_posts %}
+                {% assign related_post = nil %}
+                {% for post in site.posts %}
+                {% if post.url contains slug %}
+                {% assign related_post = post %}
+                {% break %}
+                {% endif %}
+                {% endfor %}
+                {% if related_post %}
+                <li><a href="{{ related_post.url | relative_url }}">{{ related_post.title | escape }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </section>
+        {% endif %}
+        {% endif %}
+    </main>
+
+    <footer id="globalfooter" class="js" lang="en-US" dir="ltr" role="contentinfo" aria-labelledby="gf-label">
+        <div class="gf-content">
+            <section class="gf-footer">
+                <div class="gf-footer-legal">
+                    <div class="gf-footer-legal-copyright">Copyright © 2026 Peak Labs Ltd.</div>
+                    <ul class="gf-footer-legal-links" role="list">
+                        <li class="gf-footer-legal-links-item" role="listitem">
+                            <a class="gf-footer-legal-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>
+                        </li>
+                        <li class="gf-footer-legal-links-item" role="listitem">
+                            <a class="gf-footer-legal-link" href="{{ '/terms.html' | relative_url }}">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+    </footer>
+</body>
+</html>

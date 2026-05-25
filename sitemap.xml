@@ -34,6 +34,18 @@ permalink: /sitemap.xml
   </url>
   {%- endfor -%}
 
+  <!-- pSEO landing pages -->
+  {%- for doc in site.pseo -%}
+    {%- if doc.sitemap != false -%}
+  <url>
+    <loc>{{ base }}{{ doc.url }}</loc>
+    <lastmod>{% if doc.last_modified_at %}{{ doc.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>{% if doc.url contains 'pseo-index' %}0.3{% else %}0.7{% endif %}</priority>
+  </url>
+    {%- endif -%}
+  {%- endfor -%}
+
   <!-- Site pages (output: true) excluding assets and blog post files -->
   {%- for page in site.pages -%}
     {%- if page.url and page.url != '/blog/' and page.url != '/' -%}

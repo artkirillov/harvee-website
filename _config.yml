@@ -14,6 +14,11 @@ author:
   email: "artie@harvee.app"
   twitter: "@harveeapp"
 
+# App Store (pSEO structured data)
+app_store_url: "https://apps.apple.com/us/app/id6746194884"
+app_store_rating_value: "4.7"
+app_store_rating_count: "649"
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -32,6 +37,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  pseo:
+    output: true
+    permalink: /:collection/:name/
 
 # Defaults
 defaults:
@@ -52,6 +60,11 @@ defaults:
       type: "pages"
     values:
       layout: "blog"
+  - scope:
+      path: ""
+      type: pseo
+    values:
+      layout: pseo
 
 # Plugins
 plugins:
