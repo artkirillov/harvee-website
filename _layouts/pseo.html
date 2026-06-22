@@ -3,7 +3,6 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="apple-itunes-app" content="app-id=6746194884">
     <title>{{ page.title | escape }}</title>
     {% include analytics.html %}
     {% include seo.html %}
@@ -222,17 +221,22 @@
                 <p class="pseo-section-eyebrow">App Store reviews</p>
                 <h2 id="pseo-testimonials-headline" class="pseo-section-heading">What people said before they tried it — and after</h2>
             </div>
-            <p class="pseo-testimonials-sub">4.7 stars globally on the App Store</p>
-            {% if page.testimonials %}
+            <p class="pseo-testimonials-sub">{{ site.app_store_rating_value }} stars on the App Store</p>
+            {% assign testimonial_ids = page.testimonial_ids | default: site.data.pseo_reviews.default %}
+            {% if testimonial_ids %}
             <div class="pseo-gallery-wrap" style="padding-bottom: 80px;">
                 <div class="pseo-card-gallery" role="region" aria-label="Testimonials" tabindex="0">
-                    {% for t in page.testimonials %}
+                    {% for id in testimonial_ids %}
+                    {% assign t = site.data.pseo_reviews.reviews[id] %}
+                    {% if t %}
                     <article class="pseo-testimonial-card">
+                        {% if t.title %}<p class="pseo-testimonial-title">{{ t.title | escape }}</p>{% endif %}
                         <blockquote>
                             <p>{{ t.quote | escape }}</p>
                         </blockquote>
-                        <cite>{{ t.name | escape }}, {{ t.role | escape }} — {{ t.watch_model | escape }}</cite>
+                        <cite>{{ t.author | escape }}</cite>
                     </article>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>

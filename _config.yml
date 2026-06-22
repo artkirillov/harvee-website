@@ -14,7 +14,8 @@ author:
   email: "artie@harvee.app"
   twitter: "@harveeapp"
 
-# App Store (pSEO structured data)
+# App Store (pSEO structured data, Smart App Banners)
+app_store_id: "6746194884"
 app_store_url: "https://apps.apple.com/us/app/id6746194884"
 app_store_rating_value: "4.7"
 app_store_rating_count: "649"
