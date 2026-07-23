@@ -71,7 +71,7 @@ So that thing you forgot? The decision that seemed harder than it should have be
 
 ### Your Sleep
 
-Stress and sleep have a mutually destructive relationship. Chronic stress activates your sympathetic nervous system, suppressing the deep slow-wave and REM sleep your brain needs for repair, memory consolidation, and hormonal reset ([Walker, 2017](https://www.penguinrandomhouse.com/books/317282/why-we-sleep-by-matthew-walker-phd/); [Åkerstedt, 2006](https://pubmed.ncbi.nlm.nih.gov/17173205/)). Poor sleep then increases cortisol and stress reactivity the following day.
+Stress and sleep have a mutually destructive relationship. Chronic stress activates your sympathetic nervous system, suppressing the deep slow-wave and REM sleep your brain needs for repair, memory consolidation, and hormonal reset ([Walker, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5863668/); [Åkerstedt, 2006](https://pubmed.ncbi.nlm.nih.gov/17173205/)). Poor sleep then increases cortisol and stress reactivity the following day.
 
 It's a loop. Once you're in it, both ends make the other worse. And you can spend months inside it feeling like you're simply "not a great sleeper" rather than recognizing it as a stress-driven cycle.
 
@@ -103,7 +103,7 @@ And critically: research suggests HRV can decline before subjective symptoms app
 
 There's no single fix. But the research points clearly to a few levers that work at the physiological level, not just the emotional one.
 
-Sleep, seriously. Seven to nine hours isn't a lifestyle luxury, it's when your nervous system does maintenance: clearing cortisol, consolidating memory, restoring HRV baselines. No mindfulness practice compensates for consistent sleep deprivation ([Walker, 2017](https://www.penguinrandomhouse.com/books/317282/why-we-sleep-by-matthew-walker-phd/)).
+Sleep, seriously. Seven to nine hours isn't a lifestyle luxury, it's when your nervous system does maintenance: clearing cortisol, consolidating memory, restoring HRV baselines. No mindfulness practice compensates for consistent sleep deprivation ([Walker, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5863668/)).
 
 Regular movement. Moderate, consistent exercise is one of the few interventions with robust evidence for directly improving HRV and reducing cortisol reactivity over time ([Sandercock et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15741842/)). Not punishing exercise. Regular exercise. A 20-minute walk counts.
 

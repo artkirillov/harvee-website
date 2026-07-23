@@ -4,6 +4,7 @@ description: "Overtraining shows up in HRV before you recognise it. Harvee reads
 canonical_url: "https://harvee.app/overtraining-apple-watch/"
 permalink: /overtraining-apple-watch/
 axis: usecase
+deep_dive_headline: "Catching overtraining in the HRV slope"
 
 problem_headline: "The hardest part of overtraining is that you only recognise it after the damage is done."
 problem_subheadline: "HRV suppression often starts weeks before injury, illness, or the plateau you can't explain."
@@ -60,19 +61,15 @@ objections:
   - question: "Does Apple Watch HRV work for this?"
     answer: "Trend-based overtraining detection from overnight watch HRV is a common approach. Harvee is built for it."
 
-testimonials:
-  - quote: "I overtrained into shin splints last year. This year Harvee caught HRV suppression early. I took an easy week. No splints."
-    name: "Andre"
-    role: "Triathlete"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "My coach cared about pace. Harvee cared about whether I was absorbing pace. Different conversation."
-    name: "Lisa"
-    role: "CrossFit athlete"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I thought more volume was the answer. The chart said my nervous system disagreed."
-    name: "Dan"
-    role: "Runner"
-    watch_model: "Apple Watch Series 10"
+uniqueness_body: |
+  Overtraining is recognised in hindsight — stress fracture, month off, plateau you can't explain. The HRV
+  slope often starts one to three weeks earlier. Harvee reads that slope from Apple Watch while you still
+  feel "fine."
+
+risk_reversal_body: |
+  Adding intervals on tired legs because the plan said so is how forced breaks happen. Log one training
+  block with Harvee — free tier — and see if sustained suppression appears before symptoms. Deload early
+  once; compare the cost to deloading after injury.
 
 final_cta_line: "Catch the slope before the injury."
 
@@ -80,3 +77,24 @@ related_posts:
   - "how-to-improve-your-recovery-using-hrv"
   - "why-your-hrv-drops-before-you-feel-stressed"
 ---
+
+## Overtraining: when the plan outruns recovery
+
+Overtraining is sustained mismatch between load and recovery — performance drops, mood flattens, sleep stops restoring, injuries multiply. Athletes are trained to push through. The body sends HRV and sleep signals days before conscious fatigue admits it.
+
+Apple Watch logs those signals nightly. Harvee reads trends for people who train hard enough to overtrain and want the chart before the forced break.
+
+### Sustained suppression, not one hard day
+
+Harvee weights multi-day and multi-week HRV trends — not one low morning after leg day. Twelve days below baseline is a different conversation than one.
+
+### Training plus life
+
+Overtraining isn't only mileage. Work stress and sleep debt stack on the bar. Harvee reads total autonomic load from your watch.
+
+### Personal baseline at high fitness
+
+Your normal HRV at high fitness may sit lower than sedentary norms. Harvee calibrates to your trained state — not generic charts.
+
+Harvee does not diagnose overtraining syndrome. Surface patterns, adjust load, involve coaches and clinicians when symptoms warrant.
+

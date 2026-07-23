@@ -5,6 +5,7 @@ canonical_url: "https://harvee.app/vs/stresswatch/"
 permalink: /vs/stresswatch/
 axis: competitor
 competitor: StressWatch
+deep_dive_headline: "Real-time wrist stress vs multi-week HRV patterns"
 objections_headline: "Questions people ask before switching"
 
 problem_headline: "StressWatch shows stress in the moment. Harvee shows what's been building."
@@ -62,20 +63,6 @@ objections:
   - question: "Will this drain my Apple Watch battery?"
     answer: "Harvee consumes data Apple Watch already records. It does not run an additional continuous stress estimation on the watch beyond what you already use."
 
-testimonials:
-  - quote: "StressWatch told me I was stressed during calls. Harvee showed me the two weeks before the calls when I wasn't sleeping and my HRV was already down. That's the difference between reacting and planning."
-    name: "Daniel"
-    role: "Account manager"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I liked the complication. I didn't like not knowing if I was always this stressed or just this week. Harvee answered that with a chart I could actually read."
-    name: "Sofia"
-    role: "Nurse"
-    watch_model: "Apple Watch SE 2"
-  - quote: "I switched from StressWatch because I kept getting alerts I couldn't act on. Harvee gave me a weekly picture that made the daily spikes make sense."
-    name: "Chris"
-    role: "Lawyer"
-    watch_model: "Apple Watch Ultra"
-
 uniqueness_body: |
   StressWatch excels at now. Harvee excels at before now — the runway of physiological load that
   explains why now feels the way it does.
@@ -84,6 +71,13 @@ uniqueness_body: |
 
   Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
   For what it does to people's lives.
+
+risk_reversal_body: |
+  Keep StressWatch on your wrist if moment-to-moment feedback helps you breathe during meetings.
+  Add Harvee for two weeks on iPhone and check whether the 28-day view explains weeks StressWatch
+  only showed as isolated spikes. Harvee Today is free.
+
+  Drop Harvee if the long view doesn't change decisions. No conflict at HealthKit level.
 
 comparison_table:
   - label: "Measurement method"
@@ -102,3 +96,24 @@ related_posts:
   - "why-your-stress-level-doesn-t-match-how-you-feel"
   - "why-your-hrv-drops-before-you-feel-stressed"
 ---
+
+## StressWatch vs Harvee: now vs before now
+
+StressWatch excels at immediacy. Complication on the wrist, stress estimate during the afternoon slump, confirmation that your chest tightness has a physiological signature. That loop helps in the moment.
+
+Moments don't explain months. Chronic overload accumulates as slightly worse sleep, slightly lower HRV, slightly higher resting heart rate — until a normal Tuesday breaks you. StressWatch may have flagged each afternoon; Harvee connects the afternoons into an arc.
+
+### Complementary time horizons
+
+Many users keep both: StressWatch for live awareness, Harvee for weekly direction. They read similar Apple Watch inputs with different emphasis. No HealthKit conflict.
+
+### When to lean Harvee
+
+Lean Harvee if you get alerts but can't explain why some weeks flatten you, or if you want overnight HRV as the daily anchor rather than intraday variability alone.
+
+### When to keep StressWatch
+
+Keep StressWatch if the complication is non-negotiable and daily spikes drive your coping strategies. Harvee won't replace minute-by-minute wrist feedback.
+
+Harvee is wellness insight, not therapy or medical care.
+

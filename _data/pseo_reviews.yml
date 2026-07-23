@@ -1,0 +1,40 @@
+default:
+  - beautiful-app
+  - whoop-comparison
+  - simpler-than-expected
+
+reviews:
+  beautiful-app:
+    title: "Beautiful app"
+    quote: "A wonderful app that helps manage stress. Harvee the fluffy one is just a cutie."
+    author: "Jan 24, 2026 — dsteshin"
+
+  whoop-comparison:
+    title: "More useful than Whoop"
+    quote: "I already had a Whoop and wasn't sure I needed another app. But I found Harvee tracks my stress levels more accurately in daily life - and the insights are actually actionable. I don't need the Whoop anymore."
+    author: "Dec 26, 2025 — Angie_2906"
+
+  simpler-than-expected:
+    title: "Simpler than I expected"
+    quote: "I'd tried other HRV apps and found them overwhelming. Harvee is different - the insights are clear, the presentation is clean, and it actually fits into daily life without becoming another thing to manage."
+    author: "Jan 4, 2026 — Aaleck0"
+
+  changed-everything:
+    title: "It changed everything"
+    quote: "One of the best wellness apps that made my life better, I don't need whoop anymore!"
+    author: "Dec 26, 2025 — Kair8m"
+
+  good-tracker:
+    title: "A good tracker"
+    quote: "There are a lot of health trackers nowadays, what I liked in Harvee is a clear view of your activities and integration with Apple health so you can easily use it and get Harvee happy from the day one"
+    author: "Nov 13, 2025 — Pandabear 42"
+
+  consistent-widget:
+    title: "I don't usually leave reviews but.."
+    quote: "Love this app. It's the only app I've been consistent with like, ever. Not sure what it is about it but I've got the widget on my Home Screen and I update it throughout the day. You don't have to pay to get the basics and it still be beneficial, but you can pay for it to do a little bit more for you."
+    author: "Apr 6, 2026 — K the trainer"
+
+  best-hrv-app:
+    title: "Great app"
+    quote: "Harvee is one of the best HRV and stress tracking apps that I've used. The insights are easy to understand, it's all beautifully presented, and actually useful in daily life. Simple, clean, and genuinely helpful."
+    author: "Jan 4, 2026 — Aaleck0"

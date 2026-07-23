@@ -67,6 +67,27 @@
                         </ul>
                     </div>
                     {% endif %}
+
+                    {% if page.related_pseo %}
+                    <nav class="post-related-guides" aria-labelledby="post-related-guides-headline">
+                        <h3 id="post-related-guides-headline">Related guides</h3>
+                        <ul class="post-related-guides-list">
+                            {% for slug in page.related_pseo %}
+                            {% assign related_guide = nil %}
+                            {% for guide in site.pseo %}
+                            {% if guide.url contains slug %}
+                            {% assign related_guide = guide %}
+                            {% break %}
+                            {% endif %}
+                            {% endfor %}
+                            {% if related_guide %}
+                            <li><a href="{{ related_guide.url | relative_url }}">{{ related_guide.problem_headline | default: related_guide.title | escape }}</a></li>
+                            {% endif %}
+                            {% endfor %}
+                            <li><a href="{{ '/guides/' | relative_url }}">All Harvee guides</a></li>
+                        </ul>
+                    </nav>
+                    {% endif %}
                     
                     <div class="post-cta">
                         <h3>Ready to optimize your stress and recovery?</h3>
@@ -103,6 +124,9 @@
                 <div class="gf-footer-legal">
                     <div class="gf-footer-legal-copyright">Copyright © 2026 Peak Labs Ltd.</div>
                     <ul class="gf-footer-legal-links" role="list">
+                        <li class="gf-footer-legal-links-item" role="listitem">
+                            <a class="gf-footer-legal-link" href="{{ '/guides/' | relative_url }}">Guides</a>
+                        </li>
                         <li class="gf-footer-legal-links-item" role="listitem">
                             <a class="gf-footer-legal-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>
                         </li>

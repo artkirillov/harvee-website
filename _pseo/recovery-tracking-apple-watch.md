@@ -4,6 +4,7 @@ description: "Training only works if you recover. Harvee uses Apple Watch HRV to
 canonical_url: "https://harvee.app/recovery-tracking-apple-watch/"
 permalink: /recovery-tracking-apple-watch/
 axis: usecase
+deep_dive_headline: "Recovery tracking when rings only celebrate output"
 
 problem_headline: "Training makes you stronger. But only if you recover. Your Apple Watch knows if you're not."
 problem_subheadline: "Activity rings celebrate output. HRV shows whether your nervous system absorbed it."
@@ -59,19 +60,13 @@ objections:
   - question: "Will Harvee drain battery?"
     answer: "Harvee reads existing Health data. No extra strap."
 
-testimonials:
-  - quote: "I used to train until Strava said stop. Harvee said stop when my HRV said stop. Fewer injuries."
-    name: "Marco"
-    role: "Marathoner"
-    watch_model: "Apple Watch Ultra"
-  - quote: "Recovery used to mean how I felt. Feelings lie. The trend on my Series 9 didn't."
-    name: "Jen"
-    role: "Cyclist"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I'm not pro. I just wanted to know if Tuesday's gym day was smart. Harvee answered from my watch."
-    name: "Tyler"
-    role: "Software developer"
-    watch_model: "Apple Watch SE 2"
+uniqueness_body: |
+  Rings close. Strava applauds. HRV asks whether your nervous system kept up. Harvee is the recovery
+  half recreational athletes skip until injury or illness forces it.
+
+risk_reversal_body: |
+  Train through one hard week with Harvee open each morning — free tier. If HRV suppression shows before
+  your legs admit it, you'll know whether recovery tracking earns a place beside your workout app.
 
 final_cta_line: "Train hard. Recover on evidence."
 
@@ -79,3 +74,24 @@ related_posts:
   - "how-to-improve-your-recovery-using-hrv"
   - "the-problem-with-recovery-scores"
 ---
+
+## Recovery is the invisible half of training
+
+Hard session today, harder tomorrow, rings closed — until flatness, injury, or illness stops you. Adaptation requires recovery. HRV reflects autonomic capacity: dip after hard block, then rebound. When load outpaces recovery, the dip becomes a slope.
+
+Apple Watch captures that slope overnight. Harvee reads it for runners, cyclists, lifters — anyone training seriously enough to need rest but without a coach reading HRV daily.
+
+### One low day vs one low week
+
+Post-workout HRV suppression is normal. A week below baseline is not. Harvee shows the difference so you don't train through suppression because yesterday felt fine.
+
+### Life load counts
+
+Work stress and poor sleep affect recovery as much as mileage. Harvee reads the full autonomic bill from your watch — not only what Strava logged.
+
+### vs single recovery scores
+
+Daily percentages compress a complex system into one number. Harvee emphasises weekly and monthly HRV pattern — see our blog on recovery scores for tradeoffs.
+
+Harvee is not medical advice. Use trends to inform deloads; see professionals for injury and illness.
+

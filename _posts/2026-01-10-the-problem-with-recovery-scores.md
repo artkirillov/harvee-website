@@ -9,6 +9,9 @@ image: "/images/2026-01-10.jpg"
 canonical_url: "https://harvee.app/blog/the-problem-with-recovery-scores"
 show_reading_time: true
 tags: ["HRV", "Recovery", "Stress", "Health Monitoring", "Training"]
+related_pseo:
+  - "recovery-tracking-apple-watch"
+  - "overtraining-apple-watch"
 ---
 
 If you wear a smartwatch, chances are you've seen it. A single number. A percent. A ring, bar, or "battery" telling you how ready you are for the day. You wake up feeling… fine. Maybe not amazing, but fine. Then you check your app.

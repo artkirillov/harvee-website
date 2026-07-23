@@ -4,6 +4,7 @@ description: "watchOS 11 changed Apple Watch health data. Harvee was updated to 
 canonical_url: "https://harvee.app/watchos-11/"
 permalink: /watchos-11/
 axis: device
+deep_dive_headline: "watchOS 11, Vitals, and reading HRV longitudinally"
 
 problem_headline: "watchOS 11 changed how Apple Watch collects health data. Harvee was updated to match."
 problem_subheadline: "New training load, Vitals, and sleep APIs mean richer HealthKit data — if your app knows how to read it."
@@ -50,30 +51,27 @@ features:
 trigger: "watchOS 11 flagged a Vitals anomaly. You opened Harvee and saw fourteen days of context — the Vitals dot was the headline; the chart was the story."
 
 objections:
-  - question: "Does watchOS 11 support HRV tracking?"
-    answer: "Yes. watchOS 11 continues overnight HRV collection via the optical heart sensor, with Vitals surfacing deviations from your recent baseline."
-  - question: "Does watchOS 11 need ECG for HRV?"
-    answer: "No. HRV remains optical. ECG is unchanged and separate from nightly variability used by Harvee."
-  - question: "Do I need to upgrade Harvee after updating watchOS?"
-    answer: "Keep Harvee updated from the App Store for best compatibility with watchOS 11 HealthKit changes. Core passive HRV reading continues across updates."
-  - question: "How is Harvee different from Apple Vitals?"
-    answer: "Vitals highlights recent deviations. Harvee provides dedicated stress-recovery trends, historical Patterns, and guidance tuned to Harvee's baseline model."
-  - question: "Will Harvee drain battery on watchOS 11?"
-    answer: "Harvee reads Health data on iPhone. It does not replace Apple's on-watch processes."
+  - question: "Do I need watchOS 11 specifically for Harvee?"
+    answer: "No. Harvee supports Apple Watch Series 4 and later across watchOS versions. watchOS 11 adds Vitals and Training Load that complement Harvee's baseline model."
+  - question: "Apple Vitals already flags HRV changes — why use Harvee?"
+    answer: "Vitals highlights recent deviations from your short-term baseline. Harvee adds dedicated stress-recovery trends, historical Patterns, and guidance tuned to multi-week arcs."
+  - question: "I updated watchOS 11 and my HRV looks different — is Harvee broken?"
+    answer: "OS updates can change sampling or display. Keep Harvee updated from the App Store. Baselines recalibrate over days as new samples arrive."
+  - question: "Does Training Load replace Harvee's stress view?"
+    answer: "No. Training Load measures physical exertion. Harvee reads autonomic recovery via HRV. Both matter; they answer different questions."
+  - question: "Will watchOS 11 break Harvee on older watches?"
+    answer: "Harvee is maintained for current HealthKit behaviour. Series 4+ on supported watchOS versions continue to work; keep both watch and app updated for best results."
 
-testimonials:
-  - quote: "I updated to watchOS 11 and felt overwhelmed by new health tiles. Harvee was the coherent layer on top."
-    name: "Rita"
-    role: "Project manager"
-    watch_model: "Apple Watch Series 10"
-  - quote: "Training Load plus Harvee's HRV view finally felt like one system, not two apps guessing."
-    name: "Ken"
-    role: "Cyclist"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "Vitals pinged me. Harvee showed why — eight days of trend I would have missed."
-    name: "Olivia"
-    role: "Researcher"
-    watch_model: "Apple Watch Series 9"
+uniqueness_body: |
+  watchOS 11 is Apple's bet on longitudinal health. Harvee was already there — personal baselines,
+  patterns over snapshots, stress as a story across weeks. Vitals is the headline; Harvee is the chapter.
+
+risk_reversal_body: |
+  Updated to watchOS 11? Give Harvee seven nights after the update before judging baselines — your
+  nervous system and the software both need a settling period. The free Today tab is enough to see
+  whether the interpretation layer adds clarity beyond Vitals tiles.
+
+  If not, Vitals remains. Harvee doesn't lock your data.
 
 final_cta_line: "watchOS 11 collects more. Harvee connects it."
 
@@ -81,3 +79,28 @@ related_posts:
   - "hrv-alerts-helpful-nudge-or-false-alarm"
   - "how-to-read-between-the-beats-understanding-hrv-patterns"
 ---
+
+## watchOS 11: more health tiles, same interpretation gap
+
+watchOS 11 pushed Apple Watch health toward patterns — Training Load summarising physical exertion, Vitals surfacing when overnight heart rate or HRV deviates from your recent norm, sleep metrics refined. Apple is saying what Harvee was built on: single readings matter less than whether this week looks different from your baseline.
+
+More tiles can mean more confusion. Vitals flags an HRV dip. Training Load spikes. Sleep shortens. Three signals, three screens, no single narrative about whether to push today or protect recovery. That's the gap a dedicated stress-recovery app still fills.
+
+### How Harvee aligns with watchOS 11's direction
+
+Harvee reads HealthKit samples the way watchOS 11 writes them — including overnight HRV windows Harvee weights most heavily. When Apple adjusts aggregation or adds Vitals summaries, Harvee's pattern-first architecture absorbs new inputs without throwing away your personal history.
+
+Think of Vitals as a smoke alarm: something changed recently. Harvee as the investigation: how many days, how deep, is recovery following or not?
+
+### Training Load plus autonomic load
+
+Physical training is one stressor. Work, parenting, poor sleep, and illness stack on top. Training Load captures the exercise slice. HRV reflects the total autonomic bill. watchOS 11 gives you better exercise accounting; Harvee helps you see whether your nervous system is paying it off.
+
+For people who upgraded iPhone and watch together, the first two weeks after update are recalibration — for Apple software and for your baseline. Wear consistently, let Harvee relearn your normal, then trends restabilise.
+
+### Staying current without anxiety
+
+Keep Harvee updated from the App Store when watchOS major releases ship. Grant Health permissions after updates if iOS prompts. Don't chase every nightly fluctuation — watch the weekly direction.
+
+Harvee is wellness insight, not medical advice. Vitals anomalies worth clinical attention should go to qualified professionals, with Harvee's chart as context if helpful.
+

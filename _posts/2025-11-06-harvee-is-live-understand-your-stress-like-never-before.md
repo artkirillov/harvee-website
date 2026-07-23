@@ -105,13 +105,10 @@ Your heart rate tells a story. Harvee helps you read it.
 
 Perfect for anyone who wants to:
 
-✓ Understand their stress patterns
-✓ Prevent burnout before it happens
-✓ Optimize recovery and performance
-✓ Build sustainable wellness habits
-✓ Make sense of their health data
+- Understand their stress patterns
+- Prevent burnout before it happens
+- Optimize recovery and performance
+- Build sustainable wellness habits
+- Make sense of their health data
 
 Start decoding your body today.
-
-Download Harvee and discover what your body's been trying to tell you.
-

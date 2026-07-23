@@ -416,6 +416,14 @@
     min-height: 320px;
 }
 
+.pseo-testimonial-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--pseo-t1);
+    margin: 0 0 12px;
+    line-height: 1.35;
+}
+
 .pseo-testimonial-card blockquote {
     margin: 0 0 auto;
     padding: 0;

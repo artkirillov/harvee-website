@@ -4,6 +4,7 @@ description: "You track sleep on Apple Watch. Harvee shows what sleep HRV reveal
 canonical_url: "https://harvee.app/sleep-stress-apple-watch/"
 permalink: /sleep-stress-apple-watch/
 axis: usecase
+deep_dive_headline: "When sleep duration hides stress"
 
 problem_headline: "You track your sleep. You don't track what your sleep is trying to tell you about your stress."
 problem_subheadline: "Eight hours in bed isn't the whole story. Overnight HRV is."
@@ -60,19 +61,13 @@ objections:
   - question: "Will Harvee drain battery?"
     answer: "Harvee reads Health data already synced from your watch."
 
-testimonials:
-  - quote: "I perfected my sleep hygiene and still felt wrecked. Harvee showed HRV hadn't recovered in weeks — sleep length wasn't the bottleneck."
-    name: "Clara"
-    role: "Therapist"
-    watch_model: "Apple Watch Series 10"
-  - quote: "Oura was tempting. Harvee used my Apple Watch sleep data I already had. Same question, one device."
-    name: "Mike"
-    role: "Parent of two"
-    watch_model: "Apple Watch Series 8"
-  - quote: "Sleep score said good. HRV trend said stressed. Harvee helped me trust the right number."
-    name: "Nadia"
-    role: "Consultant"
-    watch_model: "Apple Watch Ultra 2"
+uniqueness_body: |
+  Seven hours in bed isn't seven hours of recovery. Overnight HRV tells you whether your nervous system
+  stood down — the layer sleep duration apps often miss. Harvee connects both from Apple Watch.
+
+risk_reversal_body: |
+  If your sleep app says green but you wake tired, try Harvee for two weeks. Compare nights when duration
+  looked fine against HRV baseline — free Today tab. If they diverge often, you've found the missing signal.
 
 final_cta_line: "Sleep length is one chapter. HRV is the plot."
 
@@ -80,3 +75,24 @@ related_posts:
   - "what-your-sleep-data-really-means-for-stress"
   - "why-youre-still-tired-after-8-hours-of-sleep"
 ---
+
+## Sleep tracking without HRV is half the story
+
+Apple Watch made sleep mainstream — duration, stages, consistency. You know six hours versus eight. You may not know whether last night restored your nervous system or merely logged time horizontal.
+
+HRV during sleep reflects autonomic recovery. Under chronic stress, duration can look fine while HRV stays suppressed — body present, system still armed.
+
+### Stress visible before insomnia
+
+Chronic load often flattens HRV before sleep falls apart. Harvee catches the earlier signal for people optimising bedtime while missing the trend underneath.
+
+### Pairing sleep and HRV
+
+Harvee reads Apple Health sleep pipeline plus overnight HRV into one stress-recovery narrative. Your good-week overnight normal becomes reference for stressful weeks.
+
+### When this matters most
+
+You wake tired during high-pressure quarters despite "good" sleep scores. You want rest weeks, not only rest nights. You track sleep religiously but still crash at 3pm.
+
+Harvee is wellness insight, not a sleep disorder diagnostic. Seek clinical care for persistent sleep problems.
+

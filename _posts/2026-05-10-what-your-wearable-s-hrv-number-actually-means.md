@@ -10,6 +10,9 @@ canonical_url: "https://harvee.app/blog/what-your-wearable-s-hrv-number-actually
 show_reading_time: true
 published: true
 tags: ["HRV", "Wearables", "Apple Watch", "Recovery", "Health monitoring"]
+related_pseo:
+  - "hrv-monitor-apple-watch"
+  - "apple-watch-series-9"
 ---
 
 Your wearable says your HRV is 47 milliseconds. A friend mentions theirs is 82. You google “average HRV” and fall into a rabbit hole that ends with you questioning your entire cardiovascular system at 11pm.

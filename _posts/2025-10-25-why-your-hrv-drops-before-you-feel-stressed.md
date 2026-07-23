@@ -50,7 +50,7 @@ Humans are good at normalizing stress. We rationalize it:
 
 Meanwhile, your heart rhythm is signaling: "We're under load."
 
-By the time you feel stressed, your HRV has probably been trending down for a while. A comprehensive review of heart rate variability research indicates that HRV fluctuations often coincide with, or even precede, increases in perceived stress suggesting that HRV can act as an early biomarker of autonomic dysregulation rather than simply a reaction to conscious stress. ([Kim et al., 2018, PMC5900369](https://pmc.ncbi.nlm.nih.gov/articles/PMC5900369/))
+By the time you feel stressed, your HRV has probably been trending down for a while. A comprehensive review of heart rate variability research indicates that HRV fluctuations often coincide with, or even precede, increases in perceived stress suggesting that HRV can act as an early biomarker of autonomic dysregulation rather than simply a reaction to conscious stress. ([Kim et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5900369/))
 
 So yes, your Apple Watch might actually know you're stressed before you do.
 

@@ -5,6 +5,7 @@ canonical_url: "https://harvee.app/vs/livity/"
 permalink: /vs/livity/
 axis: competitor
 competitor: Livity
+deep_dive_headline: "Daily stress scores vs recovery-aware HRV baselines"
 objections_headline: "Questions people ask before switching"
 
 problem_headline: "Livity tracks stress. Harvee tracks what stress is doing to your recovery."
@@ -63,20 +64,6 @@ objections:
   - question: "Will this drain my Apple Watch battery?"
     answer: "Harvee reads existing HealthKit data. No additional on-watch sensor process."
 
-testimonials:
-  - quote: "Livity made stress visible. Harvee made recovery visible too. I didn't realise how long I'd been red on stress while my HRV kept slipping until I saw both on one timeline."
-    name: "Anna"
-    role: "Designer"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I switched from Livity after six months because the score felt the same whether I'd slept or not. Harvee's baseline logic finally matched how I felt in my body."
-    name: "Omar"
-    role: "Consultant"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "I wasn't unhappy with Livity. I just needed to know if I was recovering, not only stressed. Harvee answered that without extra hardware."
-    name: "Jess"
-    role: "Teacher"
-    watch_model: "Apple Watch SE"
-
 uniqueness_body: |
   Stress tracking tells you the weather at noon. Recovery-aware HRV baselines tell you whether
   the ground is flooding.
@@ -85,6 +72,11 @@ uniqueness_body: |
 
   Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
   For what it does to people's lives.
+
+risk_reversal_body: |
+  If Livity's daily stress score already changes how you pace your day, switching may add little.
+  Try Harvee when you feel informed but still surprised by crashes — seven nights free on Today tab
+  shows whether recovery context was the missing piece.
 
 comparison_table:
   - label: "Measurement method"
@@ -103,3 +95,24 @@ related_posts:
   - "what-your-sleep-data-really-means-for-stress"
   - "how-to-track-stress-with-apple-watch"
 ---
+
+## Livity vs Harvee: stress score vs stress-recovery loop
+
+Livity-style apps answer: how stressed am I today? Red, yellow, green. Useful visibility if you've never had language for autonomic activation.
+
+Incomplete when recovery is missing. Two people share a stress score; one slept eight hours with stable HRV, the other is on day eleven of suppression. The score looks similar. The bodies aren't.
+
+### Harvee's second question
+
+Harvee pairs stress trends with personal HRV baselines: are you bouncing back or digging a hole? That pairing predicts burnout more reliably than stress alone.
+
+### Same sensors, different models
+
+Both read Apple Watch heart rate and HRV via HealthKit. Livity emphasises daily scoring. Harvee emphasises 7-day and 28-day baselines with recovery framing.
+
+### Switching guidance
+
+Switch if high stress weeks no longer surprise you but exhaustion still does. Stay if simplicity is the feature you paid for and it's working.
+
+Harvee is not a medical device.
+

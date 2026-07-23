@@ -5,6 +5,7 @@ canonical_url: "https://harvee.app/vs/whoop/"
 permalink: /vs/whoop/
 axis: competitor
 competitor: WHOOP
+deep_dive_headline: "WHOOP vs Apple Watch HRV — what you're actually comparing"
 objections_headline: "Questions people ask before switching"
 
 problem_headline: "Whoop costs £30/month and requires a second device. Your Apple Watch already has the data."
@@ -61,27 +62,24 @@ objections:
   - question: "Will Harvee drain my Apple Watch battery?"
     answer: "Harvee reads data already in Health. No additional strap required."
 
-testimonials:
-  - quote: "I wore WHOOP for two years. The insight was real; the second device wasn't. Harvee gave me 80% of what I used WHOOP for with the watch I already owned."
-    name: "Hannah"
-    role: "Operations manager"
-    watch_model: "Apple Watch Series 9"
-  - quote: "Switching from WHOOP felt like downsizing until I saw three weeks of HRV trend during a crunch period. I didn't need the strain score. I needed the slope."
-    name: "Ryan"
-    role: "Sales director"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "I cancelled WHOOP and kept my Ultra. Harvee was the app that made the watch feel like a recovery tool, not just a notification screen."
-    name: "Kate"
-    role: "Journalist"
-    watch_model: "Apple Watch Ultra"
-
 uniqueness_body: |
   WHOOP sells a subscription to a strap. Harvee sells interpretation to data Apple Watch already owns.
 
-  If your wrist is Apple-shaped, Harvee is built for that constraint — not as a compromise, as a design choice.
+  If your wrist is Apple-shaped, Harvee is built for that constraint — not as a compromise, as a design
+  choice. One device, one charge routine, one Health archive you control.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
-  For what it does to people's lives.
+  Apple recognised Harvee as a Design Awards Finalist for Social Impact — for what it does to people's
+  lives, not for feature checklists.
+
+risk_reversal_body: |
+  Ex-WHOOP users often miss the single recovery number for the first week. Give Harvee fourteen nights
+  on Apple Watch before judging — baselines need time. The free Today tab shows daily direction without
+  paying for Harvee+ or buying new hardware.
+
+  If you still want the strap community, keep WHOOP. If you want consolidation and pattern view, Harvee
+  costs nothing to try.
+
+final_cta_line: "One watch. Your data. No second subscription required to start."
 
 comparison_table:
   - label: "Measurement method"
@@ -94,9 +92,34 @@ comparison_table:
     harvee: "Native; single-device workflow"
     other: "Parallel ecosystem; partial Health sync"
 
-final_cta_line: "One watch. Your data. No second subscription required to start."
-
 related_posts:
   - "the-best-hrv-trackers-for-apple-watch"
   - "apple-watch-stress-monitoring-apps-what-actually-helps-and-what-just-adds-noise"
 ---
+
+## WHOOP vs Harvee: two business models, one question
+
+WHOOP and Harvee both try to answer whether your body can handle today's load. They diverge on hardware, data path, and what "recovery" looks like on screen.
+
+WHOOP optimises for a dedicated strap: continuous HRV, strain score, sleep staging, recovery percentage, community features. You pay monthly for hardware access and cloud interpretation. The workflow is polished if you're all-in on the ecosystem.
+
+Harvee optimises for the Apple Watch already on your wrist: passive overnight HRV via HealthKit, personal baselines, stress-recovery trends across weeks. No second device. Today and Playbook free; Harvee+ for deep Patterns.
+
+### Accuracy vs continuity
+
+WHOOP's strap often wins on per-reading precision for HRV-focused athletes. Apple Watch wins on frictionless continuity — data every night you sleep with it on, integrated with the rest of your health archive. Harvee bets that for lifestyle stress and burnout prevention, the multi-week pattern matters more than the cleanest single morning sample.
+
+That's not saying WHOOP is wrong for its audience. It's saying the question changes when you're a professional wearing Apple Watch daily who doesn't want a parallel subscription.
+
+### Who should switch, who should stay
+
+Stay on WHOOP if you love the strain league, bicep form factor, and recovery number as daily ritual. Consider Harvee if you forgot to charge the strap again, want data in Health you own, or care more about ten-day HRV slides than today's percentage.
+
+Many ex-WHOOP users run a two-week overlap: both apps, compare trends, then drop the subscription when Apple Watch + Harvee tells the same story.
+
+### The consolidation argument
+
+Two devices means two charge routines, two sync paths, two places your data lives. Consolidating on Apple Watch + Harvee is a lifestyle decision as much as a financial one — fewer moving parts, same autonomic question.
+
+Harvee is not a medical device. Neither is WHOOP. Use either as wellness input, not as a substitute for clinical care when you need it.
+

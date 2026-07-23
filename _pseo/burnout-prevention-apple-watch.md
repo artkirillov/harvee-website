@@ -4,6 +4,7 @@ description: "Burnout arrives with warnings your Apple Watch already records. Ha
 canonical_url: "https://harvee.app/burnout-prevention-apple-watch/"
 permalink: /burnout-prevention-apple-watch/
 axis: usecase
+deep_dive_headline: "Physiological early warning before burnout lands"
 
 problem_headline: "Burnout doesn't arrive without warning. It arrives with warnings you didn't know how to read."
 problem_subheadline: "HRV often declines days or weeks before you feel empty. Your Apple Watch has been logging it."
@@ -61,19 +62,17 @@ objections:
   - question: "Will watching HRV increase anxiety?"
     answer: "Harvee aims for one calm daily takeaway — designed for people wary of health tracking spirals."
 
-testimonials:
-  - quote: "I burned out in 2023. This time Harvee showed the slide six weeks earlier. I took a real weekend off. Different outcome."
-    name: "Sarah"
-    role: "VP Engineering"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "I didn't need motivation. I needed proof my body was failing before I admitted it. The chart was proof."
-    name: "James"
-    role: "Physician"
-    watch_model: "Apple Watch Series 9"
-  - quote: "Post-burnout anxiety made me hypervigilant. Harvee's baseline model felt structured, not chaotic."
-    name: "Helen"
-    role: "Nonprofit director"
-    watch_model: "Apple Watch Series 10"
+uniqueness_body: |
+  Burnout arrives with warnings your calendar ignores. HRV often softens ten to fourteen days before
+  subjective crash. Harvee reads that softening from Apple Watch data you already collect — permission
+  to rest with evidence, not guilt.
+
+risk_reversal_body: |
+  If you've burned out before, you know hindsight is cruel. Try Harvee through one high-load month —
+  free Today tab only. See if the chart shows the shape you recognise from last time before you name
+  it burnout again.
+
+  Harvee won't replace boundaries or professional support. It offers earlier physiological signal.
 
 final_cta_line: "Read the warning your watch already wrote."
 
@@ -81,3 +80,24 @@ related_posts:
   - "the-body-signals-most-people-miss-about-burnout"
   - "10-signs-burning-out-not-obvious"
 ---
+
+## Burnout and HRV: the lag nobody talks about
+
+Burnout is compound interest on sustained load — sleep that never restores, motivation that erodes, everything harder than it should be. By the time you name it, recovery is measured in months.
+
+The body often signals earlier. Heart rate variability frequently softens before subjective exhaustion. Apple Watch records that softening overnight into Health. The gap is connection: twelve quiet nights of decline linked to the Tuesday you couldn't get out of bed.
+
+### Who this is for
+
+High performers — leadership, medicine, law, tech, caregiving — where stopping early feels impossible. People recovering from burnout or watching the edge closely. Not another motivational app; physiological early warning.
+
+### What Harvee shows
+
+Sustained HRV suppression. Stress dominance over a month. Recovery failing to follow load. Retrospective clarity after hard seasons — when did your body know?
+
+### Limits and honesty
+
+No app prevents burnout alone. Rest, boundaries, therapy, medical care when needed — Harvee is one input. Wellness insight, not diagnosis.
+
+If tracking increases anxiety, use one daily takeaway and step back from constant checking. The goal is earlier adjustment, not obsession.
+

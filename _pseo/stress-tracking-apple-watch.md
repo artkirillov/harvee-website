@@ -4,6 +4,7 @@ description: "You can see heart rate on Apple Watch. Harvee shows stress pattern
 canonical_url: "https://harvee.app/stress-tracking-apple-watch/"
 permalink: /stress-tracking-apple-watch/
 axis: usecase
+deep_dive_headline: "How Apple Watch stress tracking actually works"
 
 problem_headline: "You can see your heart rate on your Apple Watch. You can't see your stress."
 problem_subheadline: "Heart rate is a symptom. HRV and sleep patterns reveal whether your nervous system is coping."
@@ -61,19 +62,14 @@ objections:
   - question: "Will Harvee drain my battery?"
     answer: "Harvee reads data already in Health. Minimal watch impact."
 
-testimonials:
-  - quote: "I didn't need another stress score. I needed to see the month when everything sped up. Harvee showed it in my Apple Watch data before my therapist asked."
-    name: "Michelle"
-    role: "Attorney"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I was skeptical of stress apps. Harvee felt different because it used data my watch already had — no performance theatre."
-    name: "David"
-    role: "Accountant"
-    watch_model: "Apple Watch SE 2"
-  - quote: "Stress tracking used to mean guessing. Now I check Harvee like weather — is this a hard day or a hard season?"
-    name: "Priya"
-    role: "Product manager"
-    watch_model: "Apple Watch Series 10"
+uniqueness_body: |
+  Stress isn't a moment — it's a pattern. Harvee was built for Apple Watch owners who need the archive,
+  not only the alert: weeks of HRV direction that explain why this Thursday hit harder than last Thursday.
+
+risk_reversal_body: |
+  Stress tracking should reduce guessing, not add anxiety. Try Harvee's free Today tab for one stressful
+  week and one calm week. If the daily takeaway doesn't match your body, delete it. Your watch keeps
+  logging either way.
 
 final_cta_line: "Your watch sees the signal. Harvee names the pattern."
 
@@ -81,3 +77,26 @@ related_posts:
   - "how-to-track-stress-with-apple-watch"
   - "why-your-stress-level-doesn-t-match-how-you-feel"
 ---
+
+## Stress on Apple Watch: beyond heart rate spikes
+
+Apple Watch shows heart rate in real time. Useful on a run. Less useful when you're trying to understand why Tuesday through Thursday felt like wading through mud. Heart rate alone doesn't separate healthy activation from chronic overload.
+
+Stress lives in the autonomic nervous system. Heart rate variability — how much beat-to-beat timing changes — reflects that system with more nuance. Apple Watch records HRV during sleep and quiet periods into Health whether you look or not.
+
+### Why momentary stress scores fall short
+
+A high reading at 3pm confirms what you feel. It doesn't tell you whether today is isolated or day nine of a slide. Chronic overload accumulates quietly — slightly worse sleep, slightly lower HRV — until a normal week breaks you.
+
+Harvee emphasises the shape of load: direction, duration, recovery following or not.
+
+### Personal baseline, not population average
+
+What's stressful physiologically differs person to person. Harvee learns your Apple Watch normal over two weeks, then flags meaningful deviations. The goal is one clear daily takeaway — not a wall of metrics that becomes another worry.
+
+### Practical use for professionals
+
+If your weeks are unpredictable — deadlines, travel, caregiving — passive Apple Watch stress tracking fits better than rituals you'll skip. Wear to sleep, open Harvee briefly, adjust sleep or load when the trend says so.
+
+Harvee is not a medical device. It's body wisdom for people who want data to inform rest, not replace professional care when needed.
+

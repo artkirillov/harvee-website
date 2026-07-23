@@ -5,6 +5,7 @@ canonical_url: "https://harvee.app/vs/welltory/"
 permalink: /vs/welltory/
 axis: competitor
 competitor: Welltory
+deep_dive_headline: "Welltory's camera protocol vs passive Apple Watch HRV"
 objections_headline: "Questions people ask before switching"
 
 problem_headline: "Welltory shows you your HRV score. Then what?"
@@ -63,20 +64,6 @@ objections:
   - question: "I'm not a biohacker. Will I actually understand this?"
     answer: "Harvee is built for people who find HRV confusing, not for people who already love it. The goal is one clear takeaway per day, not a wall of metrics. If you've felt overwhelmed by health data before, that's the problem Harvee is designed to solve."
 
-testimonials:
-  - quote: "I was skeptical because I'd tried three or four HRV apps and they all felt like the same thing with different colours. Welltory was the most polished, but I kept forgetting to do the daily measurement. With Harvee there's nothing to remember. I had a period two months ago where I could see the stress accumulating in the chart before I consciously felt it. That's never happened with any other app."
-    name: "James"
-    role: "Software engineer"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I almost didn't bother because I assumed it would be another app that tells me my HRV is low and then says 'try to relax.' What's different is that Harvee shows the pattern across weeks. I went back and looked at my data from the month before I got sick last winter and the trend was there — ten days of declining HRV before I had any symptoms."
-    name: "Rachel"
-    role: "Teacher"
-    watch_model: "Apple Watch Ultra"
-  - quote: "I was a Welltory user for about eighteen months. The main reason I switched is that the manual measurement became something I dreaded rather than looked forward to. Harvee removed the friction entirely. The tradeoff is that individual readings are less precise, but the patterns are what matter for how I make decisions anyway."
-    name: "Tom"
-    role: "Freelance designer"
-    watch_model: "Apple Watch SE 2"
-
 uniqueness_body: |
   Most HRV apps were built to answer the question: what is my HRV right now?
   Harvee was built to answer a different question: what has my nervous system been doing,
@@ -92,6 +79,13 @@ uniqueness_body: |
 
   Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it
   looks. For what it does to people's lives.
+
+risk_reversal_body: |
+  If Welltory's daily camera ritual still fits your morning, keep it. Try Harvee alongside for two
+  weeks without deleting anything — compare whether passive Apple Watch trends catch dips your
+  episodic readings miss. Harvee's Today tab is free.
+
+  Walk away if patterns don't add clarity. No hardware lock-in either way.
 
 comparison_table:
   - label: "Measurement method"
@@ -110,3 +104,26 @@ related_posts:
   - "what-your-wearable-s-hrv-number-actually-means"
   - "how-to-interpret-apple-watch-heart-rate-variability"
 ---
+
+## Welltory vs Harvee: episodic precision vs continuous patterns
+
+Welltory built a loyal audience around a specific ritual: camera on the fingertip, controlled breathing, a clean HRV reading in known conditions. That protocol produces precise snapshots — excellent when you do it every day at the same time.
+
+Life interrupts rituals. Travel, children, early meetings, the morning you forget. Each missed session is a gap in the chart. Harvee's model assumes gaps happen and leans on Apple Watch background HRV instead — noisier per reading, continuous across nights.
+
+### Same Health data, different philosophy
+
+Welltory can import Apple Health. Its centre of gravity remains the measurement you perform. Harvee's centre of gravity is the measurement your watch already performed while you slept. Both are valid. The choice is which failure mode you prefer: imprecise continuity or precise intermittency.
+
+For stress accumulation over weeks — the slow slide before burnout — continuity often wins. For biofeedback during breathing practice, Welltory's approach may still be better.
+
+### What Harvee adds for Apple Watch natives
+
+Harvee is Apple Watch-first: understands HealthKit sampling, weights overnight windows, builds personal baselines without cross-platform compromise. If your wrist is Apple-only and your question is "what has my nervous system been doing," Harvee is tuned for that.
+
+### Honest switching advice
+
+Don't switch because Harvee is "better" in abstract. Switch if the camera ritual stopped fitting and you still want HRV to mean something. Keep Welltory if the ritual is the point and gaps don't bother you.
+
+Harvee is not a medical device. Use either app as wellness context, not diagnosis.
+

@@ -57,7 +57,7 @@ It means your system is adapting to something. When apps don't explain that nuan
 
 ## The paradox: tracking stress can create stress
 
-Several studies have identified what researchers now call the nocebo effect of monitoring where awareness of a metric worsens perceived symptoms ([Barsky et al., 2002](https://pubmed.ncbi.nlm.nih.gov/12020326/)).
+Several studies have identified what researchers now call the nocebo effect of monitoring where awareness of a metric worsens perceived symptoms ([Barsky et al., 2002](https://pubmed.ncbi.nlm.nih.gov/11829702/)).
 
 You notice your sleep score is poor. You sleep worse because you're thinking about it. The score confirms it the next morning.
 

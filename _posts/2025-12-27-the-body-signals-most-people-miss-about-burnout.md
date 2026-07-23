@@ -9,6 +9,8 @@ image: "/images/2025-12-27.jpg"
 canonical_url: "https://harvee.app/blog/the-body-signals-most-people-miss-about-burnout"
 show_reading_time: true
 tags: ["Burnout", "Stress", "HRV", "Recovery", "Sleep", "Health Monitoring"]
+related_pseo:
+  - "burnout-prevention-apple-watch"
 ---
 
 Burnout rarely hits like a cartoon lightning bolt. It creeps in, like a slow drip that eventually fills the bucket. And we often overlook the early, subtle signs because they don't feel like stress.

@@ -4,6 +4,7 @@ description: "Your Apple Watch measures HRV every night. Harvee explains what it
 canonical_url: "https://harvee.app/hrv-monitor-apple-watch/"
 permalink: /hrv-monitor-apple-watch/
 axis: usecase
+deep_dive_headline: "Reading Apple Watch HRV without the guesswork"
 
 problem_headline: "Your Apple Watch measures HRV every night. Most people don't know what it means."
 problem_subheadline: "RMSSD in milliseconds is accurate and useless without your personal baseline."
@@ -60,19 +61,14 @@ objections:
   - question: "Do I need to measure HRV manually?"
     answer: "No. Harvee uses passive Apple Watch collection for core monitoring."
 
-testimonials:
-  - quote: "I read three articles about HRV and understood less. One week of Harvee on my watch data and it clicked."
-    name: "Eric"
-    role: "Teacher"
-    watch_model: "Apple Watch Series 8"
-  - quote: "Health gave me numbers. Harvee gave me a baseline. Completely different experience."
-    name: "Yuki"
-    role: "Designer"
-    watch_model: "Apple Watch Series 9"
-  - quote: "I'm not athletic. I just wanted to know what the watch was measuring. Harvee was patient with that question."
-    name: "Grace"
-    role: "Librarian"
-    watch_model: "Apple Watch SE 2"
+uniqueness_body: |
+  Health stores HRV. Harvee monitors it — relative to you, over time, in plain language. The shift from
+  "is 42ms good?" to "is my trend climbing or sliding?" is where monitoring becomes useful.
+
+risk_reversal_body: |
+  Googling "normal HRV" at midnight won't help. Wear Apple Watch to sleep for fourteen nights with
+  Harvee free tier — let your baseline form before judging any single reading. If interpretation still
+  feels noisy, the problem may be wear consistency, not the app.
 
 final_cta_line: "Stop guessing what milliseconds mean."
 
@@ -80,3 +76,24 @@ related_posts:
   - "how-to-interpret-apple-watch-heart-rate-variability"
   - "what-your-wearable-s-hrv-number-actually-means"
 ---
+
+## Apple Watch HRV: storage vs monitoring
+
+Health lists HRV in milliseconds — 42, 51, 38 — with no legend for whether today is fine, noise, or early warning. HRV isn't a league table. Higher is often better, but only relative to you, your sleep, your training, yesterday's load.
+
+Your Apple Watch builds the raw archive nightly. Harvee monitors that archive: personal range, trend direction, context when a low reading is recovery versus overload.
+
+### Overnight samples as the anchor
+
+Apple Watch HRV is most reliable during sleep — fewer movement artifacts, less caffeine noise. Harvee weights those readings when building baselines. Daytime samples add colour; overnight samples set direction.
+
+### Trend beats snapshot
+
+One low night might be wine or a hard workout. Ten low nights is a pattern. Monitoring means watching duration and slope, not panicking at a single point.
+
+### For beginners and skeptics
+
+Harvee's Playbook explains mechanics without forcing sport science vocabulary. Today tab gives one takeaway. Patterns — Harvee+ — shows the month when you're ready.
+
+Harvee is not a medical device. Bring concerning trends to qualified professionals when appropriate.
+

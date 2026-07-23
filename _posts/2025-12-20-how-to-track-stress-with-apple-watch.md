@@ -9,6 +9,9 @@ image: "/images/2025-12-20.jpg"
 canonical_url: "https://harvee.app/blog/how-to-track-stress-with-apple-watch"
 show_reading_time: true
 tags: ["Apple Watch", "Stress", "HRV", "Stress Tracking", "Health Monitoring", "Recovery", "Stress Management"]
+related_pseo:
+  - "stress-tracking-apple-watch"
+  - "hrv-monitor-apple-watch"
 ---
 
 At some point, most Apple Watch owners have wondered the same thing:

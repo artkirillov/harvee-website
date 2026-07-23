@@ -4,6 +4,7 @@ description: "Ultra 2 is built for extremes. Harvee turns its HRV and sleep data
 canonical_url: "https://harvee.app/apple-watch-ultra-2/"
 permalink: /apple-watch-ultra-2/
 axis: device
+deep_dive_headline: "Ultra 2 HRV for people who push hard and recover rarely"
 
 problem_headline: "Apple Watch Ultra 2 is built for extremes. So is the stress that comes with performing at that level."
 problem_subheadline: "Long battery life means more continuous data. Harvee turns Ultra 2 HRV into whether you're recovering from the load, not only surviving it."
@@ -52,30 +53,29 @@ features:
 trigger: "You finished a century ride on Saturday and flew to a client on Sunday. Ultra 2 logged everything. Harvee showed HRV suppression starting Thursday — you weren't recovered going in, even though you felt ready."
 
 objections:
-  - question: "Does Apple Watch Ultra 2 support HRV tracking?"
-    answer: "Yes. Ultra 2 uses the same optical heart sensing pipeline as other Apple Watches, recording HRV during sleep and rest into Apple Health."
-  - question: "Does Ultra 2 need ECG for HRV?"
-    answer: "No. HRV is derived from optical measurements during sleep. ECG is a separate rhythm feature."
-  - question: "I use Ultra for serious training. Is Harvee enough?"
-    answer: "Harvee complements training apps by focusing on autonomic recovery trends. It's not a replacement for sport-specific periodisation tools."
-  - question: "How is this different from Apple Health?"
-    answer: "Health archives data. Harvee interprets Ultra 2 trends against your baseline with stress-recovery framing."
-  - question: "Will Harvee drain Ultra 2 battery?"
-    answer: "Harvee reads Health data on iPhone. It doesn't add continuous new sensing on the watch."
+  - question: "I stack double workouts on Ultra 2 — how does Harvee separate training from life stress?"
+    answer: "Harvee reads total autonomic load via HRV trends. It doesn't isolate gym stress from work stress — your nervous system doesn't either. The trend still predicts recovery capacity."
+  - question: "Ultra 2 battery lasts through multi-day events — does Harvee use that data differently?"
+    answer: "More continuous nights improve trend quality. Harvee doesn't treat Ultra 2 differently by model — but Ultra 2 wearers often have fewer gaps, which sharpens baselines."
+  - question: "I use Training Load in watchOS 11 — how does Harvee relate?"
+    answer: "Training Load tracks physical exertion. Harvee tracks whether your HRV baseline suggests you're absorbing that exertion. Complementary views on the same watch."
+  - question: "Can Harvee tell me to skip a race?"
+    answer: "Harvee surfaces recovery patterns — sustained HRV suppression, stress accumulation. You decide whether to start. It's input for judgment, not a race director."
+  - question: "Does Ultra 2 need cellular for Harvee?"
+    answer: "No. Harvee syncs via the paired iPhone and HealthKit. Cellular Ultra 2 works the same as GPS-only for Harvee's data path."
 
-testimonials:
-  - quote: "Ultra 2 survived a two-day race. Harvee survived the month after — when my HRV said I was still paying for it."
-    name: "Victor"
-    role: "Ultrarunner"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "I track every workout. Harvee was the first app that made recovery on Ultra 2 feel as serious as the training."
-    name: "Claire"
-    role: "Investment banker"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "Battery meant I never took it off. Harvee used that full HRV history — finally something matched the watch's capability."
-    name: "Ben"
-    role: "Firefighter"
-    watch_model: "Apple Watch Ultra 2"
+uniqueness_body: |
+  Ultra 2 measures the effort. Harvee measures whether you're recovering from it — the question high
+  performers skip until the body cashes the check.
+
+  Multi-day battery isn't just convenience. It's a longer uninterrupted HRV story Harvee can read.
+
+risk_reversal_body: |
+  Wear Ultra 2 through a hard training week plus sleep. Open Harvee each morning — free Today tab only.
+  If the recovery framing doesn't match what your legs and mood are telling you, walk away before
+  subscribing to Harvee+.
+
+  Ultra 2 keeps logging. Harvee earns the subscription by being useful, not by locking basic insight.
 
 final_cta_line: "Ultra 2 measures the effort. Harvee measures whether you're recovering from it."
 
@@ -83,3 +83,28 @@ related_posts:
   - "how-to-improve-your-recovery-using-hrv"
   - "the-problem-with-recovery-scores"
 ---
+
+## Ultra 2: when continuous wear changes the HRV picture
+
+Apple Watch Ultra 2 is built for people who treat the watch as equipment — long adventures, double sessions, travel without a charger. That lifestyle creates a health data advantage easy to overlook: fewer nights off the wrist means fewer holes in the HRV archive.
+
+HRV trend analysis is only as good as continuity. One missing night is noise. Five missing nights in a month distort baselines. Ultra 2 owners who sleep with the watch on often hand Harvee a cleaner signal than intermittent wearers — not because the sensor is different, but because the habit is.
+
+### Performance culture vs recovery reality
+
+Ultra 2 pairs naturally with hard-charging behaviour. The Action button logs workouts. Rings close. Training apps applaud strain. Meanwhile overnight HRV can slide for two weeks while subjective energy holds — until it doesn't.
+
+Harvee focuses on that lag. The autonomic nervous system often signals overload before conscious fatigue admits it. For Ultra 2 wearers stacking physical and professional load, that early read is the difference between a planned deload and a forced stop.
+
+### Reading Ultra 2 data with Harvee
+
+Harvee weights overnight HRV, compares to rolling seven-day and four-week baselines, and surfaces stress-recovery direction on the Today tab. Patterns tab — Harvee+ — shows the month-level shape: when load built, when recovery failed to follow, when baseline HRV climbed back.
+
+This isn't a replacement for coaching software or race planning. It's the recovery half of the equation from hardware you already wear.
+
+### Ultra 2 and watchOS 11 together
+
+If you're on watchOS 11, Training Load and Vitals add tiles to Health. Harvee connects the thread Apple is pulling toward: longitudinal context. Vitals flags a deviation; Harvee shows the arc leading to it. Useful when you're deciding whether today's long run is absorption or accumulation.
+
+Harvee is not a medical device. Use patterns to inform rest and load — and seek professional guidance when symptoms warrant it.
+

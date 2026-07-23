@@ -17,9 +17,9 @@ The good news: a handful of simple habits reliably shift autonomic balance towar
 
 ## 1. Consistent Sleep Timing
 
-Sleep is the primary nervous system reset. During deep and REM stages, cortisol drops, tissues repair, and autonomic balance restores ([Walker, 2017](https://www.penguinrandomhouse.com/books/317282/why-we-sleep-by-matthew-walker-phd/)). But the timing matters as much as the duration.
+Sleep is the primary nervous system reset. During deep and REM stages, cortisol drops, tissues repair, and autonomic balance restores ([Walker, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5863668/)). But the timing matters as much as the duration.
 
-People who maintain regular bed and wake times — within roughly a one-hour window — show better sleep quality, lower perceived stress, and higher HRV than those with irregular schedules, even when total sleep hours are similar ([Phillips et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28624244/)).
+People who maintain regular bed and wake times — within roughly a one-hour window — show better sleep quality, lower perceived stress, and higher HRV than those with irregular schedules, even when total sleep hours are similar ([Phillips et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28607474/)).
 
 Practical steps:
 
@@ -42,7 +42,7 @@ The key is consistency, not intensity. Overtraining suppresses HRV and elevates 
 
 Breathing is the fastest lever you have for shifting autonomic state. Slow breathing — around 5–6 breaths per minute with longer exhales — stimulates the vagus nerve and increases parasympathetic activity ([Lehrer & Gevirtz, 2014](https://pubmed.ncbi.nlm.nih.gov/25101026/)).
 
-This isn't meditation theater. It's physiology. Even 5 minutes of paced breathing can improve short-term HRV response and reduce subjective stress ([Zaccaro et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30249025/)).
+This isn't meditation theater. It's physiology. Even 5 minutes of paced breathing can improve short-term HRV response and reduce subjective stress ([Zaccaro et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30245619/)).
 
 Simple protocols that work:
 
@@ -54,15 +54,15 @@ No incense required. Just slow, nasal breathing for a few minutes.
 
 ## 4. Morning Daylight Exposure
 
-Your circadian rhythm — the 24-hour clock governing alertness, hormones, and sleep timing — is set primarily by light hitting your eyes ([Czeisler & Gooley, 2007](https://pubmed.ncbi.nlm.nih.gov/17557966/)).
+Your circadian rhythm — the 24-hour clock governing alertness, hormones, and sleep timing — is set primarily by light hitting your eyes ([Czeisler & Gooley, 2007](https://pubmed.ncbi.nlm.nih.gov/18419318/)).
 
-Morning light exposure (even on cloudy days) advances your circadian phase, improves sleep quality that night, and supports healthier cortisol rhythms throughout the day ([Wright et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23929401/)). Research also links morning light to improved mood and higher daytime HRV ([Figueiro & Rea, 2010](https://pubmed.ncbi.nlm.nih.gov/20653439/)).
+Morning light exposure (even on cloudy days) advances your circadian phase, improves sleep quality that night, and supports healthier cortisol rhythms throughout the day. Research also links morning light to improved mood and higher daytime HRV ([Figueiro & Rea, 2010](https://pubmed.ncbi.nlm.nih.gov/20652045/)).
 
 The protocol is simple: 10–15 minutes of outdoor light within an hour of waking. No sunglasses. No special lamp required (though light therapy boxes help in winter). Your nervous system calms when it knows what time it is. Daylight is how it knows.
 
 ## 5. Consistent Hydration
 
-Hydration rarely makes wellness lists, but even mild dehydration — as little as 1–2% body water loss — elevates cortisol, increases heart rate, and reduces cognitive performance ([Armstrong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22770215/)). Your body interprets low fluid volume as a physiological threat, which keeps sympathetic activity elevated.
+Hydration rarely makes wellness lists, but even mild dehydration — as little as 1–2% body water loss — elevates cortisol, increases heart rate, and reduces cognitive performance ([Armstrong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22190027/)). Your body interprets low fluid volume as a physiological threat, which keeps sympathetic activity elevated.
 
 Signs you're underhydrated aren't dramatic: slightly elevated heart rate, mental fog, irritability, a vague sense of being "off." None of these feel like dehydration — which is why it's easy to miss.
 

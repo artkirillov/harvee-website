@@ -103,6 +103,17 @@
             </div>
         </section>
 
+        {% if content and content != "" %}
+        <section class="pseo-health-section pseo-deep-dive" aria-labelledby="pseo-deep-dive-headline">
+            <div class="pseo-section-intro">
+                <h2 id="pseo-deep-dive-headline" class="pseo-section-heading">{{ page.deep_dive_headline | default: "In depth" | escape }}</h2>
+                <div class="pseo-body pseo-deep-dive-content">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
+        {% endif %}
+
         <!-- Bag 3: Target profile -->
         <section class="pseo-health-section" aria-labelledby="pseo-profile-headline">
             <div class="pseo-section-intro">
@@ -343,6 +354,41 @@
             </ul>
         </section>
         {% endif %}
+
+        <section class="pseo-related pseo-related-guides" aria-labelledby="pseo-related-guides-headline">
+            <h2 id="pseo-related-guides-headline">Related guides</h2>
+            <ul>
+                {% assign guide_link_count = 0 %}
+                {% for guide in site.pseo %}
+                {% if guide.axis != 'index' and guide.url != page.url and guide.axis == page.axis and guide_link_count < 4 %}
+                <li><a href="{{ guide.url | relative_url }}">{{ guide.problem_headline | default: guide.title | escape }}</a></li>
+                {% assign guide_link_count = guide_link_count | plus: 1 %}
+                {% endif %}
+                {% endfor %}
+                {% if page.axis == 'device' or page.axis == 'competitor' %}
+                {% for guide in site.pseo %}
+                {% if guide.axis == 'usecase' and guide_link_count < 6 %}
+                <li><a href="{{ guide.url | relative_url }}">{{ guide.problem_headline | default: guide.title | escape }}</a></li>
+                {% assign guide_link_count = guide_link_count | plus: 1 %}
+                {% endif %}
+                {% endfor %}
+                {% elsif page.axis == 'usecase' %}
+                {% for guide in site.pseo %}
+                {% if guide.axis == 'device' and guide_link_count < 5 %}
+                <li><a href="{{ guide.url | relative_url }}">{{ guide.problem_headline | default: guide.title | escape }}</a></li>
+                {% assign guide_link_count = guide_link_count | plus: 1 %}
+                {% endif %}
+                {% endfor %}
+                {% for guide in site.pseo %}
+                {% if guide.axis == 'competitor' and guide_link_count < 7 %}
+                <li><a href="{{ guide.url | relative_url }}">{{ guide.problem_headline | default: guide.title | escape }}</a></li>
+                {% assign guide_link_count = guide_link_count | plus: 1 %}
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+                <li><a href="{{ '/guides/' | relative_url }}">All Harvee guides</a></li>
+            </ul>
+        </section>
         {% endif %}
     </main>
 
@@ -352,6 +398,9 @@
                 <div class="gf-footer-legal">
                     <div class="gf-footer-legal-copyright">Copyright © 2026 Peak Labs Ltd.</div>
                     <ul class="gf-footer-legal-links" role="list">
+                        <li class="gf-footer-legal-links-item" role="listitem">
+                            <a class="gf-footer-legal-link" href="{{ '/guides/' | relative_url }}">Guides</a>
+                        </li>
                         <li class="gf-footer-legal-links-item" role="listitem">
                             <a class="gf-footer-legal-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>
                         </li>

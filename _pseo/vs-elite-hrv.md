@@ -5,6 +5,7 @@ canonical_url: "https://harvee.app/vs/elite-hrv/"
 permalink: /vs/elite-hrv/
 axis: competitor
 competitor: Elite HRV
+deep_dive_headline: "Chest strap protocols vs Apple Watch overnight HRV"
 objections_headline: "Questions people ask before switching"
 
 problem_headline: "Elite HRV was built for serious athletes. Harvee was built for the rest of us."
@@ -63,26 +64,19 @@ objections:
   - question: "Will this drain my Apple Watch battery?"
     answer: "Harvee reads existing HealthKit data only."
 
-testimonials:
-  - quote: "Elite HRV was brilliant during triathlon season. Off-season I couldn't maintain the protocol. Harvee used my watch data and I didn't have to become a worse version of an athlete to understand my stress."
-    name: "Greg"
-    role: "Engineer"
-    watch_model: "Apple Watch Series 10"
-  - quote: "I switched from Elite HRV because the strap felt like homework. Harvee's patterns matched how I felt during a brutal quarter at work — no morning test required."
-    name: "Nina"
-    role: "Product lead"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "I thought passive HRV would be too vague. It was less precise per day but more honest across weeks. That's what I needed after leaving Elite HRV behind."
-    name: "Leo"
-    role: "Personal trainer"
-    watch_model: "Apple Watch Series 9"
-
 uniqueness_body: |
   Elite HRV serves athletes who will follow a protocol. Harvee serves Apple Watch owners who won't —
   but still need to see overload coming.
 
   Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
   For what it does to people's lives.
+
+risk_reversal_body: |
+  Elite HRV users who quit the protocol but kept the strap in a drawer are Harvee's core audience.
+  Install free, sleep with Apple Watch for two weeks, see if the trend line replaces the ritual you
+  couldn't sustain.
+
+  Coaches who need standardised team exports should stay on Elite HRV for that workflow.
 
 comparison_table:
   - label: "Measurement method"
@@ -101,3 +95,20 @@ related_posts:
   - "the-best-hrv-trackers-for-apple-watch"
   - "the-problem-with-recovery-scores"
 ---
+
+## Elite HRV vs Harvee: protocol precision vs everyday continuity
+
+Elite HRV serves athletes and coaches who will follow a morning standard: same time, same position, chest strap paired, exportable data. That discipline produces clean comparisons week to week.
+
+Most Apple Watch owners won't. Stress arrives from work, sleep disruption, and life — not only training blocks. The chest strap lives in the drawer. Reminders get swiped. Three weeks later exhaustion arrives "unexpectedly."
+
+### Apple Watch as the only sensor
+
+Harvee assumes the watch on your wrist is enough for trend-based stress monitoring. Individual nights are noisier than a strap reading. Fourteen uninterrupted nights are often more actionable than fourteen perfect mornings you didn't have.
+
+### Who stays on Elite HRV
+
+Stay if your coach reviews exports, you train competitively, and the protocol still happens. Switch if the protocol became the bottleneck and your question is life stress, not session RPE.
+
+Harvee is not a medical device. Elite sport decisions still need human judgment.
+

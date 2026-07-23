@@ -5,6 +5,7 @@ canonical_url: "https://harvee.app/vs/hrv4training/"
 permalink: /vs/hrv4training/
 axis: competitor
 competitor: HRV4Training
+deep_dive_headline: "Athlete morning HRV vs everyday Apple Watch trends"
 objections_headline: "Questions people ask before switching"
 
 problem_headline: "HRV4Training is built for athletes. What about everyone else?"
@@ -64,20 +65,6 @@ objections:
   - question: "Will this drain my Apple Watch battery?"
     answer: "Harvee reads data Apple Watch already collects. It does not add a separate background sensor process."
 
-testimonials:
-  - quote: "I trained for an Ironman with HRV4Training and trusted it completely. After the race I kept the app but stopped measuring most mornings. Harvee picked up where my watch left off — I didn't have to rebuild a habit I no longer had time for."
-    name: "Elena"
-    role: "Marketing director"
-    watch_model: "Apple Watch Ultra 2"
-  - quote: "I thought I needed the athlete version of HRV. Turns out I needed something that explained why my HRV dropped during a product launch, not just after a long run. Harvee made that visible without a spreadsheet mindset."
-    name: "Marcus"
-    role: "Startup founder"
-    watch_model: "Apple Watch Series 10"
-  - quote: "Switching from HRV4Training felt like admitting I wasn't serious enough. It wasn't that — I just wasn't serious about morning measurements anymore. Harvee matched how I actually live."
-    name: "Priya"
-    role: "Physiotherapist"
-    watch_model: "Apple Watch Series 8"
-
 uniqueness_body: |
   HRV4Training answers: should I train hard today?
   Harvee answers: what has my nervous system been carrying, and is it trending toward recovery or overload?
@@ -87,6 +74,13 @@ uniqueness_body: |
 
   Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
   For what it does to people's lives.
+
+risk_reversal_body: |
+  In a training block? HRV4Training may still earn its place. Off-season or life-heavy phase? Try
+  Harvee free for fourteen nights and see if passive trends answer the questions you actually have
+  right now.
+
+  You can return to morning camera readings anytime. Your Apple Watch kept logging either way.
 
 comparison_table:
   - label: "Measurement method"
@@ -105,3 +99,26 @@ related_posts:
   - "the-problem-with-recovery-scores"
   - "how-to-improve-your-recovery-using-hrv"
 ---
+
+## HRV4Training vs Harvee: when the athlete protocol stops fitting
+
+HRV4Training shines in structured sport. Morning measurement, training log, readiness to plan today's intensity. If you're periodising for a race and your coach wants RMSSD exports, it's a serious tool.
+
+The mismatch appears when training isn't the organising principle of your week. Work travel replaces long runs. Parenting replaces the 6am measurement window. The app still works — but the chart has holes, and holes break the model HRV4Training assumes.
+
+### Passive Apple Watch HRV for the rest of life
+
+Harvee doesn't ask you to measure. It asks you to wear your watch to sleep. Stress from deadlines, caregiving, and poor sleep moves HRV the same way intervals do — but you won't log it in a training diary.
+
+For whole-life nervous system monitoring, continuous overnight data often beats perfect mornings you can't maintain.
+
+### Can you use both?
+
+Yes. HRV4Training for blocks where session planning matters; Harvee for the months between when you still want physiological context without the protocol. Different questions, overlapping sensor.
+
+### Who should choose Harvee
+
+Choose Harvee if you skipped morning readings often enough that your HRV chart embarrasses you, or if your primary fear is burnout rather than tomorrow's tempo run.
+
+Harvee is not a medical device. Athletes with clinical concerns should involve qualified professionals.
+
