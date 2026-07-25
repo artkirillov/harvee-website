@@ -57,7 +57,7 @@ You take a structured morning reading typically using your phone's camera flash 
 
 What sets it apart is the depth of personalization. The app learns your individual response patterns over time and uses sophisticated algorithms to detect when you're consistently outside your baseline, not just having normal day-to-day variations.
 
-**Best for:** Endurance athletes, anyone tracking training load, or people who understand that "higher HRV" isn't always better, stable HRV within your normal range is what matters. Also perfect for the analytically inclined who want to see exactly how their numbers are calculated.
+**Best for:** Endurance athletes, anyone tracking training load, or people who understand that "higher HRV" isn't always better, stable HRV within your normal range is what matters. Also perfect for the analytically inclined who want to see how their numbers are calculated.
 
 **Pricing:** One-time purchase on the App Store (around $10).
 

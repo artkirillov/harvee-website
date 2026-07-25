@@ -20,7 +20,7 @@ That's stress - the kind that doesn't shout, it whispers.
 
 And most of us don't hear it until it's too late.
 
-That's exactly why we built Harvee.
+That's why we built Harvee.
 
 ## Your Body's Speaking. Harvee Translates.
 

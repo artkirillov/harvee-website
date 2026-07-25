@@ -24,7 +24,7 @@ The WHO defines burnout as a syndrome of chronic workplace stress with three mar
 
 What does show up earlier is physiology. Studies comparing burned-out workers to healthy controls find consistently higher resting heart rates and lower heart rate variability — often before people report feeling overwhelmed ([De Vente et al., 2003](https://pubmed.ncbi.nlm.nih.gov/12782748/)). HRV in particular reflects how well your autonomic nervous system balances stress and recovery. When recovery falls behind load, HRV tends to drift downward over days and weeks ([Kim et al., 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC5900369/)).
 
-The gap between "I feel fine" and "my body is under strain" is exactly where wearables help. Subjective check-ins normalize chronic stress. Objective trends don't.
+The gap between "I feel fine" and "my body is under strain" is where wearables can help. Subjective check-ins normalize chronic stress. Objective trends don't.
 
 ## The Three Signals Worth Tracking
 

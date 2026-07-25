@@ -107,7 +107,7 @@ Because if your heart can't find rhythm in stillness, maybe that's the data poin
 The Apple Watch gives us an incredible window into the hidden patterns of our bodies but it's not an oracle.
 
 HRV can't tell you who you are, but it can tell you how your body is doing.
-And sometimes, that's exactly the reminder we need, not to push harder, but to recover smarter.
+And sometimes, that's the reminder we need, not to push harder, but to recover smarter.
 
 ---
 

@@ -60,7 +60,7 @@ Here's the trap. Alcohol is a sedative, so it often helps you fall asleep faster
 
 The bill comes due in the second half. A comprehensive review of alcohol and sleep found that across doses, alcohol delays and suppresses REM sleep and increases sleep disruption in the back half of the night ([Ebrahim et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23347102/)). REM is where a lot of emotional and cognitive processing happens — so you lose quality even when you don't lose hours.
 
-That's the disconnect: your *perception* says "I slept fine," while your *physiology* logs elevated heart rate, suppressed HRV, and fragmented REM. This is exactly the kind of gap wearables exist to surface. 
+That's the disconnect: your *perception* says "I slept fine," while your *physiology* logs elevated heart rate, suppressed HRV, and fragmented REM. This kind of gap wearables surface very well. 
 
 *For more on reading overnight signals, see [What Your Sleep Data Really Means for Stress](/blog/what-your-sleep-data-really-means-for-stress).*
 
