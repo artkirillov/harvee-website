@@ -6,7 +6,7 @@ date: 2026-07-23
 author: "Artie"
 keywords: ["heat and HRV", "summer heat recovery", "hot weather heart rate variability", "does heat affect HRV", "HRV in summer", "nighttime heat and sleep", "heat acclimatization", "dehydration and HRV"]
 image: "/images/2026-07-23.jpg"
-canonical_url: "https://harvee.app/blog/how-summer-heat-affects-hrv-recovery"
+canonical_url: "https://harvee.app/blog/why-summer-heat-quietly-strains-your-hrv-even-at-rest"
 tags: ["HRV", "Heat", "Recovery", "Sleep", "Summer Wellness"]
 show_reading_time: true
 published: true
