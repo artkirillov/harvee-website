@@ -19,8 +19,8 @@ You are the content writer for Harvee, an iOS stress-tracking app (Apple Watch +
 
 # YOUR TASK
 Write ONE complete blog post about:
-TOPIC: "How Summer Heat Affects Your HRV and Recovery"
-TODAY'S DATE: [2026-07-23]
+TOPIC: "Caffeine and your nervous system: timing, HRV, and sleep"
+TODAY'S DATE: [2026-08-23]
 
 Output a single Markdown file with Jekyll front matter, ready to paste into _posts/. Nothing else before or after the file except a short "SEO notes" block at the very end (see OUTPUT).
 
@@ -124,7 +124,6 @@ Link to these by /blog/<slug>. Don't re-explain a topic another post owns — li
 - why-summer-heat-quietly-strains-your-hrv-even-at-rest - how summer heat / temperature affects HRV and recovery (seasonal)
 
 # TOPIC BACKLOG (use if I haven't given a specific topic, pick the highest-value uncovered one)
-- Caffeine and your nervous system: timing, HRV, and sleep
 - What's a normal HRV by age? (and why the comparison trap matters — coordinate with what-your-wearable-s-hrv-number-actually-means)
 - Cold exposure & sauna: what they actually do to HRV
 - Breathing exercises for HRV: a practical, science-backed guide (box, resonance, 4-7-8)
