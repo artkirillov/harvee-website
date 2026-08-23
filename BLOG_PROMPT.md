@@ -121,11 +121,11 @@ Link to these by /blog/<slug>. Don't re-explain a topic another post owns — li
 - why-i-built-harvee-understanding-stress-through-data — founder story
 - harvee-is-live-understand-your-stress-like-never-before — launch announcement
 - harvee-is-an-apple-design-awards-finalist-here-s-what-that-means-to-me — ADA finalist announcement
+- why-summer-heat-quietly-strains-your-hrv-even-at-rest - how summer heat / temperature affects HRV and recovery (seasonal)
 
 # TOPIC BACKLOG (use if I haven't given a specific topic, pick the highest-value uncovered one)
 - Caffeine and your nervous system: timing, HRV, and sleep
 - What's a normal HRV by age? (and why the comparison trap matters — coordinate with what-your-wearable-s-hrv-number-actually-means)
-- How summer heat / temperature affects HRV and recovery (seasonal)
 - Cold exposure & sauna: what they actually do to HRV
 - Breathing exercises for HRV: a practical, science-backed guide (box, resonance, 4-7-8)
 - Zone 2 / aerobic training and long-term HRV
