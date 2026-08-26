@@ -34,14 +34,12 @@ permalink: /sitemap.xml
   </url>
   {%- endfor -%}
 
-  <!-- pSEO landing pages -->
+  <!-- pSEO landing pages: submitted only after editorial approval and factual review -->
   {%- for doc in site.pseo -%}
-    {%- if doc.sitemap != false -%}
+    {%- if doc.indexable == true and doc.last_modified_at -%}
   <url>
     <loc>{{ base }}{{ doc.url }}</loc>
-    <lastmod>{% if doc.last_modified_at %}{{ doc.last_modified_at | date_to_xmlschema }}{% else %}{{ site.time | date_to_xmlschema }}{% endif %}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>{% if doc.url contains 'guides' %}0.8{% else %}0.7{% endif %}</priority>
+    <lastmod>{{ doc.last_modified_at | date_to_xmlschema }}</lastmod>
   </url>
     {%- endif -%}
   {%- endfor -%}

@@ -77,8 +77,7 @@ uniqueness_body: |
   over time, using your personal baseline, read from the data your Apple Watch is already
   collecting. Not a score. Not a snapshot. A story your body is telling, made readable.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it
-  looks. For what it does to people's lives.
+  Harvee is designed for people who want to use the Apple Watch data they already have to notice patterns over time, rather than adding a separate wearable workflow.
 
 risk_reversal_body: |
   If Welltory's daily camera ritual still fits your morning, keep it. Try Harvee alongside for two

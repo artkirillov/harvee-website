@@ -72,8 +72,7 @@ uniqueness_body: |
   Both use HRV. The use cases diverge. Harvee is built for Apple Watch owners who want passive,
   continuous stress and recovery context across life — not only on mornings they remember to measure.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
-  For what it does to people's lives.
+  Harvee is designed for people who want to use the Apple Watch data they already have to notice patterns over time, rather than adding a separate wearable workflow.
 
 risk_reversal_body: |
   In a training block? HRV4Training may still earn its place. Off-season or life-heavy phase? Try

@@ -13,6 +13,18 @@
     <link rel="icon" type="image/x-icon" href="{{ '/images/favicon.webp' | relative_url }}">
 
     {% assign page_canonical = page.canonical_url | default: page.url | absolute_url %}
+    {% assign app_store_rating = site.data.pseo_app_store_rating %}
+    {% assign app_store_rating_is_current = false %}
+    {% if app_store_rating.rating_value and app_store_rating.rating_count and app_store_rating.source_url and app_store_rating.verified_at %}
+        {% assign rating_checked_on = site.time | date: "%Y-%m-%d" %}
+        {% if app_store_rating.expires_at %}
+            {% if app_store_rating.expires_at >= rating_checked_on %}
+                {% assign app_store_rating_is_current = true %}
+            {% endif %}
+        {% else %}
+            {% assign app_store_rating_is_current = true %}
+        {% endif %}
+    {% endif %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -27,11 +39,11 @@
         "operatingSystem": "iOS",
         "applicationCategory": "HealthApplication",
         "url": "{{ site.app_store_url }}",
-        {% if site.app_store_rating_count != "" and site.app_store_rating_count != nil %}
+        {% if app_store_rating_is_current %}
         "aggregateRating": {
           "@type": "AggregateRating",
-          "ratingValue": "{{ site.app_store_rating_value }}",
-          "ratingCount": "{{ site.app_store_rating_count }}"
+          "ratingValue": "{{ app_store_rating.rating_value }}",
+          "ratingCount": "{{ app_store_rating.rating_count }}"
         },
         {% endif %}
         "offers": {
@@ -194,17 +206,48 @@
             {% endif %}
         </section>
 
-        <!-- Credentials -->
+        <!-- Credentials: render only claims with a source and current verification date -->
+        {% assign today = site.time | date: "%Y-%m-%d" %}
+        {% assign current_claim_count = 0 %}
+        {% for claim in site.data.pseo_credentials.claims %}
+            {% assign claim_is_current = false %}
+            {% if claim.source_url and claim.verified_at %}
+                {% if claim.expires_at %}
+                    {% if claim.expires_at >= today %}
+                        {% assign claim_is_current = true %}
+                    {% endif %}
+                {% else %}
+                    {% assign claim_is_current = true %}
+                {% endif %}
+            {% endif %}
+            {% if claim_is_current %}
+                {% assign current_claim_count = current_claim_count | plus: 1 %}
+            {% endif %}
+        {% endfor %}
+        {% if current_claim_count > 0 %}
         <aside class="pseo-credentials" aria-label="Harvee credentials">
             <div class="pseo-credentials-inner">
                 <p class="pseo-credentials-title">Recognition</p>
                 <div class="pseo-pill-row">
-                    <span class="pseo-pill">🏆 Apple Design Awards Finalist 2026 — Social Impact</span>
-                    <span class="pseo-pill">📈 #1 Health &amp; Fitness in 5 countries — Jan 2026</span>
-                    <span class="pseo-pill">⭐ 4.7 stars globally on the App Store</span>
+                    {% for claim in site.data.pseo_credentials.claims %}
+                        {% assign claim_is_current = false %}
+                        {% if claim.source_url and claim.verified_at %}
+                            {% if claim.expires_at %}
+                                {% if claim.expires_at >= today %}
+                                    {% assign claim_is_current = true %}
+                                {% endif %}
+                            {% else %}
+                                {% assign claim_is_current = true %}
+                            {% endif %}
+                        {% endif %}
+                        {% if claim_is_current %}
+                    <a class="pseo-pill" href="{{ claim.source_url | escape }}">{{ claim.text | escape }}</a>
+                        {% endif %}
+                    {% endfor %}
                 </div>
             </div>
         </aside>
+        {% endif %}
 
         <!-- Bag 4: Objections -->
         <section class="pseo-health-section" aria-labelledby="pseo-objections-headline">
@@ -225,16 +268,18 @@
             </div>
         </section>
 
-        <!-- Bag 5: Testimonials carousel -->
+        <!-- Testimonials are opt-in so reviews stay relevant to the page's intent. -->
+        {% assign testimonial_ids = page.testimonial_ids %}
+        {% if testimonial_ids and testimonial_ids.size > 0 %}
         <section class="pseo-health-section" aria-labelledby="pseo-testimonials-headline">
             <div class="pseo-section-intro">
                 <div class="pseo-section-icon pseo-section-icon--testimonials" aria-hidden="true">⭐️</div>
                 <p class="pseo-section-eyebrow">App Store reviews</p>
                 <h2 id="pseo-testimonials-headline" class="pseo-section-heading">What people said before they tried it — and after</h2>
             </div>
-            <p class="pseo-testimonials-sub">{{ site.app_store_rating_value }} stars on the App Store</p>
-            {% assign testimonial_ids = page.testimonial_ids | default: site.data.pseo_reviews.default %}
-            {% if testimonial_ids %}
+            {% if app_store_rating_is_current %}
+            <p class="pseo-testimonials-sub">{{ app_store_rating.rating_value }} stars on the App Store</p>
+            {% endif %}
             <div class="pseo-gallery-wrap" style="padding-bottom: 80px;">
                 <div class="pseo-card-gallery" role="region" aria-label="Testimonials" tabindex="0">
                     {% for id in testimonial_ids %}
@@ -251,8 +296,8 @@
                     {% endfor %}
                 </div>
             </div>
-            {% endif %}
         </section>
+        {% endif %}
 
         <!-- Bag 6: Risk reversal -->
         <section class="pseo-band" aria-labelledby="pseo-risk-headline">
@@ -320,6 +365,35 @@
             </div>
             {% endif %}
         </section>
+
+        {% if page.axis != 'index' %}
+        <!-- Evidence and wellness boundaries are supplied by each page's editorial review record. -->
+        <section class="pseo-health-section pseo-evidence" aria-labelledby="pseo-evidence-headline">
+            <div class="pseo-section-intro">
+                <p class="pseo-section-eyebrow">Review and sources</p>
+                <h2 id="pseo-evidence-headline" class="pseo-section-heading">Sources and methodology</h2>
+                <div class="pseo-body">
+                    {% if page.reviewed_at %}
+                    <p>Last reviewed {{ page.reviewed_at | date: "%B %-d, %Y" }}{% if page.reviewed_by %} by {{ page.reviewed_by | escape }}{% endif %}.</p>
+                    {% endif %}
+                    {% if page.source_urls and page.source_urls.size > 0 %}
+                    <h3>Sources</h3>
+                    <ul>
+                        {% for source_url in page.source_urls %}
+                        <li><a href="{{ source_url | escape }}" rel="nofollow noopener">{{ source_url | escape }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                    {% if page.methodology_url %}
+                    <p><a href="{{ page.methodology_url | relative_url }}">Read Harvee's comparison and review methodology.</a></p>
+                    {% endif %}
+                    {% if page.medical_disclaimer %}
+                    <p><strong>Wellness notice:</strong> Harvee provides wellness insights and is not a medical device. It does not diagnose, treat, cure, or prevent any condition. If you have symptoms or concerns about your health, seek advice from a qualified healthcare professional.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </section>
+        {% endif %}
 
         <!-- Final CTA -->
         <section class="pseo-footer-cta" aria-label="Download Harvee">

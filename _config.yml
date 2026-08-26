@@ -17,8 +17,6 @@ author:
 # App Store (pSEO structured data, Smart App Banners)
 app_store_id: "6746194884"
 app_store_url: "https://apps.apple.com/us/app/id6746194884"
-app_store_rating_value: "4.7"
-app_store_rating_count: "649"
 
 # Build settings
 markdown: kramdown
@@ -66,6 +64,8 @@ defaults:
       type: pseo
     values:
       layout: pseo
+      indexable: false
+      medical_disclaimer: true
 
 # Plugins
 plugins:
