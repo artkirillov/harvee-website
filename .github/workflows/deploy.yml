@@ -3,6 +3,8 @@ name: Deploy site to GitHub Pages
 on:
   push:
     branches: [ main ]
+  pull_request:
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -43,12 +45,16 @@ jobs:
           bundle exec jekyll build --trace
           test -d _site || (echo "_site not generated" && exit 1)
 
+      - name: Validate rendered pSEO governance
+        run: ruby scripts/validate_pseo_seo.rb
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

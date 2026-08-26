@@ -68,8 +68,7 @@ uniqueness_body: |
   Elite HRV serves athletes who will follow a protocol. Harvee serves Apple Watch owners who won't —
   but still need to see overload coming.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
-  For what it does to people's lives.
+  Harvee is designed for people who want to use the Apple Watch data they already have to notice patterns over time, rather than adding a separate wearable workflow.
 
 risk_reversal_body: |
   Elite HRV users who quit the protocol but kept the strap in a drawer are Harvee's core audience.

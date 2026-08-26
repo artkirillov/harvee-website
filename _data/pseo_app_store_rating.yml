@@ -1,0 +1,11 @@
+# Add App Store rating data only after it has been verified against a public source.
+# Use ISO-8601 strings for verified_at and expires_at. Omitting this record suppresses
+# rating text and AggregateRating markup on pSEO pages.
+#
+# Example:
+# rating_value: "4.7"
+# rating_count: "649"
+# source_url: "https://apps.apple.com/us/app/id6746194884"
+# verified_at: "2026-08-26"
+# expires_at: "2026-11-26"
+{}
