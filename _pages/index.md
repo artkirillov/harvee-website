@@ -9,8 +9,7 @@ canonical_url: "https://harvee.app/"
 <section class="section section-hero module-1-up-super">
     <div class="section-content">
         <img class="image-chiclet" src="{{ '/images/icon.webp' | relative_url }}" alt="Harvee icon" />
-        <h1 class="typography-hero-eyebrow"></h1>
-        <h2 class="typography-headline">When you understand your body, you stop guessing.</h2>
+        <h1 class="typography-headline">When you understand your body, you stop guessing.</h1>
         <div class="wrapper">
             <p class="typography-intro-elevated">Harvee reads patterns in your Apple Watch data and translates them into plain-language insights. See when stress is building, understand what is driving it, and get practical next steps for sleep, movement, recovery, and calmer days.</p>
             <picture>
