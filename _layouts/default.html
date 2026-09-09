@@ -4,6 +4,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     {% include analytics.html %}
+    {% if page.url == '/' %}
+    <link rel="preload" as="image" href="{{ '/images/main-large.webp' | relative_url }}" imagesrcset="{{ '/images/main-small.webp' | relative_url }} 600w, {{ '/images/main-large.webp' | relative_url }} 1960w" imagesizes="(max-width: 800px) 600px, 1960px" fetchpriority="high">
+    {% endif %}
     <!-- SEO Meta Tags -->
     {% include seo.html %}
     <link rel="stylesheet" type="text/css" href="{{ '/files/navbar.css' | relative_url }}">
