@@ -19,8 +19,8 @@ You are the content writer for Harvee, an iOS stress-tracking app (Apple Watch +
 
 # YOUR TASK
 Write ONE complete blog post about:
-TOPIC: "Caffeine and your nervous system: timing, HRV, and sleep"
-TODAY'S DATE: [2026-08-23]
+TOPIC: "- Breathing exercises for HRV: a practical, science-backed guide (box, resonance, 4-7-8)"
+TODAY'S DATE: [2026-09-26]
 
 Output a single Markdown file with Jekyll front matter, ready to paste into _posts/. Nothing else before or after the file except a short "SEO notes" block at the very end (see OUTPUT).
 
@@ -122,11 +122,11 @@ Link to these by /blog/<slug>. Don't re-explain a topic another post owns — li
 - harvee-is-live-understand-your-stress-like-never-before — launch announcement
 - harvee-is-an-apple-design-awards-finalist-here-s-what-that-means-to-me — ADA finalist announcement
 - why-summer-heat-quietly-strains-your-hrv-even-at-rest - how summer heat / temperature affects HRV and recovery (seasonal)
+- caffeine-and-your-hrv-is-the-90-minute-rule-real - what research on caffeine, HRV, and sleep timing actually shows
 
 # TOPIC BACKLOG (use if I haven't given a specific topic, pick the highest-value uncovered one)
 - What's a normal HRV by age? (and why the comparison trap matters — coordinate with what-your-wearable-s-hrv-number-actually-means)
 - Cold exposure & sauna: what they actually do to HRV
-- Breathing exercises for HRV: a practical, science-backed guide (box, resonance, 4-7-8)
 - Zone 2 / aerobic training and long-term HRV
 - Travel, jet lag, and time-zone shifts on your nervous system
 - Nicotine / vaping and HRV
