@@ -1,0 +1,22 @@
+{% if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "Harvee",
+  "operatingSystem": "iOS, watchOS",
+  "applicationCategory": "HealthApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Peak Labs Ltd"
+  },
+  "url": "{{ site.url }}",
+  "sameAs": "{{ site.app_store_url }}"
+}
+</script>
+{% endif %}

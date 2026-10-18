@@ -70,7 +70,7 @@ uniqueness_body: |
   in the background since day one.
 
 risk_reversal_body: |
-  Install Harvee, grant HealthKit access, and wear Series 10 to sleep for a week. The free Today tab
+  Install Harvee, grant HealthKit access, and use Series 10 with Harvee for at least 30 days while Harvee builds its baseline. The free Today tab
   tells you whether passive HRV interpretation fits your life before you consider Harvee+ for Patterns.
 
   Your Series 10 keeps logging to Health if Harvee isn't for you. No hardware commitment beyond the

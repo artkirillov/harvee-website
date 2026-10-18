@@ -34,7 +34,7 @@ solution_intro: "Harvee syncs with HealthKit, uses overnight HRV from your Serie
 
 screenshots:
   - "Seven-day HRV direction relative to your Series 9 baseline"
-  - "Daily stress view synthesising heart rate and sleep from your watch"
+  - "Daily stress view estimated from HRV, with heart rate and sleep shown for context"
   - "28-day pattern chart for retrospective clarity"
 
 features:

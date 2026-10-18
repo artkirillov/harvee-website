@@ -46,6 +46,8 @@ related_posts: []
 - [Apple Watch SE (2nd gen)](/apple-watch-se-2/) — Best-value entry point for Apple Watch HRV monitoring.
 - [watchOS 11](/watchos-11/) — Vitals, Training Load, and how Harvee reads the new HealthKit model.
 
+- [How Harvee estimates stress](/how-harvee-estimates-stress/) — How Harvee uses your HRV and personal 30-day baseline.
+
 ## Use cases
 
 - [Stress tracking on Apple Watch](/stress-tracking-apple-watch/) — See stress patterns, not just heart rate spikes.

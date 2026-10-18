@@ -9,6 +9,7 @@
     {% endif %}
     <!-- SEO Meta Tags -->
     {% include seo.html %}
+    {% include application-schema.html %}
     <link rel="stylesheet" type="text/css" href="{{ '/files/navbar.css' | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/files/footer.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/files/main.css' | relative_url }}" type="text/css">
@@ -31,6 +32,9 @@
                         <ul class="gf-footer-legal-links" role="list">
                             <li class="gf-footer-legal-links-item" role="listitem">
                                 <a class="gf-footer-legal-link" href="{{ '/guides/' | relative_url }}">Guides</a>
+                            </li>
+                            <li class="gf-footer-legal-links-item" role="listitem">
+                                <a class="gf-footer-legal-link" href="{{ '/how-harvee-estimates-stress/' | relative_url }}">How Harvee estimates stress</a>
                             </li>
                             <li class="gf-footer-legal-links-item" role="listitem">
                                 <a class="gf-footer-legal-link" href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a>

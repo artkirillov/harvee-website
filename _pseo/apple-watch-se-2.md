@@ -47,7 +47,7 @@ features:
   - name: "Upgrade-optional"
     description: "When Harvee shows sustained overload, you'll know if the issue is load — not missing sensors on SE 2."
 
-trigger: "You unboxed SE 2, wore it to sleep for a week, and opened Health to HRV you didn't understand. Harvee's first baseline week made the next month readable — no Series upgrade required."
+trigger: "You unboxed SE 2, wore it to sleep for a week, and opened Health to HRV you didn't understand. Harvee needs at least 30 days of HRV data to build its baseline — no Series upgrade required."
 
 objections:
   - question: "What's different about SE 2 HRV vs first-gen SE?"
@@ -67,7 +67,7 @@ uniqueness_body: |
   data it's already collecting.
 
 risk_reversal_body: |
-  SE 2 owners often install three health apps and delete two within a week. Try Harvee alone for seven
+  SE 2 owners often install three health apps and delete two within a week. Try Harvee alone
   days of sleep wear. The Today tab is free and designed for first-time HRV users — one takeaway per day,
   not a dashboard avalanche.
 
@@ -102,5 +102,5 @@ Week one: wear to sleep, open Harvee briefly each morning. Week two: baseline st
 
 That's the puzzle Harvee helps solve: not what is my number today, but what has my nervous system been doing while I was busy living.
 
-Harvee is not a medical device. Use it as body wisdom, not as a substitute for care when you need professional support.
+Harvee is not a medical device and does not diagnose or treat any condition.
 
