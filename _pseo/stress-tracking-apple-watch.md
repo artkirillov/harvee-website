@@ -31,7 +31,7 @@ profile_exclusions:
   - "You don't own an Apple Watch. Harvee is built entirely on Apple Watch and HealthKit."
   - "You want live biofeedback during meditation only. Harvee focuses on longitudinal stress patterns."
 
-solution_intro: "Harvee reads HRV, sleep, and heart rate from your Apple Watch and translates them into daily stress context and multi-week trends — so you see accumulation before you crash."
+solution_intro: "Harvee estimates physiological stress from HRV and shows sleep and heart rate for context — so you can follow your personal pattern over time."
 
 screenshots:
   - "Daily stress view — one screen, one takeaway"
@@ -58,7 +58,7 @@ objections:
   - question: "How is this different from Apple Health?"
     answer: "Health stores heart rate and HRV without stress framing or personal baselines. Harvee adds interpretation."
   - question: "Does Apple Watch actually measure stress?"
-    answer: "Apple Watch infers physiological stress from HRV, heart rate, and sleep — not your thoughts. Harvee makes that signal readable over weeks."
+    answer: "Harvee estimates physiological stress from HRV, not from heart rate or sleep. Harvee compares your daily average HRV with your own 30-day average."
   - question: "Will Harvee drain my battery?"
     answer: "Harvee reads data already in Health. Minimal watch impact."
 
@@ -92,11 +92,11 @@ Harvee emphasises the shape of load: direction, duration, recovery following or 
 
 ### Personal baseline, not population average
 
-What's stressful physiologically differs person to person. Harvee learns your Apple Watch normal over two weeks, then flags meaningful deviations. The goal is one clear daily takeaway — not a wall of metrics that becomes another worry.
+What's stressful physiologically differs person to person. Harvee needs at least 30 days of HRV data to build its baseline, then compares your daily average HRV with your own 30-day average. The goal is one clear daily takeaway — not a wall of metrics that becomes another worry.
 
 ### Practical use for professionals
 
 If your weeks are unpredictable — deadlines, travel, caregiving — passive Apple Watch stress tracking fits better than rituals you'll skip. Wear to sleep, open Harvee briefly, adjust sleep or load when the trend says so.
 
-Harvee is not a medical device. It's body wisdom for people who want data to inform rest, not replace professional care when needed.
+Harvee is not a medical device. Harvee is not a medical device and does not diagnose or treat any condition.
 

@@ -7,7 +7,7 @@ axis: usecase
 deep_dive_headline: "Reading Apple Watch HRV without the guesswork"
 
 problem_headline: "Your Apple Watch measures HRV every night. Most people don't know what it means."
-problem_subheadline: "RMSSD in milliseconds is accurate and useless without your personal baseline."
+problem_subheadline: "RMSSD in milliseconds needs your personal baseline."
 problem_body: |
   Open Apple Health. Find Heart Rate Variability. You'll see numbers — 42ms, 51ms, 38ms — with no legend
   explaining whether today's reading is fine, concerning, or meaningless noise.

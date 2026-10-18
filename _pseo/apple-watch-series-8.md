@@ -52,7 +52,7 @@ trigger: "Crash detection never fired. Overnight HRV did its job silently. Harve
 
 objections:
   - question: "Series 8 added temperature sensing — does Harvee use wrist temperature?"
-    answer: "Harvee focuses on HRV, sleep, and heart rate from HealthKit. Temperature can inform context in Health, but Harvee's core stress model is built on HRV baselines and trends."
+    answer: "Harvee estimates physiological stress from HRV. Harvee shows sleep and heart rate from HealthKit for context."
   - question: "I bought Series 8 for crash detection. Is HRV still worth tracking?"
     answer: "Crash detection and HRV serve different jobs. Overnight HRV tells you whether your nervous system is recovering from daily load — often weeks before a health crisis you'd notice subjectively."
   - question: "My Series 8 is two years old — is the HRV data still good enough?"
@@ -68,7 +68,7 @@ uniqueness_body: |
   aren't planning to upgrade every cycle but still want their health archive to mean something.
 
 risk_reversal_body: |
-  Connect Harvee to HealthKit and keep wearing Series 8 to sleep for one week. The Today tab is free —
+  Connect Harvee to HealthKit and keep using Series 8 with Harvee for at least 30 days while Harvee builds its baseline. The Today tab is free —
   you'll see whether daily stress framing matches your lived experience before spending anything on Harvee+.
 
   If Series 8 data feels noisy, check that you're wearing the watch snugly overnight. Harvee reads
