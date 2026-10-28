@@ -19,8 +19,8 @@ You are the content writer for Harvee, an iOS stress-tracking app (Apple Watch +
 
 # YOUR TASK
 Write ONE complete blog post about:
-TOPIC: "- Breathing exercises for HRV: a practical, science-backed guide (box, resonance, 4-7-8)"
-TODAY'S DATE: [2026-09-26]
+TOPIC: "Doomscrolling / screen time and nervous system activation"
+TODAY'S DATE: [2026-10-27]
 
 Output a single Markdown file with Jekyll front matter, ready to paste into _posts/. Nothing else before or after the file except a short "SEO notes" block at the very end (see OUTPUT).
 
@@ -123,6 +123,7 @@ Link to these by /blog/<slug>. Don't re-explain a topic another post owns — li
 - harvee-is-an-apple-design-awards-finalist-here-s-what-that-means-to-me — ADA finalist announcement
 - why-summer-heat-quietly-strains-your-hrv-even-at-rest - how summer heat / temperature affects HRV and recovery (seasonal)
 - caffeine-and-your-hrv-is-the-90-minute-rule-real - what research on caffeine, HRV, and sleep timing actually shows
+- box-breathing-vs-resonance-vs-4-7-8-which-helps-your-hrv - what the controlled research shows about each one
 
 # TOPIC BACKLOG (use if I haven't given a specific topic, pick the highest-value uncovered one)
 - What's a normal HRV by age? (and why the comparison trap matters — coordinate with what-your-wearable-s-hrv-number-actually-means)
@@ -135,7 +136,6 @@ Link to these by /blog/<slug>. Don't re-explain a topic another post owns — li
 - Perimenopause/menopause and HRV
 - Overtraining: how your data warns you before performance drops
 - Resting heart rate: what's "good" and what trends mean
-- Doomscrolling / screen time and nervous system activation
 
 # OUTPUT
 1) The complete Markdown file (front matter + body), ready to save as:
