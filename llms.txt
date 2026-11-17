@@ -85,7 +85,7 @@ The app has three tabs: **Today**, **Patterns**, and **Playbook**.
 
 The Today tab is your primary dashboard for daily use and is fully available in the free version. Here, you'll find all the activities and metrics influencing your stress levels.
 
-At the top of the screen, you'll see your average stress level for the current day, calculated relative to your baseline from the past month. If your stress stays high for several days in a row, it's a sign that your body is gradually overloading and approaching burnout — the right time to slow down, reduce your workload, and prioritize rest. Over time, with the right balance, your stress levels should drop, showing that your body is recovering.
+At the top of the screen, you'll see your average stress level for the current day, calculated relative to your rolling 30-day baseline. If your stress stays high for several days in a row, it's a sign that your body is gradually overloading and approaching burnout — the right time to slow down, reduce your workload, and prioritize rest. Over time, with the right balance, your stress levels should drop, showing that your body is recovering.
 
 The Today tab also displays physiological indicators that help you spot early signs of declining health or potential illness:
 - Body temperature

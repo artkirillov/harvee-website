@@ -94,7 +94,7 @@ That consistency is the foundation Harvee builds on. A single Series 9 HRV readi
 
 Series 9 benefits from refinements Apple introduced across recent generations: faster heart rate sampling, better motion rejection during sleep, and tighter integration with sleep focus modes. When you wear Series 9 overnight, HealthKit typically receives one or more HRV samples from the sleep window — the cleanest autonomic snapshot of your day.
 
-Harvee weights those overnight readings because they're less contaminated by caffeine, meetings, and movement than daytime samples. Over two weeks, a baseline emerges: your normal range, your typical weekly rhythm, and the direction you're trending. That's when HRV stops being a curiosity and starts being a decision tool.
+Harvee weights those overnight readings because they're less contaminated by caffeine, meetings, and movement than daytime samples. Over 30 days, a baseline emerges: your normal range, your typical weekly rhythm, and the direction you're trending. That's when HRV stops being a curiosity and starts being a decision tool.
 
 ### Series 9 vs Apple Health: the interpretation gap
 

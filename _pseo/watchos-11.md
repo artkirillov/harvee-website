@@ -96,7 +96,7 @@ Think of Vitals as a smoke alarm: something changed recently. Harvee as the inve
 
 Physical training is one stressor. Work, parenting, poor sleep, and illness stack on top. Training Load captures the exercise slice. HRV reflects the total autonomic bill. watchOS 11 gives you better exercise accounting; Harvee helps you see whether your nervous system is paying it off.
 
-For people who upgraded iPhone and watch together, the first two weeks after update are recalibration — for Apple software and for your baseline. Wear consistently, let Harvee relearn your normal, then trends restabilise.
+For people who upgraded iPhone and watch together, the first 30 days after update are recalibration — for Apple software and for your baseline. Wear consistently, let Harvee relearn your normal, then trends restabilise.
 
 ### Staying current without anxiety
 

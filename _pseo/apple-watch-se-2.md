@@ -17,7 +17,7 @@ problem_body: |
   same category of data Series and Ultra write to HealthKit. What SE 2 owners often skip is the interpretation
   layer — assuming they need to upgrade before an app can help.
 
-  Harvee is built for exactly that: read SE 2 HRV passively, learn your baseline in the first two weeks,
+  Harvee is built for exactly that: read SE 2 HRV passively, learn your baseline over the first 30 days,
   and show whether stress is building or recovery is holding. No hardware upsell required.
 
 profile_bullets:
@@ -55,7 +55,7 @@ objections:
   - question: "SE 2 added crash detection — does that relate to HRV?"
     answer: "Separate features. Crash detection uses motion and fall sensors. HRV uses the optical heart sensor during sleep. Harvee reads the latter for stress-recovery trends."
   - question: "I'm a new Apple Watch owner with SE 2 — where do I start?"
-    answer: "Wear SE 2 to sleep for two weeks, install Harvee, grant Health access. The Playbook tab explains HRV in plain language while your baseline forms."
+    answer: "Wear SE 2 to sleep consistently for 30 days, install Harvee, and grant Health access. The Playbook tab explains HRV in plain language while your baseline forms."
   - question: "Can SE 2 replace a dedicated HRV app with morning measurements?"
     answer: "If you want passive overnight trends, yes. If you need controlled morning RMSSD for sport periodisation, a dedicated athlete tool may still fit alongside Harvee."
   - question: "Does SE 2 work with family setup or a child's watch?"
@@ -98,7 +98,7 @@ You give up ECG, always-on display tiers, and some advanced sensors on certain m
 
 ### Building your baseline on SE 2
 
-Week one: wear to sleep, open Harvee briefly each morning. Week two: baseline stabilises, deviations become meaningful. Week three: you can look back at a hard stretch and see when HRV started sliding — often before you named it stress.
+During the first 30 days, wear it to sleep and open Harvee briefly each morning while your baseline forms. After that, you can look back at a hard stretch and see when HRV started sliding — often before you named it stress.
 
 That's the puzzle Harvee helps solve: not what is my number today, but what has my nervous system been doing while I was busy living.
 
