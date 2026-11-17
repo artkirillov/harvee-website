@@ -15,13 +15,14 @@
     {% assign page_canonical = page.canonical_url | default: page.url | absolute_url %}
     {% assign app_store_rating = site.data.pseo_app_store_rating %}
     {% assign app_store_rating_is_current = false %}
+    {% assign rating_checked_on = site.time | date: "%Y-%m-%d" %}
+    {% assign rating_verified_on = app_store_rating.verified_at | date: "%Y-%m-%d" %}
     {% if app_store_rating.rating_value and app_store_rating.rating_count and app_store_rating.source_url and app_store_rating.verified_at %}
-        {% assign rating_checked_on = site.time | date: "%Y-%m-%d" %}
-        {% if app_store_rating.expires_at %}
+        {% if rating_verified_on <= rating_checked_on and app_store_rating.expires_at %}
             {% if app_store_rating.expires_at >= rating_checked_on %}
                 {% assign app_store_rating_is_current = true %}
             {% endif %}
-        {% else %}
+        {% elsif rating_verified_on <= rating_checked_on %}
             {% assign app_store_rating_is_current = true %}
         {% endif %}
     {% endif %}
@@ -211,7 +212,8 @@
         {% assign current_claim_count = 0 %}
         {% for claim in site.data.pseo_credentials.claims %}
             {% assign claim_is_current = false %}
-            {% if claim.source_url and claim.verified_at %}
+            {% assign claim_verified_on = claim.verified_at | date: "%Y-%m-%d" %}
+            {% if claim.source_url and claim.verified_at and claim_verified_on <= today %}
                 {% if claim.expires_at %}
                     {% if claim.expires_at >= today %}
                         {% assign claim_is_current = true %}
@@ -231,7 +233,8 @@
                 <div class="pseo-pill-row">
                     {% for claim in site.data.pseo_credentials.claims %}
                         {% assign claim_is_current = false %}
-                        {% if claim.source_url and claim.verified_at %}
+                        {% assign claim_verified_on = claim.verified_at | date: "%Y-%m-%d" %}
+                        {% if claim.source_url and claim.verified_at and claim_verified_on <= today %}
                             {% if claim.expires_at %}
                                 {% if claim.expires_at >= today %}
                                     {% assign claim_is_current = true %}
