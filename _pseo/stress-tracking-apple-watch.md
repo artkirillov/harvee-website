@@ -92,7 +92,7 @@ Harvee emphasises the shape of load: direction, duration, recovery following or 
 
 ### Personal baseline, not population average
 
-What's stressful physiologically differs person to person. Harvee learns your Apple Watch normal over two weeks, then flags meaningful deviations. The goal is one clear daily takeaway — not a wall of metrics that becomes another worry.
+What's stressful physiologically differs person to person. Harvee learns your Apple Watch normal over 30 days, then flags meaningful deviations. The goal is one clear daily takeaway — not a wall of metrics that becomes another worry.
 
 ### Practical use for professionals
 

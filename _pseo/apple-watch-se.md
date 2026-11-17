@@ -97,7 +97,7 @@ Harvee closes that gap. Same HealthKit pipeline as Series owners. Same baseline 
 
 The habit that matters most: wear SE to sleep. Charging overnight is the main reason SE owners lose HRV continuity — the watch sits on a puck while the body generates no samples. SE charges quickly; a short top-up before bed often beats leaving it off all night.
 
-Once overnight data flows, Harvee learns your range over two weeks. Then you can answer questions Health can't: Is this week heavier than my normal? Did recovery follow that stressful sprint? Am I trending toward overload or climbing back?
+Once overnight data flows, Harvee learns your range over 30 days. Then you can answer questions Health can't: Is this week heavier than my normal? Did recovery follow that stressful sprint? Am I trending toward overload or climbing back?
 
 ### SE is enough — upgrade for features, not for Harvee
 

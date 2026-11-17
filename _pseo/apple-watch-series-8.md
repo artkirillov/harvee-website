@@ -95,7 +95,7 @@ It's not. The optical sensor on Series 8 records beat-to-beat variation the same
 
 ### How Harvee uses Series 8 sleep data
 
-Harvee weights overnight HRV because that's when your autonomic nervous system is least disturbed by meetings, caffeine, and movement. Over seven to fourteen days, Harvee establishes your personal range: what's normal for your Series 8 on your sleep schedule. After that, deviations mean something specific — a hard week, illness brewing, or genuine recovery climbing back.
+Harvee weights overnight HRV because that's when your autonomic nervous system is least disturbed by meetings, caffeine, and movement. Over 30 days, Harvee establishes your personal range: what's normal for your Series 8 on your sleep schedule. After that, deviations mean something specific — a hard week, illness brewing, or genuine recovery climbing back.
 
 Series 8 users who travel or parent often see the pattern before the crash: HRV sliding for ten days while subjective energy holds. That's the detective moment Harvee is built for — your body filing clues before your calendar admits overload.
 

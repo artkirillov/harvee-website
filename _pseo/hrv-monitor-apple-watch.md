@@ -30,7 +30,7 @@ profile_exclusions:
   - "You don't own an Apple Watch. Harvee monitors HRV exclusively from Apple Watch HealthKit data."
   - "You want laboratory-grade morning HRV with a chest strap protocol. Other tools specialise in that workflow."
 
-solution_intro: "Harvee monitors your Apple Watch HRV continuously, establishes your personal baseline over two weeks, and shows whether readings are trending toward recovery or overload."
+solution_intro: "Harvee monitors your Apple Watch HRV continuously, establishes your personal baseline over 30 days, and shows whether readings are trending toward recovery or overload."
 
 screenshots:
   - "Your HRV relative to 7-day and 4-week baselines"

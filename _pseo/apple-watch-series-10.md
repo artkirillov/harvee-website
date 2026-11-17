@@ -44,7 +44,7 @@ features:
   - name: "Always-on friendly daily checks"
     description: "Glance at stress context on iPhone without hunting through Health. Built for the same quick interactions Series 10 encourages on the wrist."
   - name: "Personal baseline calibration"
-    description: "Your normal HRV on Series 10 may differ from averages online. Harvee learns your range in the first two weeks, then flags meaningful deviations."
+    description: "Your normal HRV on Series 10 may differ from averages online. Harvee learns your range over the first 30 days, then flags meaningful deviations."
   - name: "No extra sensors"
     description: "Uses the optical heart sensor Apple already built into Series 10. No strap, no camera measurement, no second device."
 
@@ -56,7 +56,7 @@ objections:
   - question: "Series 10 charges faster — should I take it off less at night?"
     answer: "Faster charging reduces the temptation to skip overnight wear. Harvee benefits most when Series 10 stays on your wrist through sleep — that's when the cleanest HRV samples arrive."
   - question: "I upgraded from Series 7 — will Harvee need to recalibrate?"
-    answer: "Harvee builds a fresh personal baseline from your current wear pattern. A new watch is a good time to reconnect and let the first two weeks establish your new normal."
+    answer: "Harvee builds a fresh personal baseline from your current wear pattern. A new watch is a good time to reconnect and let the first 30 days establish your new normal."
   - question: "Does the larger Series 10 screen mean more battery drain for HRV?"
     answer: "Harvee doesn't run additional sensing on the watch. It reads HRV Apple Health already stores. Series 10 battery behaviour is unchanged by installing Harvee on iPhone."
   - question: "Is Series 10 HRV better than Ultra for stress tracking?"
@@ -93,7 +93,7 @@ That continuity is what HRV monitoring actually needs. Missing three nights in a
 
 Many Series 10 owners open Health once, see HRV numbers, google "normal HRV," and close the tab more confused than before. Population averages are misleading. A 45ms reading might be excellent for you and mediocre for someone else. Without a personal baseline, monitoring creates worry instead of insight.
 
-Harvee spends the first two weeks learning your Series 10 normal: typical range, weekly rhythm, how your HRV responds after hard training or short sleep. After calibration, the question shifts from "is this number good?" to "is this pattern going somewhere I should act on?"
+Harvee spends the first 30 days learning your Series 10 normal: typical range, weekly rhythm, how your HRV responds after hard training or short sleep. After calibration, the question shifts from "is this number good?" to "is this pattern going somewhere I should act on?"
 
 ### What Harvee adds beyond Apple's apps
 

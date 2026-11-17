@@ -117,7 +117,7 @@ The best HRV apps understand this nuance. They don't just give you a number and 
 
 1. **Start with morning measurements.** Your HRV is most stable and meaningful first thing in the morning, before coffee, stress, and the chaos of daily life kick in. Most of these apps recommend taking a structured reading right after you wake up, while still sitting in bed.
 
-2. **Give it time.** You need at least two weeks of consistent measurements to establish a meaningful baseline. Your HRV will fluctuate day-to-day based on sleep, stress, exercise, alcohol, illness, and a dozen other factors. The pattern over time is what matters.
+2. **Give it time.** You need 30 days of consistent measurements to establish a meaningful baseline. Your HRV will fluctuate day-to-day based on sleep, stress, exercise, alcohol, illness, and a dozen other factors. The pattern over time is what matters.
 
 3. **Don't obsess over daily changes.** A single low reading doesn't mean you're dying. A single high reading doesn't mean you're superhuman. Look at weekly trends and how your average is changing over months.
 
@@ -125,7 +125,7 @@ The best HRV apps understand this nuance. They don't just give you a number and 
 
 ## A Few Final Thoughts
 
-If you're just getting started with HRV tracking, start simple. Pick one app, use it consistently for at least two weeks to establish your baseline, and resist the temptation to check it obsessively throughout the day (ironic advice for an article about stress tracking, but here we are).
+If you're just getting started with HRV tracking, start simple. Pick one app, use it consistently for 30 days to establish your baseline, and resist the temptation to check it obsessively throughout the day (ironic advice for an article about stress tracking, but here we are).
 
 Remember that your Apple Watch (despite its limitations for absolute precision) is actually quite good at tracking trends. All of these apps compensate for the watch's quirks by re-processing the raw data and focusing on relative changes rather than absolute values. The real value isn't in any single measurement but in the pattern that emerges over time.
 

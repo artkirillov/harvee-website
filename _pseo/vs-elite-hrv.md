@@ -36,7 +36,7 @@ profile_exclusions:
 solution_intro: "Harvee uses overnight Apple Watch HRV to build your personal baseline and show how everyday stress and recovery are trending — no chest strap, no morning window, no export workflow required to get value."
 
 screenshots:
-  - "Personal HRV baseline forming over your first two weeks"
+  - "Personal HRV baseline forming over your first 30 days"
   - "Stress and recovery patterns across a demanding work month"
   - "Clear daily guidance without coaching-dashboard complexity"
 
