@@ -70,8 +70,7 @@ uniqueness_body: |
 
   Harvee exists for Apple Watch owners who need both signals in one readable story.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
-  For what it does to people's lives.
+  Harvee is designed for people who want to use the Apple Watch data they already have to notice patterns over time, rather than adding a separate wearable workflow.
 
 risk_reversal_body: |
   If Livity's daily stress score already changes how you pace your day, switching may add little.

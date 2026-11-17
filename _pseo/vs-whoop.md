@@ -68,8 +68,7 @@ uniqueness_body: |
   If your wrist is Apple-shaped, Harvee is built for that constraint — not as a compromise, as a design
   choice. One device, one charge routine, one Health archive you control.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact — for what it does to people's
-  lives, not for feature checklists.
+  Harvee is designed for people who want to use the Apple Watch data they already have to notice patterns over time, rather than adding a separate wearable workflow.
 
 risk_reversal_body: |
   Ex-WHOOP users often miss the single recovery number for the first week. Give Harvee fourteen nights

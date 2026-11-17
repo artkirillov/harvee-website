@@ -125,6 +125,10 @@ Tips:
     google_site_verification: "prtEYsT9vqrzuqVht0Dop6DX382az0CO8GHqONa3iU8"
     ```
 
+### pSEO Editorial Approval
+
+pSEO pages are public but `noindex` by default. Set `indexable: true` only after the page has a factual review record, a truthful material-change date, sources, a methodology link, and a wellness disclaimer. The full frontmatter contract and review checklist are in [`docs/pseo-editorial-workflow.md`](docs/pseo-editorial-workflow.md). Run `bundle exec jekyll build --trace && ruby scripts/validate_pseo_seo.rb` after changing pSEO content or templates.
+
 ### Troubleshooting
 
 - Port already in use
@@ -150,9 +154,10 @@ Tips:
 
 - `run-jekyll.sh` – serve with livereload, incremental builds, auto-regeneration; finds free ports.
 - `run-jekyll-simple.sh` – simpler serve without livereload; robust for conflicts.
-- `build-jekyll.sh` – production build (`bundle exec jekyll build --incremental`).
+- `build-jekyll.sh` – production build followed by rendered pSEO governance validation.
 - `new-post.sh` – scaffold a new post with correct filename and frontmatter.
 - `check-seo.sh` – verify meta/title/keywords/image/H2/wordcount/links/frontmatter.
 - `pre-publish.sh` – start server and run an interactive publishing checklist.
+- `scripts/validate_pseo_seo.rb` – validate pSEO approval metadata and rendered robots, canonical, H1, JSON-LD, and sitemap behavior.
 
 

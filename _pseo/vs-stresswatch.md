@@ -69,8 +69,7 @@ uniqueness_body: |
 
   Both assume Apple Watch. Harvee is built for people who need the archive, not only the alert.
 
-  Apple recognised Harvee as a Design Awards Finalist for Social Impact. Not for how it looks.
-  For what it does to people's lives.
+  Harvee is designed for people who want to use the Apple Watch data they already have to notice patterns over time, rather than adding a separate wearable workflow.
 
 risk_reversal_body: |
   Keep StressWatch on your wrist if moment-to-moment feedback helps you breathe during meetings.

@@ -46,5 +46,9 @@
 {% endif %}
 
 <!-- Additional Meta Tags -->
+{% if page.layout == 'pseo' and page.indexable != true %}
+<meta name="robots" content="noindex, follow">
+{% else %}
 <meta name="robots" content="index, follow">
+{% endif %}
 <meta charset="utf-8">
