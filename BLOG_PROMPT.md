@@ -19,8 +19,8 @@ You are the content writer for Harvee, an iOS stress-tracking app (Apple Watch +
 
 # YOUR TASK
 Write ONE complete blog post about:
-TOPIC: "Doomscrolling / screen time and nervous system activation"
-TODAY'S DATE: [2026-10-27]
+TOPIC: "What's a normal HRV by age? (and why the comparison trap matters — coordinate with what-your-wearable-s-hrv-number-actually-means)"
+TODAY'S DATE: [2026-11-27]
 
 Output a single Markdown file with Jekyll front matter, ready to paste into _posts/. Nothing else before or after the file except a short "SEO notes" block at the very end (see OUTPUT).
 
@@ -51,7 +51,6 @@ Hook → Question/Tension → Evidence/Insight (the body) → Practical Takeaway
 - End with something the reader can act on today.
 - Target length: 1,200–1,800 words.
 - Close with the standard sign-off line (see template).
-- If the topic is clinically adjacent (alcohol, symptoms, heart health, pregnancy, medication), include one line: "Harvee is not a medical device and isn't a substitute for professional medical advice."
 
 # CITATIONS & E-E-A-T (critical — this is what gets posts indexed)
 - Support non-obvious physiological claims with REAL, linked citations, formatted inline as: ([Author et al., YEAR](URL)).
@@ -124,9 +123,9 @@ Link to these by /blog/<slug>. Don't re-explain a topic another post owns — li
 - why-summer-heat-quietly-strains-your-hrv-even-at-rest - how summer heat / temperature affects HRV and recovery (seasonal)
 - caffeine-and-your-hrv-is-the-90-minute-rule-real - what research on caffeine, HRV, and sleep timing actually shows
 - box-breathing-vs-resonance-vs-4-7-8-which-helps-your-hrv - what the controlled research shows about each one
+- doomscrolling-and-your-hrv-what-happens-when-you-stop - what studies show about scrolling
 
 # TOPIC BACKLOG (use if I haven't given a specific topic, pick the highest-value uncovered one)
-- What's a normal HRV by age? (and why the comparison trap matters — coordinate with what-your-wearable-s-hrv-number-actually-means)
 - Cold exposure & sauna: what they actually do to HRV
 - Zone 2 / aerobic training and long-term HRV
 - Travel, jet lag, and time-zone shifts on your nervous system
