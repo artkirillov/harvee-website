@@ -14,7 +14,10 @@ canonical_url: "https://harvee.app/"
             <p class="typography-intro-elevated">Harvee reads patterns in your Apple Watch data and translates them into plain-language insights. See when stress is building, understand what is driving it, and get practical next steps for sleep, movement, recovery, and calmer days.</p>
             <div class="awards-row" aria-label="Harvee awards and recognition">
                 <a class="award-badge" href="https://developer.apple.com/design/awards/" aria-label="Finalist, Apple Design Awards 2026, Social Impact">
-                    <span class="award-badge-mark" aria-hidden="true"></span>
+                    <span class="award-badge-mark" aria-hidden="true">
+                        <svg class="award-badge-laurel" viewBox="0 0 48 30" focusable="false"><path d="M13 25C5 22 3 13 7 5M8 19l5-2M6 13l6-1M8 7l5 2M35 25c8-3 10-12 6-20M40 19l-5-2M42 13l-6-1M40 7l-5 2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M10 22c4-1 5-4 5-7M8 16c4 0 6-2 7-5M10 9c3 1 5 2 7 5M38 22c-4-1-5-4-5-7M40 16c-4 0-6-2-7-5M38 9c-3 1-5 2-7 5" fill="currentColor"/></svg>
+                        <span></span>
+                    </span>
                     <span class="award-badge-copy">
                         <span class="award-badge-label">Finalist</span>
                         <span class="award-badge-title">Apple Design Awards</span>
@@ -22,7 +25,10 @@ canonical_url: "https://harvee.app/"
                     </span>
                 </a>
                 <a class="award-badge" href="https://apps.apple.com/us/app/id6746194884" aria-label="Editors’ Choice, App Store">
-                    <span class="award-badge-mark" aria-hidden="true"></span>
+                    <span class="award-badge-mark" aria-hidden="true">
+                        <svg class="award-badge-laurel" viewBox="0 0 48 30" focusable="false"><path d="M13 25C5 22 3 13 7 5M8 19l5-2M6 13l6-1M8 7l5 2M35 25c8-3 10-12 6-20M40 19l-5-2M42 13l-6-1M40 7l-5 2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M10 22c4-1 5-4 5-7M8 16c4 0 6-2 7-5M10 9c3 1 5 2 7 5M38 22c-4-1-5-4-5-7M40 16c-4 0-6-2-7-5M38 9c-3 1-5 2-7 5" fill="currentColor"/></svg>
+                        <span></span>
+                    </span>
                     <span class="award-badge-copy">
                         <span class="award-badge-label">Editors’ Choice</span>
                         <span class="award-badge-title">App Store</span>
