@@ -2656,6 +2656,14 @@ br.small {
     z-index: 1;
 }
 
+.apple-mark {
+    position: relative;
+    z-index: 1;
+    width: 42px;
+    height: 42px;
+    color: #fff;
+}
+
 .award-badge-laurel {
     position: absolute;
     top: 1px;
@@ -2718,6 +2726,11 @@ br.small {
         left: -17px;
         width: 100px;
         height: 65px;
+    }
+
+    .apple-mark {
+        width: 31px;
+        height: 31px;
     }
 }
 
