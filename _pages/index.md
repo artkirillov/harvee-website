@@ -12,6 +12,23 @@ canonical_url: "https://harvee.app/"
         <h1 class="typography-headline">When you understand your body, you stop guessing.</h1>
         <div class="wrapper">
             <p class="typography-intro-elevated">Harvee reads patterns in your Apple Watch data and translates them into plain-language insights. See when stress is building, understand what is driving it, and get practical next steps for sleep, movement, recovery, and calmer days.</p>
+            <div class="awards-row" aria-label="Harvee awards and recognition">
+                <a class="award-badge" href="https://developer.apple.com/design/awards/" aria-label="Finalist, Apple Design Awards 2026, Social Impact">
+                    <span class="award-badge-mark" aria-hidden="true"></span>
+                    <span class="award-badge-copy">
+                        <span class="award-badge-label">Finalist</span>
+                        <span class="award-badge-title">Apple Design Awards</span>
+                        <span class="award-badge-detail">2026 · Social Impact</span>
+                    </span>
+                </a>
+                <a class="award-badge" href="https://apps.apple.com/us/app/id6746194884" aria-label="Editors’ Choice, App Store">
+                    <span class="award-badge-mark" aria-hidden="true"></span>
+                    <span class="award-badge-copy">
+                        <span class="award-badge-label">Editors’ Choice</span>
+                        <span class="award-badge-title">App Store</span>
+                    </span>
+                </a>
+            </div>
             <picture>
                 <source media="(max-width: 800px)" srcset="{{ '/images/main-small.webp' | relative_url }}" />
                 <source srcset="{{ '/images/main-large.webp' | relative_url }}" />
